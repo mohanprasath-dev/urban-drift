@@ -1,0 +1,1005 @@
+{
+  "search_metadata": {
+    "id": "6ac7620a05bb59379dfce9a7",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/YTwW5Y43oarlosUMQkPr6b5jq_KPnz_bvvv6P2nDhIk/6ac7620a05bb59379dfce9a7.json",
+    "markdown_endpoint": "https://serpapi.com/searches/YTwW5Y43oarlosUMQkPr6b5jq_KPnz_bvvv6P2nDhIk/6ac7620a05bb59379dfce9a7.md",
+    "created_at": "2026-10-08 09:27:38 UTC",
+    "processed_at": "2026-10-08 09:27:38 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/shops+near+Mylapore+Chennai//data=!3m1!4b1!4m2!2m1!6e5?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/YTwW5Y43oarlosUMQkPr6b5jq_KPnz_bvvv6P2nDhIk/6ac7620a05bb59379dfce9a7.html",
+    "prettify_html_file": "https://serpapi.com/searches/YTwW5Y43oarlosUMQkPr6b5jq_KPnz_bvvv6P2nDhIk/6ac7620a05bb59379dfce9a7.prettify",
+    "total_time_taken": 0.97
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "shops near Mylapore Chennai",
+    "google_domain": "google.com",
+    "hl": "en"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "shops near Mylapore Chennai"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Aishwarya Stores",
+      "place_id": "ChIJBdUDDrA0sjsRX3OyrHI8TkM",
+      "data_id": "0x3bb234b00e03d505:0x434e3c72acb2735f",
+      "data_cid": "4849880311945917279",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bb234b00e03d505%3A0x434e3c72acb2735f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bb234b00e03d505%3A0x434e3c72acb2735f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.0323894,
+        "longitude": 80.2684877
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJBdUDDrA0sjsRX3OyrHI8TkM",
+      "provider_id": "/g/1td3pybc",
+      "rating": 4.2,
+      "reviews": 622,
+      "type": "Gift shop",
+      "types": [
+        "Gift shop",
+        "Bag shop",
+        "Glassware store",
+        "Pen store",
+        "Plastic products supplier"
+      ],
+      "address": "41, S Mada St, Alamelu Manga Puram, Sankarapuram, Mylapore, Chennai, Tamil Nadu 600004, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "thursday": "9 AM–10 PM",
+        "friday": "9 AM–10 PM",
+        "saturday": "9 AM–10 PM",
+        "sunday": "9 AM–10 PM",
+        "monday": "9 AM–10 PM",
+        "tuesday": "9 AM–10 PM",
+        "wednesday": "9 AM–10 PM"
+      },
+      "phone": "+91 44 4210 1118",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFlgvCWApuRwfD_6wZ-RcF7kFK32TcwWofzrx_0KNqYusAoazOOp_44vo9mrzWJAGxtDlO2IJRtKhfxqSIGHGEnZWzmJDe7zWd3U3gaD28EVnDQiRtS1Y6-PD7wZ9P5lK5djhkS8Lp-qNFVe6kNLJcIe9KXajdwIvRNMx2s6AVEsVPLolwpwa8Vi5Tq44CCE8tGdoY=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/jT2rqHicHcTJckRAAADQyilfYxi7VOWgNGIJwoRwUco6Y-lG08an5mtSlXd4vy-vHcZofaPpoeMuLYTtUG9rvZRwwvWELyUc6RatFFrg8aRVt-JBZwztriUq2kLSgFwkGRWWhtQbDsfeSpLA5lyOnHG8Od1WFRan76Oc53eojMuZ2Kp5YDD4rGWH2OmaY44s88PUpyw5RxvU0plU3DfXFoCV9XgCX_cQR9dUpAIgkUwJhMERqkfXR7KLqNkz4lrsPdcurVpxfopHRaw99D4PdhXVWF_jwIUDQaSQ47twm3le03QZmxVM38mVYRiq-7-kpj-fkVoH"
+    },
+    {
+      "position": 2,
+      "title": "Sri Vijaya Stores",
+      "place_id": "ChIJAToTcdNnUjoRtFtbKjz0i4k",
+      "data_id": "0x3a5267d371133a01:0x898bf43c2a5b5bb4",
+      "data_cid": "9911283944204753844",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a5267d371133a01%3A0x898bf43c2a5b5bb4&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a5267d371133a01%3A0x898bf43c2a5b5bb4&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.034671999999999,
+        "longitude": 80.2683026
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJAToTcdNnUjoRtFtbKjz0i4k",
+      "provider_id": "/g/1tqfzrvn",
+      "rating": 4.1,
+      "reviews": 717,
+      "type": "Religious goods store",
+      "types": [
+        "Religious goods store"
+      ],
+      "type_id": "religious_goods_store",
+      "type_ids": [
+        "religious_goods_store"
+      ],
+      "address": "New No.78, Old 24, N Mada St, next to Indian Bank, Branch, Mylapore, Chennai, Tamil Nadu 600004, India",
+      "country": "India",
+      "open_state": "Open · Closes 8 PM",
+      "hours": "Open · Closes 8 PM",
+      "operating_hours": {
+        "thursday": "10 AM–8 PM",
+        "friday": "10 AM–8 PM",
+        "saturday": "10 AM–8 PM",
+        "sunday": "10:30 AM–7:30 PM",
+        "monday": "10 AM–8 PM",
+        "tuesday": "10 AM–8 PM",
+        "wednesday": "10 AM–8 PM"
+      },
+      "phone": "+91 96003 18844",
+      "website": "https://www.srivijayastores.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Delivery",
+            "Onsite services"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "delivery": true
+      },
+      "user_review": "\"The store's location in Mylapore is convenient and easily accessible.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TALhP_gHy5oFbZ-rlBj9pczQekSEimIVmIkqTzkFDFgiH_0G7xP2lb0aB6RsyBvbnCpjE-5D2N3nAWwL2EoAKGmafu_3WaGsPQrVHTELEJpcPlrBDnrgw0P_LMNM5UspGgGzc=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/-1oG4XicHcRdboIwAADgE1U6CBqW-ACjFDckVZkkvhBosPyUtrY4hAN6h93GxO_h-38246jMp2XxxlkxKRmv76bWVIqxFuOKysFiygBqgLH8NG9nL_OThhQsnl0ZVRegedB5ii6Huj-hdtidh11_y5Y-CiPWxgXEmwexeQXLYH00c_BXiS_VIeCGduoIP58SG0n_Bw_l9V44eYkNOehznKEEfStKuA5CodkESZHs0737axRmeKHb6QNCCJr3FIgXTKVEtA"
+    },
+    {
+      "position": 3,
+      "title": "AISHWARYA STORES MYLAPORE",
+      "place_id": "ChIJudrRLixnUjoRMr3DZMSmM0M",
+      "data_id": "0x3a52672c2ed1dab9:0x4333a6c464c3bd32",
+      "data_cid": "4842397386787765554",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a52672c2ed1dab9%3A0x4333a6c464c3bd32&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a52672c2ed1dab9%3A0x4333a6c464c3bd32&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.0363405,
+        "longitude": 80.2678828
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJudrRLixnUjoRMr3DZMSmM0M",
+      "provider_id": "/g/11q97mknk6",
+      "rating": 4.4,
+      "reviews": 187,
+      "unclaimed_listing": true,
+      "type": "Home goods store",
+      "types": [
+        "Home goods store",
+        "Gift shop"
+      ],
+      "address": "Picnic Plaza, 3, Ramakrishna Mutt Rd, Luz Corner, Kapali Thottam, Mylapore, Chennai, Tamil Nadu 600004, India",
+      "country": "India",
+      "open_state": "Open · Closes 9:30 PM",
+      "hours": "Open · Closes 9:30 PM",
+      "operating_hours": {
+        "thursday": "9 AM–9:30 PM",
+        "friday": "9 AM–9:30 PM",
+        "saturday": "9 AM–9:30 PM",
+        "sunday": "9 AM–9:30 PM",
+        "monday": "9 AM–9:30 PM",
+        "tuesday": "9 AM–9:30 PM",
+        "wednesday": "9 AM–9:30 PM"
+      },
+      "phone": "+91 44 4861 2349",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TUzPeRU4q1zhJKqqIFz5yl-Qv4J7i-8YIBaJpPXMiUmdi_YnoQSOy5Js0RiiLAEImP_chGt6brXtwqB3uqRcxRMPBi1R7vt4i6fbwU9m0icVSvPe1fB4G9ROZBcAiP7DI6V9M=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/EpBl7XicHcRRboIwGADgE1VKRBATH2jmCDi0VnHqC5m10j8BSm0F4YDeYbdZsu_h-31La1uzcJxKTielUmUlnkY8uGqsaOyEq9opW4O4QcaJNt8whId8pILlnnZHma61Tj7H2VChXeelAaD5OSE_aUtPGeT1DYpzo3b77TBLDWYAX9EqqWnBZWz96-Nke02mT834i2WUgMuCznrg3699HtYY-HHfUeHeiReHbHshPAIafCT-McyWvYsxRvJ_jpo_SzpEHA"
+    },
+    {
+      "position": 4,
+      "title": "Reliance Digital",
+      "place_id": "ChIJK863Hi1mUjoRzULo83AiXeA",
+      "data_id": "0x3a52662d1eb7ce2b:0xe05d2270f3e842cd",
+      "data_cid": "16167116105853715149",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a52662d1eb7ce2b%3A0xe05d2270f3e842cd&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a52662d1eb7ce2b%3A0xe05d2270f3e842cd&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.0383651,
+        "longitude": 80.267881
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJK863Hi1mUjoRzULo83AiXeA",
+      "provider_id": "/g/11b7hm_316",
+      "rating": 4.6,
+      "reviews": 4551,
+      "type": "Electronics store",
+      "types": [
+        "Electronics store"
+      ],
+      "address": "No 201, Guru Towers, Royapettah High Rd, Vinayagar Kovil, Mylapore, Chennai, Tamil Nadu 600004, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "thursday": "10 AM–10 PM",
+        "friday": "10 AM–10 PM",
+        "saturday": "10 AM–10 PM",
+        "sunday": "10 AM–10 PM",
+        "monday": "10 AM–10 PM",
+        "tuesday": "10 AM–10 PM",
+        "wednesday": "10 AM–10 PM"
+      },
+      "phone": "+91 8071 889 935",
+      "website": "https://store.reliancedigital.in/reliance-digital-guru-towers-chennai-electronics-retail-and-repair-shop-mylapore-chennai-240523/Home?utm_source=locator&utm_medium=googleplaces",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QJ-Emo8hEXEyO3FFxDx3hMhD9cyeoj00WnHRSHzKqJIO0vUJnhAqdAZsMOEirqegTnya7EDdA0yswtezdXZilTbGg43xBmuiXlPOfqqcK0PhbphE88VxKWmVLSuHnI9VZh0xs9mQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/F3E0pHicHcTRToMwFADQL-q4BhPBxAcMnQycbG4C4c2V2ouhLV2La_eHfoJ_Y7LzcP5-0bnZPkbRhPFKaC0mvlh-Zlo5rtyKaRmJ2RJmiY2yt3YM6b4kVOoEaUdDHa_XPvcxbjFPWeD6G6BVxfuhuFam3NTw81EqzMyQ9XZb0_FsuDiq8PlA8yGDYC-OX4euH6fj6UXcx_5ZLmM37eovY1gFOzzNSJOk8VUrm9fDUqhN2vQI3qZy_3S5AwCCtxlR_0d-Rrs"
+    },
+    {
+      "position": 5,
+      "title": "B.L.T. STORES",
+      "place_id": "ChIJyyzTAtNnUjoRYokdBVtyEHA",
+      "data_id": "0x3a5267d302d32ccb:0x7010725b051d8962",
+      "data_cid": "8075079867128711522",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a5267d302d32ccb%3A0x7010725b051d8962&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a5267d302d32ccb%3A0x7010725b051d8962&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.034190899999999,
+        "longitude": 80.270502
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJyyzTAtNnUjoRYokdBVtyEHA",
+      "provider_id": "/g/11cltsh5nz",
+      "rating": 4,
+      "reviews": 114,
+      "type": "Craft store",
+      "types": [
+        "Craft store"
+      ],
+      "address": "No.46, N Mada St, Vinayaka Nagar Colony, Mylapore, Chennai, Tamil Nadu 600004, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "thursday": "10 AM–10 PM",
+        "friday": "10 AM–10 PM",
+        "saturday": "10 AM–10 PM",
+        "sunday": "10 AM–10 PM",
+        "monday": "10 AM–10 PM",
+        "tuesday": "10 AM–10 PM",
+        "wednesday": "10 AM–10 PM"
+      },
+      "phone": "+91 44 4218 5152",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Rf39UBMlDNmgqioVlLbRCxp9EzWIFR0mNnY6Zp9jG3XVWDFegVe5wu5yWDXM8mL9nycq9o0kGQzbFKtHfC7PEU1fETZA2J--6mNyw1Svzko681qv71psWBhJSR0pUyKom3pkV1QQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/oICU93icHcRLcoIwAADQE0WSMqJxpgsV8M8ULMSyJBOCQj6YKA039AjepjN9i_d-NdZqs_C8rvEnXCnesYdhd6qkZdJOqBIe1wZQA4y3TMjV4az2cb46dWEieH9VRXessvWvxtFIdnEGRSJ_glLj28a_FCSMGS_YdHhMHQkvp7k4YulojxVsN-lYxQe7rdezryhHdfRdLj_2AAQicQM6P8dWBXPUP2dIG7Jq9ucM6twdlPB1W6A0_RwQhBA0_1Mg_wDaJUTN"
+    },
+    {
+      "position": 6,
+      "title": "New Mylai Stationaries",
+      "place_id": "ChIJm3lCuNNnUjoRjPrIpK6Kcr8",
+      "data_id": "0x3a5267d3b842799b:0xbf728aaea4c8fa8c",
+      "data_cid": "13795241091282827916",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a5267d3b842799b%3A0xbf728aaea4c8fa8c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a5267d3b842799b%3A0xbf728aaea4c8fa8c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.032131699999999,
+        "longitude": 80.269772
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJm3lCuNNnUjoRjPrIpK6Kcr8",
+      "provider_id": "/g/1td9nz4n",
+      "rating": 4.5,
+      "reviews": 207,
+      "type": "Stationery store",
+      "types": [
+        "Stationery store",
+        "Gift shop"
+      ],
+      "address": "10, New, S Mada St, Mylapore, Chennai, Tamil Nadu 600004, India",
+      "country": "India",
+      "open_state": "Open · Closes 9:30 PM",
+      "hours": "Open · Closes 9:30 PM",
+      "operating_hours": {
+        "thursday": "9 AM–9:30 PM",
+        "friday": "9 AM–9:30 PM",
+        "saturday": "9 AM–9:30 PM",
+        "sunday": "9 AM–9:30 PM",
+        "monday": "9 AM–9:30 PM",
+        "tuesday": "9 AM–9:30 PM",
+        "wednesday": "9 AM–9:30 PM"
+      },
+      "phone": "+91 44 4236 0030",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TNUIx52OBwt0RAcrJbysg2EmrJk9zGvtmuSzhMrTOhxE0pOaUOyf4BJXbr-zbXNMvbn7MENqMDbQ0qL3PnO_xNzz2_K1GXn1JQ4pctDe2rwF0MuB60L2dUp5s1Nu5yTncyaC8gYZgFH3Od=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/sP6RYXicHcTNTsMgAADgJ2KldHXOxMPqup86wGkbq5dlsA6MK2VA18JLevZtTPwO3--PdE7bhyi6yGQiuk5cmt42hnfKNcpNeNdGQlvALbDRgrx_-XlJqu2YIpoNDr4uuCmYtwLlrSm-52F9c23_FiQ2JZVjDjU9VtSfp1lRMwMCqwm-MTXDObniJdvD6y55UfQwkhDQ4Tle1you9lPN3bJBZlhB3Gd3cIdOlU5tTPrUl4r749O9-PgUq01CT49DDCEE8n8O1B8G5EfG"
+    },
+    {
+      "position": 7,
+      "title": "REX -A SQUARE FASHION MYLAPORE",
+      "place_id": "ChIJQXJQSS1mUjoRG0nc4kMIARQ",
+      "data_id": "0x3a52662d49507241:0x14010843e2dc491b",
+      "data_cid": "1441442443397187867",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a52662d49507241%3A0x14010843e2dc491b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a52662d49507241%3A0x14010843e2dc491b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.0369394,
+        "longitude": 80.26617209999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQXJQSS1mUjoRG0nc4kMIARQ",
+      "provider_id": "/g/1v2yx8_x",
+      "rating": 4.4,
+      "reviews": 427,
+      "type": "Clothing store",
+      "types": [
+        "Clothing store"
+      ],
+      "address": "39, Luz Church Rd, Visveswarapuram, Mylapore, Chennai, Tamil Nadu 600004, India",
+      "country": "India",
+      "open_state": "Open · Closes 9:30 PM",
+      "hours": "Open · Closes 9:30 PM",
+      "operating_hours": {
+        "thursday": "10:30 AM–9:30 PM",
+        "friday": "10:30 AM–9:30 PM",
+        "saturday": "10:30 AM–9:30 PM",
+        "sunday": "10:30 AM–9:30 PM",
+        "monday": "10:30 AM–9:30 PM",
+        "tuesday": "10:30 AM–9:30 PM",
+        "wednesday": "10:30 AM–9:30 PM"
+      },
+      "phone": "+91 98840 41163",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QAF8jGsqCrKr5SBjD51jZeO4lnPhu4sWirBplQFX0wHX5WPvBcN5eWpVJvAULcRfo16FvEQN9Aft4B0KoJZ7DAl6x3MM1vKMSYqgmtLy5WA8ofKfzJq7Y9_-EfLLRrrQVuaKkJMg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Q2brR3icHcTdroIgAADgJyJxSWVbF3jKmqhl7UR10xoDzEOigPbzhucRepu2vovv_V8619ip56lyOJBaS8U7yw3TteO1GzB982RjAbPAejin12dY4HhSLW37Y4hBu6iaI7868XWg6k3ZBZZeTdSoIj7A--qA6KaPWI44bfZJj39TthXaH8X9oshDLFwQQaKT03iO1egxzDK_J9nu2MqbS5-I4okWRLySdnwMz2Ah0nRrTLHvLuQvyeTs7kMIQfmdgfoDt4NEsA"
+    },
+    {
+      "position": 8,
+      "title": "Rangachari Cloth Store",
+      "place_id": "ChIJ4dquPjNmUjoRXSV46PSZqmQ",
+      "data_id": "0x3a5266333eaedae1:0x64aa99f4e878255d",
+      "data_cid": "7253779426984863069",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a5266333eaedae1%3A0x64aa99f4e878255d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a5266333eaedae1%3A0x64aa99f4e878255d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.0371893,
+        "longitude": 80.2624604
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ4dquPjNmUjoRXSV46PSZqmQ",
+      "provider_id": "/g/1x6q05m2",
+      "rating": 4.4,
+      "reviews": 2464,
+      "type": "Women's clothing store",
+      "types": [
+        "Women's clothing store",
+        "Clothing store"
+      ],
+      "address": "55, Luz Church Rd, near Nageshwarrao Park, Bhaskarapuram, Mylapore, Chennai, Tamil Nadu 600004, India",
+      "country": "India",
+      "open_state": "Open · Closes 8 PM",
+      "hours": "Open · Closes 8 PM",
+      "operating_hours": {
+        "thursday": "9:30 AM–8 PM",
+        "friday": "9:30 AM–8 PM",
+        "saturday": "9:30 AM–8 PM",
+        "sunday": "9:30 AM–8 PM",
+        "monday": "9:30 AM–8 PM",
+        "tuesday": "9:30 AM–8 PM",
+        "wednesday": "9:30 AM–8 PM"
+      },
+      "phone": "+91 44 2499 4545",
+      "website": "https://rangacharisarees.com/",
+      "description": "Long-standing resource for sarees. Textile showroom, in business since 1945, offering a wide range of traditional & modern sarees.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S04T39lc-C477sjCNPr-eMKGx79IJYmQ4_IqsgrJdB6PFt0vygXettWS0gf3tWLom0nC4hBag1CYKQpTCPKGNd5gpvFN_1mFkFy273QZ2uWVw7Rlf3Yt-ZiTimylPHidap8ceN=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/82ZXb3icHcTdboIwGADQJ6oUy1Yx8WI2wSmzASUyvDGm1MLW0ko_f3hCn8G3MfFcnOejAXB-GgS6ISNlrdLy4mUvbAeyg5GwJlDOI-GRD7542Q7xFkcFibVALKLU_zGe9Uiu08WdxstVZfLosDx71a_q-WeWAL4O6lcClFusTgTKH2twx6JmflQhq9LcFSxLF7z-UO6a8ENokv9kGFOS78eXcnejG30iFaB9W7Rm0Nl3Wx_dREg-u4UYY9S8F6h7AdfWQ9E"
+    },
+    {
+      "position": 9,
+      "title": "New Balaji Supermarket",
+      "place_id": "ChIJy4QWry1mUjoRpZLmmFH_u4I",
+      "data_id": "0x3a52662daf1684cb:0x82bbff5198e692a5",
+      "data_cid": "9420403771498205861",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a52662daf1684cb%3A0x82bbff5198e692a5&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a52662daf1684cb%3A0x82bbff5198e692a5&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.0399285,
+        "longitude": 80.2679362
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJy4QWry1mUjoRpZLmmFH_u4I",
+      "provider_id": "/g/1pxwn57v6",
+      "rating": 4.5,
+      "reviews": 615,
+      "type": "Grocery store",
+      "types": [
+        "Grocery store",
+        "Department store"
+      ],
+      "address": "85, Royapettah High Rd, Luz, Mylapore, Chennai, Tamil Nadu 600004, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "thursday": "7:30 AM–10 PM",
+        "friday": "7:30 AM–10 PM",
+        "saturday": "7:30 AM–10 PM",
+        "sunday": "7:30 AM–10 PM",
+        "monday": "7:30 AM–10 PM",
+        "tuesday": "7:30 AM–10 PM",
+        "wednesday": "7:30 AM–10 PM"
+      },
+      "phone": "+91 99403 20202",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T5eqtNbXT2-kGO_x2-PRWENSK4nyjDE1gTHmVP38OTmCkiI551ltkbInCMaRTpg3UjmMJnGt2j3dYruWuz3UdZw2Q06V6jTk7FP0G0tyHvxJzB7MjW2AfwFAnHidF-gv02YQH0=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/T-g99nicHcRJDoIwAADAFxVKK26JB1wANSBiFfFiFLBQoKAtIn7QN_gbE-cw308qZS3GqlqkWKFVRYukEckjqrhMuFSiqlRpLUAkgFANN8i6EdGTu3SvR4JAbm3OLwQ8P1i4u3WPd2y-0Cixy4OHhxtSzvJsqetaIfPrks-ci09qivesdFbckojhOHw0QfPG-_jUoi3sH_qM5APTgxaUnf18rd7TgcMCZNxa0-B2FpuAPiEKtzactBqEEKT_I8B_BTRDVg"
+    },
+    {
+      "position": 10,
+      "title": "Reliance Digital",
+      "place_id": "ChIJ_2Ws1DFmUjoRLu0SXlXPNdo",
+      "data_id": "0x3a526631d4ac65ff:0xda35cf555e12ed2e",
+      "data_cid": "15723701639591423278",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a526631d4ac65ff%3A0xda35cf555e12ed2e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a526631d4ac65ff%3A0xda35cf555e12ed2e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.0442676,
+        "longitude": 80.2653168
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_2Ws1DFmUjoRLu0SXlXPNdo",
+      "provider_id": "/g/11b7hk84mx",
+      "rating": 4.2,
+      "reviews": 1420,
+      "type": "Electronics store",
+      "types": [
+        "Electronics store"
+      ],
+      "address": "89, Dr Radha Krishnan Salai, Sullivan Garden, Mylapore, Chennai, Tamil Nadu 600004, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "thursday": "11 AM–10 PM",
+        "friday": "11 AM–10 PM",
+        "saturday": "11 AM–10 PM",
+        "sunday": "11 AM–10 PM",
+        "monday": "11 AM–10 PM",
+        "tuesday": "11 AM–10 PM",
+        "wednesday": "11 AM–10 PM"
+      },
+      "phone": "+91 8071 889 825",
+      "website": "https://store.reliancedigital.in/reliance-digital-mylapore-chennai-electronics-retail-and-repair-shop-mylapore-chennai-208802/Home?utm_source=locator&utm_medium=googleplaces",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SIe1EigIzPT18NzHUC6E4H5yTiaLrXBRm81DLL0rjyciULCW-7XerHpylDH04AAJjHA2F-Fo-fFeWtxfo58BZ35UK9med58LjPvKUf0rpUpQhy6m4l2YhNbjS6jdZJr6y4p6Xs=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/imMUOXicHcRRboIwAADQE1WKQkWTfaBIqjZEJw2Mv1kLpQHatNWtXnBn2G1MfB_v_084p-06CAaxmHVKdQO_W26Ymhyf3IypMei0BcwCG6RF1fvVZc_DXd_tn6cyTIonplu0i3Dsy_6bmHrzOSZhRgg00rOekm0FljU3WPshwzBK04PE6TwHuQJtziv326o42TSLmB5XI7_FCZGnx5G20Giqz8KjMRrmX6K4yguSt-ZgkI80qu3HTwghBOI9A9MLs5lDCQ"
+    },
+    {
+      "position": 11,
+      "title": "Babyhug - Chennai Mylapore",
+      "place_id": "ChIJnVf3bQpnUjoR25g493nE_hM",
+      "data_id": "0x3a52670a6df7579d:0x13fec479f73898db",
+      "data_cid": "1440804958922905819",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a52670a6df7579d%3A0x13fec479f73898db&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a52670a6df7579d%3A0x13fec479f73898db&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.0344863,
+        "longitude": 80.2693141
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJnVf3bQpnUjoR25g493nE_hM",
+      "provider_id": "/g/11k4t9xf37",
+      "rating": 4.9,
+      "reviews": 2792,
+      "type": "Baby store",
+      "types": [
+        "Baby store",
+        "Baby clothing store",
+        "Maternity store",
+        "Toy store"
+      ],
+      "address": "Old Door No.10, New Door, 64, N Mada St, Vinayaka Nagar Colony, Mylapore, Chennai, Tamil Nadu 600004, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "thursday": "10 AM–10 PM",
+        "friday": "10 AM–10 PM",
+        "saturday": "10 AM–10 PM",
+        "sunday": "10 AM–10 PM",
+        "monday": "10 AM–10 PM",
+        "tuesday": "10 AM–10 PM",
+        "wednesday": "10 AM–10 PM"
+      },
+      "phone": "+91 44 4766 2977",
+      "website": "http://www.firstcry.com/",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RmLBqqLg2vup1nHHqS8QKxEDc9pcXT9AdTSXgUc9Ia2G1Yqdsh2c8fKG9emPiyaQnbTnATw82tKrCyz0msLQr1p8wXo4bmpLGb6ZW4VPkHZT2oRNJq7M597n7M22UUqml-90ex7Q=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/WgPRV3icHcRLcoIwAADQE0VCRCGdcYGfgRZ0RIOiO4lpcEp-JBbxhh6ht-mMb_H-Xo1z2n54XtuMR1wp3rK7ZR1V0jHpRlQJj2sLqAXWizfH24B3Ip8bk3P0e9e-TFOzj4rssVpSrGlFcHwl-4qXFH9eUOKfzNU2iEbfWYKZ2N6GSyFrImPSR8hl3WJ4QmHzovN11FcqqIXOk3p6PgaH7U96JkjtNl8mXE9wKMM1QmVpRAswZI-wmPU-hBA07ymQ_wGzRLo"
+    },
+    {
+      "position": 12,
+      "title": "N. Mada St. Mada St. Mylapore",
+      "place_id": "ChIJzRxP4_FnUjoRFBNG6yKNu6o",
+      "data_id": "0x3a5267f1e34f1ccd:0xaabb8d22eb461314",
+      "data_cid": "12302581988208284436",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a5267f1e34f1ccd%3A0xaabb8d22eb461314&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a5267f1e34f1ccd%3A0xaabb8d22eb461314&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.0343029,
+        "longitude": 80.2695822
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJzRxP4_FnUjoRFBNG6yKNu6o",
+      "provider_id": "/g/11l5nv927t",
+      "rating": 4.3,
+      "reviews": 24,
+      "type": "Store",
+      "types": [
+        "Store"
+      ],
+      "address": "N Mada St, Vinayaka Nagar Colony, Mylapore, Chennai, Tamil Nadu 600004, India",
+      "country": "India",
+      "open_state": "Open now",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RM7tGm8MxQZP1Vh4gzFnvre6Zi2PE83I5FsV-y3BWdock1I2F2ETOyo0qLovHaILXkhqo-Q4Y66AejIfj5YLN1datnQ2uSt9HElGPsk3TnJishOVpLFJyJm-Vr7D4BiyTgy12goQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/flQjJ3icHcRJDoIwFADQE1VoQRwSFxhBIaigBIedqbVFoB9pHeoNPYK3MfEt3vcjtG7V2LJq4fQ4AK_ZXbGOgtRM6h6FxuKtQlQhZfmrXWlGm-VAz5vh8pUdU1wIl79D-eiYdyxJGgydqB-qAhlnujsDrXBEQhLkawP2LYHH4hQl-0rcAGXuwfN8do0u1_4hWeHzScuM3Ld6tAjqeaoqJ5dxqcS6aJMwNnGDim4wc6elybnBhEM2eWLbtpH4T5H8AZslRI4"
+    },
+    {
+      "position": 13,
+      "title": "CHENNAI CITI CENTRE",
+      "place_id": "ChIJ8X9W6P9nUjoR1PQDf-g24qg",
+      "data_id": "0x3a5267ffe8567ff1:0xa8e236e87f03f4d4",
+      "data_cid": "12169349515299779796",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a5267ffe8567ff1%3A0xa8e236e87f03f4d4&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a5267ffe8567ff1%3A0xa8e236e87f03f4d4&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.0429239,
+        "longitude": 80.2737717
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ8X9W6P9nUjoR1PQDf-g24qg",
+      "provider_id": "/g/11j3wrnx9d",
+      "rating": 3.9,
+      "reviews": 9471,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall"
+      ],
+      "address": "10/11, Dr Radha Krishnan Salai, Loganathan Colony, Mylapore, Chennai, Tamil Nadu 600004, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "thursday": "11 AM–10 PM",
+        "friday": "11 AM–10 PM",
+        "saturday": "9 AM–11 PM",
+        "sunday": "9 AM–11 PM",
+        "monday": "11 AM–10 PM",
+        "tuesday": "11 AM–10 PM",
+        "wednesday": "11 AM–10 PM"
+      },
+      "phone": "+91 99401 14424",
+      "website": "http://www.chennaiciticentre.in/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RoGOASO_jC1BRuQy-y8n0CesRVQTT87yZDzGUfCPRTngXQUGP_gJSZ5F13rBs2zC5gwMCtMjjoPGCwpTYrBzHlIu5Ii92FsOmamgvaqxxZkAhKHBjySx41f0DnJkrGeUUlMNSEcA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/LcHYtHicHcRJDoIwAADAF1WKSlwSD1C1LkF2Fy7GNLWI0CItQvmhT_A3Js5hvp9MqUrODaPIRgMmBCtoI2lNBFeUqwERpcEqCYgE0rAPp4eehQJ7duRdc2Q6YRNooKccIirDYxDH04lOlz1O7sgPY87OQYL9K9tFqbU2R7Ujhz2yWOsi5ea58DFqq_hSO_2m2DbW9jEbrqVX3kr2vr26Ln3a2X7j5DrqxuYdLvnuWWOaJIV7iFbEXrQmhBBk_wngP-vrRak"
+    },
+    {
+      "position": 14,
+      "title": "Max - Mylapore, Chennai",
+      "place_id": "ChIJQyyTMS1mUjoRmVsV-eOrCxg",
+      "data_id": "0x3a52662d31932c43:0x180babe3f9155b99",
+      "data_cid": "1732667477278940057",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a52662d31932c43%3A0x180babe3f9155b99&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a52662d31932c43%3A0x180babe3f9155b99&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.0372595,
+        "longitude": 80.2668107
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQyyTMS1mUjoRmVsV-eOrCxg",
+      "provider_id": "/g/11bxdt81n2",
+      "rating": 4,
+      "reviews": 1367,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall",
+        "Baby clothing store",
+        "Children's clothing store",
+        "Clothing store",
+        "Handbags shop",
+        "Men's clothing store",
+        "T-shirt store",
+        "Women's clothing store",
+        "Work clothes store"
+      ],
+      "address": "179, Luz Church Rd, Luz, Mylapore, Chennai, Tamil Nadu 600004, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "thursday": "10 AM–10 PM",
+        "friday": "10 AM–10 PM",
+        "saturday": "10 AM–10 PM",
+        "sunday": "10 AM–10 PM",
+        "monday": "10 AM–10 PM",
+        "tuesday": "10 AM–10 PM",
+        "wednesday": "10 AM–10 PM"
+      },
+      "phone": "+91 91500 85558",
+      "website": "https://stores.maxfashion.in/max-mylapore-chennai-c-o-trishla-apparels-pvt-ltd-shopping-centre-mylapore-chennai-105567/Home?utm_source=locator&utm_medium=googleplaces",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QpxpIdF5jvWXjxb3N50RWZCJM-1lAHWRksdK248k1k6sroMWJTgEIRgKBmrc2WGqfbGIYjdwAT_rorZ1KClZIVhrFduC69W0FfrGa8r__ZUlylSYPr1xkG7GGfDQcQtZV19NTdkg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/VQc_bHicHcRRToMwGADgE3W0m5vDxAdkUhkZEcR16wtxLRRpR_Fv59gRPYK3MfF7-H5_Ou9H9xAEplvMlLXKNBfXgLCDbwY_E_YcqNEh4ZALopx93sJinMZUJsv-mx366bTIl7hkPN7uEDHRCyu1k9n8bq2JXjmwO7at1HNaquzpDGLO6Fd7oumxl9eoqsECJ1lseLrvIJGXeBUynLRAP9ZQ1_zd3Mzb8RXIpOk9pe2mEIXnexLmldTq8Uowxqj7X6DhD-5YRWY"
+    },
+    {
+      "position": 15,
+      "title": "Poorvika Mobiles Mylapore",
+      "place_id": "ChIJYx9t-dJnUjoRUPSF5gINec8",
+      "data_id": "0x3a5267d2f96d1f63:0xcf790d02e685f450",
+      "data_cid": "14949994744141706320",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a5267d2f96d1f63%3A0xcf790d02e685f450&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a5267d2f96d1f63%3A0xcf790d02e685f450&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.0340207,
+        "longitude": 80.2678028
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJYx9t-dJnUjoRUPSF5gINec8",
+      "provider_id": "/g/124sqs8y8",
+      "rating": 4.9,
+      "reviews": 2136,
+      "type": "Cell phone store",
+      "types": [
+        "Cell phone store",
+        "Cell phone accessory store",
+        "Computer store"
+      ],
+      "address": "No:240, New No:72, Bus Depot, Old, Ramakrishna Mutt Rd, near Mandaveli, Venkatesa Agraharam, Mylapore, Chennai, Tamil Nadu 600004, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "thursday": "10 AM–10 PM",
+        "friday": "10 AM–10 PM",
+        "saturday": "10 AM–10 PM",
+        "sunday": "10 AM–10 PM",
+        "monday": "10 AM–10 PM",
+        "tuesday": "10 AM–10 PM",
+        "wednesday": "10 AM–10 PM"
+      },
+      "phone": "+91 44 4366 6666",
+      "website": "https://www.poorvika.com/stores/chennai/mylapore/2myl",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop",
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QTQQogRVJr09w7fk4_5kniggaZG1j5b10RBPSoh3v_tZPQ9LVT6fkq_MPgXRAgmDFbo_2j8Qo9RKEKySbWXbAolkgtLyOSO2BFFrym0y82zvJQfr8ap85nkD8YyRBSXPCAs18=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ZHTVXXicHcTRboIwFADQL0IKDi0me4ApJuqUFqLMFyIELlroRVox3QfuH_wbk52H8_prtO7VwrbbZjoBRGirh6qGEqWupJ6U2NnQK6tUlrKD_elqfJYyhsCPm4H4z3ktPnJPyCvA5bx2bl7hEB7GCTbTMdfnmPm7YzqrxT3_jiHjAXTLqMDcvVGGPt-utiYpTlkRYCtA78whObhhFA2mI4a6v-OG1QO99NSTYkl_DA-TLP4KlEM_nw4hxGr-Ly35BhmYRA8"
+    },
+    {
+      "position": 16,
+      "title": "Poorvika Mobiles Mylapore",
+      "place_id": "ChIJn_id9NFnUjoR_wchDP6gwSY",
+      "data_id": "0x3a5267d1f49df89f:0x26c1a0fe0c2107ff",
+      "data_cid": "2792690256932046847",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a5267d1f49df89f%3A0x26c1a0fe0c2107ff&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a5267d1f49df89f%3A0x26c1a0fe0c2107ff&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.0304253,
+        "longitude": 80.2669002
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJn_id9NFnUjoR_wchDP6gwSY",
+      "provider_id": "/g/124spwss_",
+      "rating": 4.8,
+      "reviews": 1750,
+      "type": "Cell phone store",
+      "types": [
+        "Cell phone store",
+        "Cell phone accessory store",
+        "Computer store"
+      ],
+      "address": "No:53/33, Ramakrishna Mutt Rd, Alamelu Manga Puram, Sankarapuram, Mylapore, Chennai, Tamil Nadu 600004, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "thursday": "10 AM–10 PM",
+        "friday": "10 AM–10 PM",
+        "saturday": "10 AM–10 PM",
+        "sunday": "10 AM–10 PM",
+        "monday": "10 AM–10 PM",
+        "tuesday": "10 AM–10 PM",
+        "wednesday": "10 AM–10 PM"
+      },
+      "phone": "+91 44 4366 6666",
+      "website": "https://www.poorvika.com/",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop",
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RYzej0jFUY_Gu7ET2wJp3g1UalNklO1oTFJMT7WB9LrYYYfZ2wjL0EvHQrvmv3rVPy2TUiyFNq8jjjvbATPuLikojYxs3ICOeWGNCB5Zy9bl9Bm_4GBcU6iRYR-IN-h10-wBBI=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Uw9SgHicFcfbDoIgAADQLyJRu9nWQ7Q0m1E5zNFLK0YqoZh4yX6wb-hvqpeznc87retSzwxDpvYgUSqRvNG8YqqoeVEPmMqNpNSAaaCNBY6z3gnpiwso3IievWayIla3Ke3EjC4S3-XOVMTdbMkkRk5QUUpvJ6sTAVy160PV5q1dHfe9RaKsd_FjKoRorwuyb4LsrgR9attf7njs4SUanXrnKh2Un4ceYtE4C2kIfAxSE4IOIX_emRDCf38yUHwBcQ9D_g"
+    },
+    {
+      "position": 17,
+      "title": "VIJAYA Book STORES",
+      "place_id": "ChIJ423xiS1mUjoRMt1NZyGWSfY",
+      "data_id": "0x3a52662d89f16de3:0xf6499621674ddd32",
+      "data_cid": "17746880876841393458",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a52662d89f16de3%3A0xf6499621674ddd32&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a52662d89f16de3%3A0xf6499621674ddd32&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.0325334,
+        "longitude": 80.2676773
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ423xiS1mUjoRMt1NZyGWSfY",
+      "provider_id": "/g/1tgf1n0s",
+      "rating": 4.2,
+      "reviews": 1220,
+      "type": "Book store",
+      "types": [
+        "Book store"
+      ],
+      "address": "24, S Mada St, Alamelu Manga Puram, Sankarapuram, Mylapore, Chennai, Tamil Nadu 600004, India",
+      "country": "India",
+      "open_state": "Open · Closes 9 PM",
+      "hours": "Open · Closes 9 PM",
+      "operating_hours": {
+        "thursday": "9 AM–9 PM",
+        "friday": "9 AM–9 PM",
+        "saturday": "9 AM–9 PM",
+        "sunday": "Closed",
+        "monday": "9 AM–9 PM",
+        "tuesday": "9 AM–9 PM",
+        "wednesday": "9 AM–9 PM"
+      },
+      "phone": "+91 44 2464 0007",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SxXkqewwutUnVIASmlwBWIgH7VAgMBabkHp0yPgHroXAryaBBT9tof5opIfIkcyrmct16bu-D3qI6xLxLn9B5CihXYs6d56aOPM7d2EY89Fyjt9yMBZSmpjxDnvod8lIlHzFt8=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/r8ApynicHcRLDoIwFADAE1VQA1ITF9RPaCJqgh90hwWLUtpKH0K9oGfwNibOYr6fEkCbqeOIcjzgSnFRtKZomJJQSBgwVTtcG8QMMk64Od0tTvq0ehZd18JBHmmY1KIjJ8qjyTHkMcmuVaRdu-NRo9KwsRkhewzq5ilNb7RitqkZDP1rixbjJ_X7db-WmHjze5mejZ97frbdxZN8tDwHeGUfgG1MLkmtH_1CvlQeCCqi9wqCWTd0XReV_xmSPySWRkQ"
+    },
+    {
+      "position": 18,
+      "title": "Ramraj Cotton - Mylapore, Chennai",
+      "place_id": "ChIJWx-JuPJnUjoRu6atNGNP-d4",
+      "data_id": "0x3a5267f2b8891f5b:0xdef94f6334ada6bb",
+      "data_cid": "16066960433125107387",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a5267f2b8891f5b%3A0xdef94f6334ada6bb&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a5267f2b8891f5b%3A0xdef94f6334ada6bb&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.0341024,
+        "longitude": 80.267789
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJWx-JuPJnUjoRu6atNGNP-d4",
+      "provider_id": "/g/11scpbx8zg",
+      "rating": 4.7,
+      "reviews": 337,
+      "type": "Clothing store",
+      "types": [
+        "Clothing store",
+        "Designer clothing store",
+        "Dress store",
+        "Fabric store",
+        "Formal wear store",
+        "Men's clothing store",
+        "Plus size clothing store",
+        "Tuxedo shop",
+        "Wedding store",
+        "Women's clothing store"
+      ],
+      "address": "68/242, Ramakrishna Mutt Rd, opposite Kabalishwarar Kovil, Venkatesa Agraharam, Mylapore, Chennai, Tamil Nadu 600004, India",
+      "country": "India",
+      "open_state": "Open · Closes 9:30 PM",
+      "hours": "Open · Closes 9:30 PM",
+      "operating_hours": {
+        "thursday": "9:30 AM–9:30 PM",
+        "friday": "9:30 AM–9:30 PM",
+        "saturday": "9:30 AM–9:30 PM",
+        "sunday": "9:30 AM–9:30 PM",
+        "monday": "9:30 AM–9:30 PM",
+        "tuesday": "9:30 AM–9:30 PM",
+        "wednesday": "9:30 AM–9:30 PM"
+      },
+      "phone": "+91 95144 56147",
+      "website": "https://ramrajcotton.in/?utm_source=gmb&utm_medium=organic&utm_campaign=sulekhapromanage_ramraj_cotton",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop",
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TflYqfKDk_t59uQwfxHJ0woqJcj4EpaJ15YoMYpOedD4KEY3sL61sHnrohgGhNn2iDxO1Ezww4zQQFYyi_F4suA0ciRscVRJMVUsDY3vlBnwJ5Q79Z-k3ARBvIJZGHIzrWA3YrHw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/4oDTeXicHcRJDoIwFADQE1WKBQ0mLjBM1ikQh9SNMRUoii3yi1Vu6BG8jYlv8b4foXUDE8uqBRmUSpV13kHeciV1LvWAq7tVNoA4ILD89aF6e9uiZo9iEdxO2vW61BSvhGKjHpRfnbA5U9tlasWaTX4JnEXICCxHNiSyVaKMxVoOq-C1scPeGKdP04i9q1PkQOdjXmXA9xld7XcQMPKsZ9JQNx17R3QjfjZ7zukxTuZ9e_AJaxMzNTbGGIn_HMkfSl9Fug"
+    },
+    {
+      "position": 19,
+      "title": "Mylai Shree Kumaran",
+      "place_id": "ChIJ64TuWtJnUjoR9Og4WfiApPU",
+      "data_id": "0x3a5267d25aee84eb:0xf5a480f85938e8f4",
+      "data_cid": "17700414239610038516",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a5267d25aee84eb%3A0xf5a480f85938e8f4&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a5267d25aee84eb%3A0xf5a480f85938e8f4&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.033069099999999,
+        "longitude": 80.2675325
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ64TuWtJnUjoR9Og4WfiApPU",
+      "provider_id": "/g/1tgc7yz_",
+      "rating": 4.5,
+      "reviews": 1482,
+      "type": "Clothing store",
+      "types": [
+        "Clothing store",
+        "Dress store",
+        "Men's clothing store",
+        "Saree Shop",
+        "Women's clothing store"
+      ],
+      "address": "86, Ramakrishna Mutt Rd, Alamelu Manga Puram, Venkatesa Agraharam, Mylapore, Chennai, Tamil Nadu 600004, India",
+      "country": "India",
+      "open_state": "Open · Closes 9 PM",
+      "hours": "Open · Closes 9 PM",
+      "operating_hours": {
+        "thursday": "9 AM–9 PM",
+        "friday": "9 AM–9 PM",
+        "saturday": "9 AM–9 PM",
+        "sunday": "9 AM–9 PM",
+        "monday": "9 AM–9 PM",
+        "tuesday": "9 AM–9 PM",
+        "wednesday": "9 AM–9 PM"
+      },
+      "phone": "+91 44 2345 6962",
+      "website": "https://www.mylaikumaran.com/",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RiaKzawUyBhBesNJTzBgb7R6Zin-UBhhEYysj6io3_vA5q-IhKHVyAY9Plw20F1kgYSbYGX7k_rtmDhaGcmeyBa8dlsnLVR-uhLtqRBiaMtfsES5uKGzwz9_lDGoI2Xr_4CsRv=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/reV7RnicHcRbUsIwFADQFYWWt3XGj0awYpFxgjzqTyfEmBtIE-hN6aQbZA3uhhnOx_m_gfdnfI4iA8Oeck4Z2aCshbNeWt8TrorUGYlAglG62umQMM3zjrebQIFKXH18d1Qdpmzyoy3ZUIB5EfA40W5YXtPxhSwgf9-GtEi-TDuI3_onVawPRbafnsraVzPgmahkoPzp16BdbhlpYOkvjGr-6f9wvh43eda1XVKaWeYWg31djl6RXV_afhzHBB4LYu_tOkZL"
+    },
+    {
+      "position": 20,
+      "title": "NEW GANI COLLECTIONS MINI DUBAI SHOPPING",
+      "place_id": "ChIJTyJ2DoVnUjoRYfvkXY9c3FI",
+      "data_id": "0x3a5267850e76224f:0x52dc5c8f5de4fb61",
+      "data_cid": "5970748976811801441",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a5267850e76224f%3A0x52dc5c8f5de4fb61&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a5267850e76224f%3A0x52dc5c8f5de4fb61&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.034667599999999,
+        "longitude": 80.2683283
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJTyJ2DoVnUjoRYfvkXY9c3FI",
+      "provider_id": "/g/11g190wlsn",
+      "rating": 3.9,
+      "reviews": 394,
+      "type": "Cosmetics store",
+      "types": [
+        "Cosmetics store"
+      ],
+      "address": "13, Ramakrishna Mutt Rd, Vinayaka Nagar Colony, Mylapore, Chennai, Tamil Nadu 600004, India",
+      "country": "India",
+      "open_state": "Open · Closes 9 PM",
+      "hours": "Open · Closes 9 PM",
+      "operating_hours": {
+        "thursday": "10 AM–9 PM",
+        "friday": "10 AM–9 PM",
+        "saturday": "10 AM–9 PM",
+        "sunday": "10 AM–9 PM",
+        "monday": "10 AM–9 PM",
+        "tuesday": "10 AM–9 PM",
+        "wednesday": "10 AM–9 PM"
+      },
+      "phone": "+91 95000 53075",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RFxFJ0xVmrOEpkqX3gCsHdCRhOtFS0UkiBIOu-POEoxX7RPi1otf4przQfgDK_syWVykLJGoe_bj-ljaq-lOc9Uj0h6eI-01UIDwAAYB7SRnj6IUT7mZAwe-44RMDGMYtqg4JSSg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/vZyqK3icHcRJDoIwFADQE30pkUg0cYEiCg7VIk4bo7W2jAVaA3hDj-BtTHyL9_0IrUs1MoxM9HtcSp6xl2I1lYVmhe5RmRu8VEAVKMPZHONuSLzWC1B7yGs8K9Pq1OdTtXhMicDaC1GUxhMfv2CLZ7I92WQbm1I_rbJ-757cXV5Vdzx06SqYS3a9J5AltwoyTIdRgsSA-YDMyHcbxzlP7JAUycCP9nZ-cRoGlkXW7nx91hW3gjDk48ZECIH4T6H4ASG3RQc"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&q=shops+near+Mylapore+Chennai&start=20&type=search"
+  }
+}

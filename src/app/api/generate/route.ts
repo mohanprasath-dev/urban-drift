@@ -15,14 +15,25 @@ export async function POST(req: NextRequest) {
 			);
 		}
 
-		const run = await huntWorkflow.createRun();
-		const execution = await run.start({
-			inputData: {
-				neighborhood,
-				tier,
-				radiusKm
-			}
+		// Enforce 90 second generation timeout per Task T5.1 hardening
+		const timeoutPromise = new Promise<never>((_, reject) => {
+			setTimeout(() => {
+				reject(new Error('Generation timed out after 90 seconds. Please retry with a smaller walking radius or simpler neighborhood.'));
+			}, 90000);
 		});
+
+		const workflowPromise = (async () => {
+			const run = await huntWorkflow.createRun();
+			return run.start({
+				inputData: {
+					neighborhood,
+					tier,
+					radiusKm
+				}
+			});
+		})();
+
+		const execution = await Promise.race([workflowPromise, timeoutPromise]);
 
 		if (execution.status !== 'success' || !execution.result) {
 			return NextResponse.json(

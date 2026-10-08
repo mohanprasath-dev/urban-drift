@@ -1,0 +1,1751 @@
+{
+  "search_metadata": {
+    "id": "6ac762091e760b77a3ffa084",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/OlhylYSCeFlLnApz7jpNsFa0-CP2KsS1Sgj8zhqMMkw/6ac762091e760b77a3ffa084.json",
+    "markdown_endpoint": "https://serpapi.com/searches/OlhylYSCeFlLnApz7jpNsFa0-CP2KsS1Sgj8zhqMMkw/6ac762091e760b77a3ffa084.md",
+    "created_at": "2026-10-08 09:27:37 UTC",
+    "processed_at": "2026-10-08 09:27:37 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/shops+near+Adyar+Chennai//data=!3m1!4b1!4m2!2m1!6e5?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/OlhylYSCeFlLnApz7jpNsFa0-CP2KsS1Sgj8zhqMMkw/6ac762091e760b77a3ffa084.html",
+    "prettify_html_file": "https://serpapi.com/searches/OlhylYSCeFlLnApz7jpNsFa0-CP2KsS1Sgj8zhqMMkw/6ac762091e760b77a3ffa084.prettify",
+    "total_time_taken": 0.69
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "shops near Adyar Chennai",
+    "google_domain": "google.com",
+    "hl": "en"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "shops near Adyar Chennai"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Babyhug Store - Chennai Adyar",
+      "place_id": "ChIJkYewsB5nUjoRwz_Kt3U2STY",
+      "data_id": "0x3a52671eb0b08791:0x36493675b7ca3fc3",
+      "data_cid": "3911717630570545091",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a52671eb0b08791%3A0x36493675b7ca3fc3&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a52671eb0b08791%3A0x36493675b7ca3fc3&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.000815099999999,
+        "longitude": 80.2519186
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJkYewsB5nUjoRwz_Kt3U2STY",
+      "provider_id": "/g/11tk6t16_t",
+      "rating": 4.8,
+      "reviews": 1168,
+      "type": "Baby store",
+      "types": [
+        "Baby store",
+        "Baby clothing store",
+        "Maternity store",
+        "Toy store"
+      ],
+      "type_id": "baby_store",
+      "type_ids": [
+        "baby_store",
+        "baby_clothing_store",
+        "maternity_store",
+        "toy_store"
+      ],
+      "address": "68, Teachers Colony, Kasturba Nagar 3rd Cross St, Adyar, Chennai, Tamil Nadu 600020, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "thursday": "10 AM–10 PM",
+        "friday": "10 AM–10 PM",
+        "saturday": "10 AM–10 PM",
+        "sunday": "10 AM–10 PM",
+        "monday": "10 AM–10 PM",
+        "tuesday": "10 AM–10 PM",
+        "wednesday": "10 AM–10 PM"
+      },
+      "phone": "+91 44 3526 0608",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Onsite services"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "delivery": true
+      },
+      "user_review": "\"Fresh collections are available and the staff's are very friendly.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmP8A8GXyrrz3x7Eq96Ky1rHOYj2msQYk3hgWuD42iQ1UfbCx8j4-2EnLcimJqgbPNJ_bIgffajogw80wDx_Y_55FYPZmnZptgb0iCwMVq1Uq6OEIQQYh8OBni-w7ok4FrWuLfn9=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/vlUiJnicHcRLcoIwAADQE0XCR43OuLCIrV9gYTVuGMlAApIEkmDQC_YMvY0zvsX7_2PGtHruOA3zR1RK2hS9LhSRwhTCjIjkDlU3rQHRzjJ8tA1P0BJ9X55KvfxhGnWzye7pqp8Y1x7XKb77jJ77VeBVqXsq83BAdQC8SOxJxbcdzZPjNss3tCxvtaQWQbsaMpyNx2ucXLm4tobmsArt4bdzT90kjjZpihmKv0QF7FTeg7U69_tSzBbWhRAC9pkA8QavNkVP"
+    },
+    {
+      "position": 2,
+      "title": "Fabindia, Adyar",
+      "place_id": "ChIJmRhP9URnUjoRomCTSPwvnzc",
+      "data_id": "0x3a526744f54f1899:0x379f2ffc489360a2",
+      "data_cid": "4007974953978912930",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a526744f54f1899%3A0x379f2ffc489360a2&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a526744f54f1899%3A0x379f2ffc489360a2&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.006856899999999,
+        "longitude": 80.2539062
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJmRhP9URnUjoRomCTSPwvnzc",
+      "provider_id": "/g/11rxtk428p",
+      "rating": 4.1,
+      "reviews": 94,
+      "type": "Clothing store",
+      "types": [
+        "Clothing store"
+      ],
+      "type_id": "clothing_store",
+      "type_ids": [
+        "clothing_store"
+      ],
+      "address": "Old No 25, New No 51, Ground Floor, Gandhi Nagar 1st Main Road, next to McDonald's, Gandhi Nagar, Adyar, Chennai, Tamil Nadu 600020, India",
+      "country": "India",
+      "open_state": "Open · Closes 9 PM",
+      "hours": "Open · Closes 9 PM",
+      "operating_hours": {
+        "thursday": "10:30 AM–9 PM",
+        "friday": "10:30 AM–9 PM",
+        "saturday": "10:30 AM–9 PM",
+        "sunday": "10:30 AM–9 PM",
+        "monday": "10:30 AM–9 PM",
+        "tuesday": "10:30 AM–9 PM",
+        "wednesday": "10:30 AM–9 PM"
+      },
+      "phone": "+91 93848 63336",
+      "website": "https://www.fabindia.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "offerings": [
+            "Men's clothing"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "in_store_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"Great selection of products, stimulating atmosphere and helpful staff!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMVra2wEYVZkf1WsHgxJgWxHjSabkA7LRdNICXzF_DZZrsut2UVIa4zZ1FUCPnFGkc9ECDjr6llYsCLDPX2sdVAVPUUh6vjl09GBC7offbm4fbQrJGK-iJ6xVz-D5URMCwyU6Nh=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/xVaSZXicHcRNjoIwGADQE1V-VIwms2CKoIwaRtOqbAxUaIVCTb8qyAXnDN5mEt_ivf-EMXdYWJYU4xFXisviAYVmqjVFa0ZMNRbXGQBiYPn4eZfNlurM7ZZnmtalc4QV72N-7FfVIctrf7bZX3drfBrCS5CmGh7GJXSdTYbUCQlO2jCq2XyJg0p7Up4Bb4Lk5MKV-jQhRHjPStrz6BvPVFnmzaTMf3Uc_aBb7PV0QMGU7Le4exFvJ746x7ZtJD4z1P4D0U9E5w"
+    },
+    {
+      "position": 3,
+      "title": "MINISO ADYAR",
+      "place_id": "ChIJq_LMfehnUjoRK1VYjaJ5pEk",
+      "data_id": "0x3a5267e87dccf2ab:0x49a479a28d58552b",
+      "data_cid": "5306500000012326187",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a5267e87dccf2ab%3A0x49a479a28d58552b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a5267e87dccf2ab%3A0x49a479a28d58552b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.006382799999999,
+        "longitude": 80.25356099999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJq_LMfehnUjoRK1VYjaJ5pEk",
+      "provider_id": "/g/11sfbbkm8t",
+      "rating": 4.2,
+      "reviews": 86,
+      "type": "Gift shop",
+      "types": [
+        "Gift shop",
+        "Bag shop",
+        "Cosmetics store",
+        "Toy store"
+      ],
+      "type_id": "gift_shop",
+      "type_ids": [
+        "gift_shop",
+        "bag_shop",
+        "cosmetics_store",
+        "toy_store"
+      ],
+      "address": "NO 21, BUSTOP, 2, Sardar Patel Rd, next to Metro shop, Nethaji Colony, Kasturba Nagar, Adyar, Chennai, Tamil Nadu 600020, India",
+      "country": "India",
+      "open_state": "Open · Closes 9:30 PM",
+      "hours": "Open · Closes 9:30 PM",
+      "operating_hours": {
+        "thursday": "10 AM–9:30 PM",
+        "friday": "10:30 AM–9:30 PM",
+        "saturday": "10:30 AM–9:30 PM",
+        "sunday": "10:30 AM–9:30 PM",
+        "monday": "10:30 AM–9:30 PM",
+        "tuesday": "10:30 AM–9:30 PM",
+        "wednesday": "10:30 AM–9:30 PM"
+      },
+      "website": "https://www.miniso.in/",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "Google Pay",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true
+      },
+      "user_review": "\"All products are available at affordable price.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLffTiWhe9NBBp-dPeGlfVD_blZOQrC96Tn__zt29Y9a_If83aMzDdWr8i3YOEBw7zCMAUkrC8W8mkYSzuApU8IzJXm9zglLbbfTeQ8UkbzWc1IpY1Gtm3T2FyXJ3jCGzzxVn6ex=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/86v0W3icHcRBjoIwFADQEyFgE2wncQE4QzA6agQRNwRqC0pbSFuj_gt6Bm9j4lu896uzdjQ_ris6NGmHoRXsZpimg7JM2QkdpNvq2hiHGjcMo16uOM8uRcfIfxSNznnLEsEPi6oRp81OxyTIVFWBnZKS1FXKMarXsDgXGl9QufmN7jOI12He6xgXWPblHm7hmOMUlkdJoBWrpuEZ2-G8b6CgfjqWfmIlyqZ_z-MSXeME4HFQAXvM777neU73nTrqA5fERV0"
+    },
+    {
+      "position": 4,
+      "title": "Silver Lady boutique Adyar",
+      "place_id": "ChIJv3_JAS9nUjoR6aUZI3OjOr0",
+      "data_id": "0x3a52672f01c97fbf:0xbd3aa3732319a5e9",
+      "data_cid": "13635390536723047913",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a52672f01c97fbf%3A0xbd3aa3732319a5e9&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a52672f01c97fbf%3A0xbd3aa3732319a5e9&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.0083077,
+        "longitude": 80.2592782
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJv3_JAS9nUjoR6aUZI3OjOr0",
+      "provider_id": "/g/11vc5ksz0y",
+      "rating": 4.8,
+      "reviews": 1504,
+      "type": "Clothing store",
+      "types": [
+        "Clothing store"
+      ],
+      "type_id": "clothing_store",
+      "type_ids": [
+        "clothing_store"
+      ],
+      "address": "Adyar Bridge Rd, near Ratna cafe, Gandhi Nagar, Adyar, Chennai, Tamil Nadu 600020, India",
+      "country": "India",
+      "open_state": "Open · Closes 9 PM",
+      "hours": "Open · Closes 9 PM",
+      "operating_hours": {
+        "thursday": "10:30 AM–9 PM",
+        "friday": "10:30 AM–9 PM",
+        "saturday": "10:30 AM–9 PM",
+        "sunday": "10:30 AM–9 PM",
+        "monday": "10:30 AM–9 PM",
+        "tuesday": "10:30 AM–9 PM",
+        "wednesday": "10:30 AM–9 PM"
+      },
+      "phone": "+91 99955 75036",
+      "website": "http://www.silverladyboutique.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Delivery",
+            "Onsite services"
+          ]
+        },
+        {
+          "offerings": [
+            "Women's clothing"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "Google Pay",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "service_options": {
+        "delivery": true
+      },
+      "user_review": "\"Excellent service and good collection here in Adyar branch.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMfAmtWMnfP3oA-wfq6bMpgM_AGK6be5HZjRSckfvPe9gMJf4DZzBth3FNkKjZ2iPgm7hDm_qdQbslKGDU2abrpfBafxnUZAObsIggzAEpB13dwt4VRHetQ6g1e_FTe8UKTXyyeJw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/W2qPNnicHcRbUsIwFADQFZW2FIs640dqBaQTLY-q059OE25ugOZBE6mwQ5fAbpzxfJzbr_Teuscw7GQyQmOwg28HPTfag_YjblSIfetcwF1Ins-2U1QQ5T-pFmViSDCIU8qoRdqQeZEyuFvUh_WGH8W5hAekSzHJ62vmZTJ7OxaHerwvUU1lrprTbsVcV8zzatyy3oqsFT-6qsk7c6-IV_JiszjZDX7ysV6AX6UYQzPbwn1VbL8uF1gOT0McRVEg_-eB_gOYiEb4"
+    },
+    {
+      "position": 5,
+      "title": "Adyar Variety Choice (SKYNS)",
+      "place_id": "ChIJ0_uDEPJnUjoR4b_vS-qMPNk",
+      "data_id": "0x3a5267f21083fbd3:0xd93c8cea4befbfe1",
+      "data_cid": "15653541342757240801",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a5267f21083fbd3%3A0xd93c8cea4befbfe1&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a5267f21083fbd3%3A0xd93c8cea4befbfe1&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.000984899999999,
+        "longitude": 80.25847019999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ0_uDEPJnUjoR4b_vS-qMPNk",
+      "provider_id": "/g/1thpv7_2",
+      "rating": 4.5,
+      "reviews": 288,
+      "type": "Lingerie store",
+      "types": [
+        "Lingerie store"
+      ],
+      "type_id": "lingerie_store",
+      "type_ids": [
+        "lingerie_store"
+      ],
+      "address": "New No 31, old, 13/2, 1st Ave, next to Priya Diagnostics Center, near HDFC BANK, Shastri Nagar, Adyar, Chennai, Tamil Nadu 600020, India",
+      "country": "India",
+      "open_state": "Open · Closes 8:30 PM",
+      "hours": "Open · Closes 8:30 PM",
+      "operating_hours": {
+        "thursday": "10:30 AM–8:30 PM",
+        "friday": "10:30 AM–8:30 PM",
+        "saturday": "10:30 AM–8:30 PM",
+        "sunday": "10:30 AM–8:30 PM",
+        "monday": "10:30 AM–8:30 PM",
+        "tuesday": "10:30 AM–8:30 PM",
+        "wednesday": "10:30 AM–8:30 PM"
+      },
+      "phone": "+91 98843 84888",
+      "website": "http://www.googlias.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "offerings": [
+            "Women's clothing"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "Google Pay",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "in_store_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"Offers plenty of variety and good quality stuff\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOJsCIsh1z2X7jk7LiC29U9l0_mKBqm95BKFPnJ2bugA1GOhL7eT5ngPv_8ilIWyfshT1ejyF_IVsY51oJ6nhgE5CGp_xPD5IjCzR8KeMMqFOiialaKYkZt01BrC4ikPYQZOjCA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/7gHNdXicHcTdboIwGADQJ0JatEOW7ALqMIAGXNwm3hAkXVsoLfLV3xf0GXybJZ6L83wIawd4d10lphNuDFfsBGxsjLZM20ljepePNYDTgBvS86D6PAWagMB3b-e3nb-S1Au-A4WqPouOfUCiLC506h1OPMTLXKx8tiWaF-dqLlXye_sDscWsvcVV8gMlwSZ904J_ErocqmuxIElL71_zjK3XxziXslZ1VnZ7i3A00pnsinKzz1saflwwQsgRrxtH_wNRh0RE"
+    },
+    {
+      "position": 6,
+      "title": "R S SHOPPING CENTRE",
+      "place_id": "ChIJaZ0KV_NnUjoRFl3LO_u3zDk",
+      "data_id": "0x3a5267f3570a9d69:0x39ccb7fb3bcb5d16",
+      "data_cid": "4164906045078723862",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a5267f3570a9d69%3A0x39ccb7fb3bcb5d16&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a5267f3570a9d69%3A0x39ccb7fb3bcb5d16&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.0010365,
+        "longitude": 80.256408
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJaZ0KV_NnUjoRFl3LO_u3zDk",
+      "provider_id": "/g/1v_slp3q",
+      "rating": 4.3,
+      "reviews": 1034,
+      "type": "Craft store",
+      "types": [
+        "Craft store",
+        "Art supply store",
+        "Book store"
+      ],
+      "type_id": "craft_store",
+      "type_ids": [
+        "craft_store",
+        "art_supply_store",
+        "book_store"
+      ],
+      "address": "LB Rd, Venkata Rathinam Nagar, Adyar, Chennai, Tamil Nadu 600020, India",
+      "country": "India",
+      "open_state": "Open · Closes 8:30 PM",
+      "hours": "Open · Closes 8:30 PM",
+      "operating_hours": {
+        "thursday": "9 AM–8:30 PM",
+        "friday": "9 AM–8:30 PM",
+        "saturday": "9 AM–8:30 PM",
+        "sunday": "9 AM–5 PM",
+        "monday": "9 AM–8:30 PM",
+        "tuesday": "9 AM–8:30 PM",
+        "wednesday": "9 AM–8:30 PM"
+      },
+      "phone": "+91 75502 41801",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "delivery": true
+      },
+      "user_review": "\"All kinds of items required for creating arts and crafts, helpful staff\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmN9GDe8DQq0s9P7oh6ET0BRXai0xqqIJdQvw6tspAYxrHjGx88_SHDPqXzvGM4cypnpm0N28Z-CYVIecsUEfhky5FdvMHmZ_whiD8rdn4esvHnWdtueJPfFEkeD35oO_oU0Qnq25g=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/iFZijnicHcTbDsEwGADgJ5rVYZTEBTobCTZnbhbpasXWw_7qxht6BG8j8V183w83RsHAdXPebmRSZjl7AiupFIYJ06CycLPyAuBQcEcTq_Ji2Q8IwyTWCPpRT_Kuv0Xj9fFyQ7XWs3ka26prQI1OdRnegxrjZBOSSB_fNlh06EsJVaBlC5-dyWk_YxR2_pU_Xt40tYuwOCcVvxFcpqLDwIbikJonm0fXqf9gpO3JVSJ3KBa65WXDqokQcvh_6ogfXZZGnA"
+    },
+    {
+      "position": 7,
+      "title": "Westside - Adyar, Chennai",
+      "place_id": "ChIJn4o11OdnUjoRt3p9DtR5gK8",
+      "data_id": "0x3a5267e7d4358a9f:0xaf8079d40e7d7ab7",
+      "data_cid": "12646241705339484855",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a5267e7d4358a9f%3A0xaf8079d40e7d7ab7&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a5267e7d4358a9f%3A0xaf8079d40e7d7ab7&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.007001299999999,
+        "longitude": 80.25263989999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJn4o11OdnUjoRt3p9DtR5gK8",
+      "provider_id": "/g/11bwk_vrd_",
+      "rating": 4.2,
+      "reviews": 1682,
+      "type": "Clothing store",
+      "types": [
+        "Clothing store",
+        "Fashion accessories store",
+        "Formal wear store",
+        "Outlet mall",
+        "Shopping mall",
+        "Western apparel store",
+        "Youth clothing store"
+      ],
+      "type_id": "clothing_store",
+      "type_ids": [
+        "clothing_store",
+        "fashion_accessories_store",
+        "formal_clothing_store",
+        "outlet_mall",
+        "shopping_center",
+        "western_apparel_store",
+        "youth_clothing_store"
+      ],
+      "address": "Westside - A, Unit of Trent Limited, 39/19, Gandhi Nagar 1st Main Road, near Spencer super market, Gandhi Nagar, Adyar, Chennai, Tamil Nadu 600020, India",
+      "country": "India",
+      "open_state": "Open · Closes 9 PM",
+      "hours": "Open · Closes 9 PM",
+      "operating_hours": {
+        "thursday": "11 AM–9 PM",
+        "friday": "11 AM–9 PM",
+        "saturday": "11 AM–9 PM",
+        "sunday": "11 AM–9 PM",
+        "monday": "11 AM–9 PM",
+        "tuesday": "11 AM–9 PM",
+        "wednesday": "11 AM–9 PM"
+      },
+      "phone": "+91 78248 19949",
+      "website": "https://www.westside.com/?utm_source=google-gmb&utm_medium=gmb-seo-url&utm_campaign=westside-gmb",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Men's clothing",
+            "Women's clothing"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "delivery": true
+      },
+      "user_review": "\"Wide varieties and more western collections available for moderate budget\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNKjPs1P2a_5Zkn4e9nztFcD5NIv1c5ovFf3OnJ0L4DbOf26BGLxU5xVfVZ-5xGsPN3bLxLKn8aqeySSQ42hIFTkWL_pIwbWI7xWjQqh58tFyQI8tUSgcI2hMv47IazXDA1ROoe=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/pUrzrnicHcRJDoIwAADAFyFrFU08qARTrSwiYLgYaAqNYgu0YvWDvsHfmDiH-X6olJ1Y6HpL7UnDedOShyAD5kwSJieY3_VmKIXQsNBXm7Fr78H-GgkzssoLKG7MIXP2lj72QABHEwM--rUdsp2BHK8Ka2u63iKVApXVWaEBtRVRYFdIoT1zy568kiR2LAr90y1Hlw4-qxzOVH6Newpc6b9i6Mo0aTC06GF0ZrB8n72VeQw5WT5NwzA0-h9r7AdQPUQo"
+    },
+    {
+      "position": 8,
+      "title": "Cents & Pence",
+      "place_id": "ChIJkWzuYpRnUjoREqX1-sM8S-U",
+      "data_id": "0x3a52679462ee6c91:0xe54b3cc3faf5a512",
+      "data_cid": "16522366470365488402",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a52679462ee6c91%3A0xe54b3cc3faf5a512&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a52679462ee6c91%3A0xe54b3cc3faf5a512&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.005917,
+        "longitude": 80.251721
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJkWzuYpRnUjoREqX1-sM8S-U",
+      "provider_id": "/g/1thq88tc",
+      "rating": 4.2,
+      "reviews": 839,
+      "type": "Clothing store",
+      "types": [
+        "Clothing store"
+      ],
+      "type_id": "clothing_store",
+      "type_ids": [
+        "clothing_store"
+      ],
+      "address": "26/8, 2nd Main Rd, Kasturba Nagar, Adyar, Chennai, Tamil Nadu 600020, India",
+      "country": "India",
+      "open_state": "Open · Closes 9:30 PM",
+      "hours": "Open · Closes 9:30 PM",
+      "operating_hours": {
+        "thursday": "9 AM–9:30 PM",
+        "friday": "9 AM–9:30 PM",
+        "saturday": "9 AM–9:30 PM",
+        "sunday": "9 AM–9:30 PM",
+        "monday": "9 AM–9:30 PM",
+        "tuesday": "9 AM–9:30 PM",
+        "wednesday": "9 AM–9:30 PM"
+      },
+      "phone": "+91 44 4205 4117",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Onsite services"
+          ]
+        },
+        {
+          "offerings": [
+            "Men's clothing",
+            "Women's clothing"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "service_options": {
+        "delivery": true
+      },
+      "user_review": "\"Quality of clothes - 5\nCollections - 5\nService - 4.5\nPrice of products - 4\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOJ8OC_vgZUg8gBwBkx9-qPA04cOdkpXQ-s9Gq6T8aC20QNW-bajZwykjSh9kZmuIe3d9e3vs7GnEqgsVQXgHeBLJt9XG3K4y6wTAoSuddF2nyvDtoLIw2alFFMYZlEYetY5HexRQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/h__RSXicHcRLcoIwAADQE0UiKJLOdAEU8FuKvwIbB0MmjIQETCBwRI_gbTrTt3jvV6VUKz8Mg1XWjApBGekleWLBFeFqhkVj0GchJcDScP2hZU28dWL_NtD8Qh3qaa8eEeh-XLjAcVm3aQIkijr77BS-CZPvX3AvHrme6sepQnXe9BtilYhYg1xFPOiovCYpXRNvv1UojazdYrL12RWnvixDk0_DlxL7jTYLFoaHLGdBRlS2XJPxmHzqOYQQVP9jwP8AIAhF5g"
+    },
+    {
+      "position": 9,
+      "title": "Odyssey Adyar",
+      "place_id": "ChIJnUgKXJNnUjoRdaD_72mXaHc",
+      "data_id": "0x3a5267935c0a489d:0x77689769efffa075",
+      "data_cid": "8604293569345200245",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a5267935c0a489d%3A0x77689769efffa075&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a5267935c0a489d%3A0x77689769efffa075&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.006941,
+        "longitude": 80.2534417
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJnUgKXJNnUjoRdaD_72mXaHc",
+      "provider_id": "/g/1tf22hx7",
+      "rating": 4.4,
+      "reviews": 7281,
+      "type": "Book store",
+      "types": [
+        "Book store"
+      ],
+      "type_id": "book_store",
+      "type_ids": [
+        "book_store"
+      ],
+      "address": "No. 45 & 47, Gandhi Nagar 1st Main Rd, Gandhi Nagar, Adyar, Chennai, Tamil Nadu 600020, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "thursday": "10 AM–10 PM",
+        "friday": "10 AM–10 PM",
+        "saturday": "10 AM–10 PM",
+        "sunday": "10 AM–10 PM",
+        "monday": "10 AM–10 PM",
+        "tuesday": "10 AM–10 PM",
+        "wednesday": "10 AM–10 PM"
+      },
+      "phone": "+91 44 2445 3191",
+      "website": "http://www.odyssey.in/",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "Google Pay",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"Best place for books, stationary, toys, gifts, magazines, etc in Chennai.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLemoTstswPdyofZ8KXjVGMeUAms9pJUhQADIogfS6Un2robItMcqF1NJ74kcZWSGRzBhpUFFrwhM9kNdRLaR0mzbPait-OpbCXbIArnbfTW-emjC64CUgenFFI_8eT7GHrEytDA3w=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/3o8DrHicHcTbDsEwAADQL6rNJW6JhxqdYTOzIl5kra5l2k5bWfhDn-BvJM7D-X6Ec7Ude95ddFtca35nT8sM1cox5VpUS4-bwlpArQfhtJJrJnVunW3Sy0uXp-HqeNuHMcNQ2lG9xGILZ5Hm5a6PVcdoErmYPlA7WQ56FT0ddmH2nooaI2QaEY-q5JKti8yXb5IWVwc2NQmOJIJGkTI_ACZvQb8XYM4UQtF5yPJBuDDzl5vBbjNp2r7vA_GfAvUDsdhGkA"
+    },
+    {
+      "position": 10,
+      "title": "Future World",
+      "place_id": "ChIJaTq0AJNnUjoRFEIDbxaBAX4",
+      "data_id": "0x3a52679300b43a69:0x7e0181166f034214",
+      "data_cid": "9079680257107378708",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a52679300b43a69%3A0x7e0181166f034214&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a52679300b43a69%3A0x7e0181166f034214&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.004528299999999,
+        "longitude": 80.251736
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJaTq0AJNnUjoRFEIDbxaBAX4",
+      "provider_id": "/g/11b6hns5r8",
+      "rating": 4.9,
+      "reviews": 4261,
+      "type": "Electronics store",
+      "types": [
+        "Electronics store",
+        "Cell phone accessory store",
+        "Cell phone store",
+        "Mobile phone repair shop",
+        "Phone repair service"
+      ],
+      "type_id": "electronics_store",
+      "type_ids": [
+        "electronics_store",
+        "cell_phone_accessory_store",
+        "cell_phone_store",
+        "mobile_phone_repair_shop",
+        "phone_repair_service"
+      ],
+      "address": "No 7/2, Kasturba Nagar 3rd Cross St, Kasturba Nagar, Adyar, Chennai, Tamil Nadu 600020, India",
+      "country": "India",
+      "open_state": "Open · Closes 9 PM",
+      "hours": "Open · Closes 9 PM",
+      "operating_hours": {
+        "thursday": "10 AM–9 PM",
+        "friday": "10 AM–9 PM",
+        "saturday": "10 AM–9 PM",
+        "sunday": "10 AM–9 PM",
+        "monday": "10 AM–9 PM",
+        "tuesday": "10 AM–9 PM",
+        "wednesday": "10 AM–9 PM"
+      },
+      "phone": "+91 44 4558 4499",
+      "website": "https://stores.futureworldindia.in/future-world-apple-premium-reseller-adyar-electronics-retail-and-repair-shop-adyar-chennai-198545/Home?utm_source=locator&utm_medium=googleplaces",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "in_store_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"All apple products available and it’s a best one in Chennai.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNimQLQ-OP90_bZt7tpSxL9FGFnG9QcVyp3GmplSzygldYPz_X4dZZBqqqR_F0lI0exbtyRvf0q2GFyIB9vYhbLQYZ7JDZJpV_jYKQVeO-RmS3vxJ8PQQO3fBtggKgbKpF6_KUoRA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/IzxZQHicHcRRboIwAADQE1XqMComfoimRCBCISPSn0ZqLZqWFtsheMMdYbdZ4vt4f7-tc8ZuPE-2_kxoLST_sfzJdOd452ZMK088L9YCZr3dfjBSne4KpxhkeQBpQ9zKmXJMAxShLgowqybjR8rI8j0Jea3zNz0vroSEfd8XFEF5hHxs3FQMN9h_RWg6hsFQt02Ka7KKDyQ2FX3UCa54BgpV-sMYr3OMM_8WOiES0SQGLWnyrYvd9jWHEIL2MwPdP4fhRmA"
+    },
+    {
+      "position": 11,
+      "title": "EasyBuy",
+      "place_id": "ChIJMd55cUtnUjoRgu3KjGNYo4E",
+      "data_id": "0x3a52674b7179de31:0x81a358638ccaed82",
+      "data_cid": "9341407236683656578",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a52674b7179de31%3A0x81a358638ccaed82&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a52674b7179de31%3A0x81a358638ccaed82&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.0063541,
+        "longitude": 80.250163
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJMd55cUtnUjoRgu3KjGNYo4E",
+      "provider_id": "/g/11mypmym04",
+      "rating": 4.8,
+      "reviews": 511,
+      "type": "Clothing store",
+      "types": [
+        "Clothing store"
+      ],
+      "type_id": "clothing_store",
+      "type_ids": [
+        "clothing_store"
+      ],
+      "address": "17, Gandhi Nagar 1st Main Rd, Kasturba Nagar, Adyar, Chennai, Tamil Nadu 600020, India",
+      "country": "India",
+      "open_state": "Open · Closes 9:30 PM",
+      "hours": "Open · Closes 9:30 PM",
+      "operating_hours": {
+        "thursday": "10:30 AM–9:30 PM",
+        "friday": "10:30 AM–9:30 PM",
+        "saturday": "10:30 AM–9:30 PM",
+        "sunday": "10:30 AM–9:30 PM",
+        "monday": "10:30 AM–9:30 PM",
+        "tuesday": "10:30 AM–9:30 PM",
+        "wednesday": "10:30 AM–9:30 PM"
+      },
+      "phone": "+91 1800 202 4454",
+      "website": "https://stores.easybuyindia.com/easybuy-adyar-clothing-shop-adyar-chennai-517182/Home?utm_source=locator&utm_medium=googleplaces",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "offerings": [
+            "Men's clothing",
+            "Women's clothing"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Well curated collection, affordable and courteous staffs.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOiYY1R0U0k3vCi4tj7GRSEcdcdlCOKUZhCClI5HKFfuWmv0rR1Si4oYuAphVBz8rARDo2HI-ZVmJVSysnRMXfXL-vTGREF6g07fFs0f8nBx1Q7ksXEZfA5EP9tEFhQp5-DDvUjJpEAXw6x=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/g7MeGnicHcTNboIwAADgJ6oUFXEmO9RS_JtRy2DAbamUoqVtaKluL7nz3mbJvsP3-yOcM3YVBFLMJq3WrWxG2wxMK9coN2G6D9rh01rAbICwN7I_dVUVUpjD-8zjbu5u8YZmhF3ZVeLTIa8FxnIXbQ8pHz96DwcaZt1cVyMyolh_LwdEEz3d7kBd9Psi-7KKHktevgH_vqEkXbQw5qmFfKnWz_AS321Jao4icn5xJBUXE4Ek8fltbwgqH4vn6yOEEALxPwPqD4SlRmc"
+    },
+    {
+      "position": 12,
+      "title": "Max - Adyar, Chennai",
+      "place_id": "ChIJZ-eEAuxnUjoRVwCBWgOp_dM",
+      "data_id": "0x3a5267ec0284e767:0xd3fda9035a810057",
+      "data_cid": "15275551342978990167",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a5267ec0284e767%3A0xd3fda9035a810057&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a5267ec0284e767%3A0xd3fda9035a810057&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.0069812,
+        "longitude": 80.260104
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZ-eEAuxnUjoRVwCBWgOp_dM",
+      "provider_id": "/g/11c1vj_kfc",
+      "rating": 4,
+      "reviews": 2294,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall",
+        "Baby clothing store",
+        "Children's clothing store",
+        "Clothing store",
+        "Handbags shop",
+        "Men's clothing store",
+        "T-shirt store",
+        "Women's clothing store",
+        "Work clothes store"
+      ],
+      "type_id": "shopping_center",
+      "type_ids": [
+        "shopping_center",
+        "baby_clothing_store",
+        "childrens_clothing_store",
+        "clothing_store",
+        "handbags_shop",
+        "mens_clothing_store",
+        "t_shirt_store",
+        "womens_clothing_store",
+        "work_clothes_store"
+      ],
+      "address": "No 43/1, Royal Enclave, Besant Ave Rd, Padmanabha Nagar, Adyar, Chennai, Tamil Nadu 600020, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "thursday": "10 AM–10 PM",
+        "friday": "10 AM–10 PM",
+        "saturday": "10 AM–10 PM",
+        "sunday": "10 AM–10 PM",
+        "monday": "10 AM–10 PM",
+        "tuesday": "10 AM–10 PM",
+        "wednesday": "10 AM–10 PM"
+      },
+      "phone": "+91 91500 85542",
+      "website": "https://stores.maxfashion.in/max-adyar-chennai-adyar-shopping-centre-adyar-chennai-105551/Home?utm_source=locator&utm_medium=googleplaces",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "onsite_services": true
+      },
+      "user_review": "\"Has a good variety of clothes at a good price.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmN0nbV0DP_0995I3GqPWME8Z-mCCHbg845610fam9enmZ__hqwMKwBLDI16uEnchCe7AmlEcSNTL9AT-4Y47TJ2SoCBub4ov8E-BeQIFGYs-all23hm9AOHJ0PT5ud1P9CIMufQpg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/RFgpoHicHcRJDoIwAADAFxWKLFITD1BQUVGMRKMXArW0hy5oqbzRJ_gbE-cw3w8fx8EsXFdw32FaM0GtoS-i1UjV6BAtXfZqjQHEuAl-D0IeoOouMKsaiFBY-OtndS3z-A4kxpuOxUEYebBvJaJK3puGP6dyN6X7rPAimyvCMZ0nUuTkfKj3KKlBcAvm9XZ21ji1XaDfcQ5SeipW65sBrRAzn0uUHDdbWNWhfXgVwkVp-9PAlpMHIQT8PwHqB_CbQjM"
+    },
+    {
+      "position": 13,
+      "title": "Adyar Departmental Stores",
+      "place_id": "ChIJw9gZavBnUjoRf4tMT2BImlQ",
+      "data_id": "0x3a5267f06a19d8c3:0x549a48604f4c8b7f",
+      "data_cid": "6096264624083864447",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a5267f06a19d8c3%3A0x549a48604f4c8b7f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a5267f06a19d8c3%3A0x549a48604f4c8b7f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.998666199999999,
+        "longitude": 80.2649369
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJw9gZavBnUjoRf4tMT2BImlQ",
+      "provider_id": "/g/1wfvl2j8",
+      "rating": 4.4,
+      "reviews": 726,
+      "unclaimed_listing": true,
+      "type": "Department store",
+      "types": [
+        "Department store",
+        "Supermarket"
+      ],
+      "type_id": "department_store",
+      "type_ids": [
+        "department_store",
+        "supermarket"
+      ],
+      "address": "1st Main Road, Besant Ave Rd, Chennai, Tamil Nadu 600090, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "thursday": "9 AM–10 PM",
+        "friday": "9 AM–10 PM",
+        "saturday": "9 AM–10 PM",
+        "sunday": "9 AM–10 PM",
+        "monday": "9 AM–10 PM",
+        "tuesday": "9 AM–10 PM",
+        "wednesday": "9 AM–10 PM"
+      },
+      "phone": "+91 44 2445 7784",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Onsite services"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "On-site parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "delivery": true
+      },
+      "user_review": "\"Good variety, reasonable price\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmN0ZOUoHfs5cRcC7OyHizh_4MyRl6ECxb9Ud_xfZIuf75cO32WkBAaSgyIYjj82T89powy1XTO-pQX4fJvgxNySXdjfOUCuvNumOGTinpa1g8Zdnc51Fee1ZveDjxf7liU_is9h=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/W3doSHicHcTbboIwAADQL0IoiMCSPTjmNZFmApHxQljpBSxtQwHpftBv2N8s8TycvycbR6XfbJszb0WlpBxPGg9IihGLcYVkb9Oh1tpC2t7Gs-J94pQwl0eifXRFcQDNsf1l1fpirnyzi5efKG-qhZSniQQ-gp57u39s65Sa03fXhW4WRko-DCgyaKmvYk3OM10SkxZNR2AeT3My9fCQtULVgIZlI5AP9hiDcsaf3UIC3uZVqyP2_gCO41jsNbLEP-bwRkI"
+    },
+    {
+      "position": 14,
+      "title": "Croma - Adyar",
+      "place_id": "ChIJP1cfLFZnUjoRbvsT0bPCjQE",
+      "data_id": "0x3a5267562c1f573f:0x18dc2b3d113fb6e",
+      "data_cid": "111959643316812654",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a5267562c1f573f%3A0x18dc2b3d113fb6e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a5267562c1f573f%3A0x18dc2b3d113fb6e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.0021145,
+        "longitude": 80.2567581
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJP1cfLFZnUjoRbvsT0bPCjQE",
+      "provider_id": "/g/11pls9symc",
+      "rating": 4.7,
+      "reviews": 3190,
+      "type": "Electronics store",
+      "types": [
+        "Electronics store",
+        "Appliance store",
+        "Computer accessories store",
+        "Refrigerator store"
+      ],
+      "type_id": "electronics_store",
+      "type_ids": [
+        "electronics_store",
+        "appliance_store",
+        "computer_accessories_store",
+        "refrigerator_store"
+      ],
+      "address": "No 36, 2724+XPP, Jamals Diamond Plaza, LB Rd, Parameshwari Nagar, Adyar, Chennai, Tamil Nadu 600020, India",
+      "country": "India",
+      "open_state": "Open · Closes 9:30 PM",
+      "hours": "Open · Closes 9:30 PM",
+      "operating_hours": {
+        "thursday": "11 AM–9:30 PM",
+        "friday": "11 AM–9:30 PM",
+        "saturday": "11 AM–9:30 PM",
+        "sunday": "11 AM–9:30 PM",
+        "monday": "11 AM–9:30 PM",
+        "tuesday": "11 AM–9:30 PM",
+        "wednesday": "11 AM–9:30 PM"
+      },
+      "phone": "+91 81476 73527",
+      "website": "https://store.croma.com/croma-adyar-electronics-retail-and-repair-shop-adyar-chennai-263468/Home?utm_source=locator&utm_medium=googleplaces",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "delivery": true
+      },
+      "user_review": "\"Adyar store is spacious, with ample parking.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmN558dLMsuOCpmvas_ogbAgPLJbEISHH-CMkl7eS184bVD9nifAupuD0E-11bQtl8efv1JbtwcLWxI1jQElFrofCeTaQhS3m1oEtWMpxHb35_f0jaiS-fAic3ivQU-nuOHwiYE-=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/BmoPhHicHcTRroIgAADQLyJh5rK2--CMO2ta11m5-9SEACkEJqD9Yd_Q37R1Hs771Xtv3SaKVB8vhDFCseDYSI32TPsFNUMkxs45QF2U5ZNVwyFJ0ltZuXDM7TB17moEycRfuSd41xQFyKuHWrEGpUty2a615FmwYQsxQIjUXqWMT2hP_EzL9rlD9xqr39HwnJ26um_iARns28o-CxInVw7vnWwAzySN5VSfgQ7HYpb_GPzMCEII-u8U6A-RR0Tl"
+    },
+    {
+      "position": 15,
+      "title": "My Little One Adyar | Baby Shop & Toy Shop",
+      "place_id": "ChIJ79yCsMtnUjoRnXq88TOMSs0",
+      "data_id": "0x3a5267cbb082dcef:0xcd4a8c33f1bc7a9d",
+      "data_cid": "14792790080778697373",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a5267cbb082dcef%3A0xcd4a8c33f1bc7a9d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a5267cbb082dcef%3A0xcd4a8c33f1bc7a9d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9965598,
+        "longitude": 80.2518099
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ79yCsMtnUjoRnXq88TOMSs0",
+      "provider_id": "/g/11fdxnpk54",
+      "rating": 4.8,
+      "reviews": 2708,
+      "type": "Children's store",
+      "types": [
+        "Children's store",
+        "Baby clothing store",
+        "Baby store",
+        "Batik clothing store",
+        "Toy store"
+      ],
+      "type_id": "childrens_store",
+      "type_ids": [
+        "childrens_store",
+        "baby_clothing_store",
+        "baby_store",
+        "batik_clothing_store",
+        "toy_store"
+      ],
+      "address": "No.1, 1, 10th Cross St, First Avenue, Indira Nagar, Adyar, Chennai, Tamil Nadu 600020, India",
+      "country": "India",
+      "open_state": "Open · Closes 9:30 PM",
+      "hours": "Open · Closes 9:30 PM",
+      "operating_hours": {
+        "thursday": "9:30 AM–9:30 PM",
+        "friday": "9:30 AM–9:30 PM",
+        "saturday": "9:30 AM–9:30 PM",
+        "sunday": "9:30 AM–9:30 PM",
+        "monday": "9:30 AM–9:30 PM",
+        "tuesday": "9:30 AM–9:30 PM",
+        "wednesday": "9:30 AM–9:30 PM"
+      },
+      "phone": "+91 44 4856 6277",
+      "website": "https://www.mylittleone.in/",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "in_store_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"Nice collections @ Adyar Branch with affordable price.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNDy6P-zFY2wNTGkyZn-6LmFCSquvaIq8cqz3bn4Y75qZt1nj0xNTRveImDiVdowUeIFPwf14Il-TuIWhbUQySjxJFRpfnbnixjvg4b-Dp0fkJuI6PPfFsduvfrys-fznWeqfsO=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/jUPa8HicHcRbjoIwFADQFVWKMowx8cNIamomDCpq9E9qCyLcUvrgsUHX4G5MPB_n_SqMafTC86piNsmlzCtuNW-ZBMPBTJisvby9aY2Y9lZr11R1HA1hgkZymXZxunkOV0DhX03WB2Xdjao5U-Msg-Dy-6OuxocS93G6d5zW0eN0l92RU5J0wg9ohVJLz0V23A2Hst-SfSMgg0dfujzIUNRg8dxaGiaJIPpunWgHjcQIZ66E_l92PsYYFd8Zgg8pHUeB"
+    },
+    {
+      "position": 16,
+      "title": "Adyar Departmental Stores",
+      "place_id": "ChIJwRndBvFnUjoR6KXJXxYJJek",
+      "data_id": "0x3a5267f106dd19c1:0xe92509165fc9a5e8",
+      "data_cid": "16799843976676484584",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a5267f106dd19c1%3A0xe92509165fc9a5e8&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a5267f106dd19c1%3A0xe92509165fc9a5e8&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.998433499999999,
+        "longitude": 80.2595362
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJwRndBvFnUjoR6KXJXxYJJek",
+      "provider_id": "/g/1w6r6q1x",
+      "rating": 4.2,
+      "reviews": 274,
+      "unclaimed_listing": true,
+      "type": "Grocery store",
+      "types": [
+        "Grocery store"
+      ],
+      "type_id": "grocery_store",
+      "type_ids": [
+        "grocery_store"
+      ],
+      "address": "37, 1st Main Rd, Shastri Nagar, Adyar, Chennai, Tamil Nadu 600020, India",
+      "country": "India",
+      "open_state": "Open · Closes 10:30 PM",
+      "hours": "Open · Closes 10:30 PM",
+      "operating_hours": {
+        "thursday": "8 AM–10:30 PM",
+        "friday": "8 AM–10:30 PM",
+        "saturday": "8 AM–10:30 PM",
+        "sunday": "8 AM–10:30 PM",
+        "monday": "8 AM–10:30 PM",
+        "tuesday": "8 AM–10:30 PM",
+        "wednesday": "8 AM–10:30 PM"
+      },
+      "phone": "+91 98843 97784",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Great produce"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "delivery": true
+      },
+      "user_review": "\"Has provisions, snacks and stationery.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMAZgn-ATG2lpvLezh8LDQQfGmAu-0cfFoQE6z7Dl7XmuyHKbgQ0lEn4tsBIfRQ6cRpcXaVJlOdKs5Jt4ojOJO8Ht_xRbY5H3pp-4Um-57yGMCkYJ_Cine7-WvT2nTh38ugB8vAjg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/8NMXuHicHcRJDoIwAADAF1WqgBATDxUVRA0pwfVitJZW7RZbcPmhT_A3Js5hvh_unLEDzxPc7zCtmaCNpXeilaPKdYiWHrsfrQXEeihpjZBLtGcKoCrtCdMu6JvHizHGdSpRAyCppxpP-u9oLKKtbF7Z_MQwFBMVODua1SXuk9KQ7XGdi-I8t2HuAn0t8iLO3OFZnnZh5hsDgpUEYfRKl8ltlx-Si6IR2LRVT1Xcjxs2ilt0ZcNHF0II-H8C1A8VDUUb"
+    },
+    {
+      "position": 17,
+      "title": "VNH Naidu Hall The Family Store - Adyar",
+      "place_id": "ChIJgevyxERnUjoRMX7LnLPHhjw",
+      "data_id": "0x3a526744c4f2eb81:0x3c86c7b39ccb7e31",
+      "data_cid": "4361392863398559281",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a526744c4f2eb81%3A0x3c86c7b39ccb7e31&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a526744c4f2eb81%3A0x3c86c7b39ccb7e31&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.0076285,
+        "longitude": 80.2626428
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJgevyxERnUjoRMX7LnLPHhjw",
+      "provider_id": "/g/11r3gpdm4h",
+      "rating": 4.9,
+      "reviews": 3392,
+      "type": "Women's clothing store",
+      "types": [
+        "Women's clothing store",
+        "Baby clothing store",
+        "Clothing store",
+        "Lingerie store"
+      ],
+      "type_id": "womens_clothing_store",
+      "type_ids": [
+        "womens_clothing_store",
+        "baby_clothing_store",
+        "clothing_store",
+        "lingerie_store"
+      ],
+      "address": "No.21, Besant Ave Rd, near Theosophical Society, Karpagam Gardens, Adyar, Chennai, Tamil Nadu 600020, India",
+      "country": "India",
+      "open_state": "Open · Closes 9:30 PM",
+      "hours": "Open · Closes 9:30 PM",
+      "operating_hours": {
+        "thursday": "9:30 AM–9:30 PM",
+        "friday": "9:30 AM–9:30 PM",
+        "saturday": "9:30 AM–9:30 PM",
+        "sunday": "9:30 AM–9:30 PM",
+        "monday": "9:30 AM–9:30 PM",
+        "tuesday": "9:30 AM–9:30 PM",
+        "wednesday": "9:30 AM–9:30 PM"
+      },
+      "phone": "+91 44 4264 2151",
+      "website": "https://vnhnaiduhall.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "In-store pickup",
+            "Onsite services"
+          ]
+        },
+        {
+          "offerings": [
+            "Women's clothing"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"Great collections and great service by Helan - Adyar branch\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOnB1Rl5rZXASVKvCaaVVLn9Algff_gSZNz3jg3ZChrAV2ccP8j2CAQfTXoXymWe98GpeqpxD19iage8U4ZxWayAajgvwKoGf_J2zk5kThm6zaiz2jGopZK4egtjnYfzPjm9Oho=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/41i6FHicHcTbasIwGADgJ6o9qbSDXWQdFKyom652uZEQkj_GnNZkVfOCewbfRth38T3-RAjOv6SpEuUMrAXFfj0bqTWBmTCjVqcwEu8T6lPUTE7prXnLP9VixAPa993UENL3a1MjBZyfYI83sZRQ4kaMqC8o3VWyaNAHPwx2uOsjq6vWsR93e8_rMwFWfc3x7UjuiEiYrp1t-WlVxMvichB6Gck5FrK1DndzBkGabx53UtdbYV-veZZlififJuYJCUlHBQ"
+    },
+    {
+      "position": 18,
+      "title": "Poorvika Mobiles Adyar",
+      "place_id": "ChIJYz6vW_FnUjoRvwq08iBi-nU",
+      "data_id": "0x3a5267f15baf3e63:0x75fa6220f2b40abf",
+      "data_cid": "8501215140265593535",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a5267f15baf3e63%3A0x75fa6220f2b40abf&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a5267f15baf3e63%3A0x75fa6220f2b40abf&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.996418799999999,
+        "longitude": 80.25946069999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJYz6vW_FnUjoRvwq08iBi-nU",
+      "provider_id": "/g/11c4jmkqjs",
+      "rating": 4.8,
+      "reviews": 5308,
+      "type": "Cell phone store",
+      "types": [
+        "Cell phone store",
+        "Cell phone accessory store",
+        "Computer store"
+      ],
+      "type_id": "cell_phone_store",
+      "type_ids": [
+        "cell_phone_store",
+        "cell_phone_accessory_store",
+        "computer_store"
+      ],
+      "address": "Mahatma Gandhi Rd, opp. Kotak Mahindra Bank 37, RBI Colony, Shastri Nagar, Adyar, Chennai, Tamil Nadu 600041, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "thursday": "10 AM–10 PM",
+        "friday": "10 AM–10 PM",
+        "saturday": "10 AM–10 PM",
+        "sunday": "10 AM–10 PM",
+        "monday": "10 AM–10 PM",
+        "tuesday": "10 AM–10 PM",
+        "wednesday": "10 AM–10 PM"
+      },
+      "phone": "+91 44 4366 6666",
+      "website": "https://www.poorvika.com/stores/chennai/valmiki-nagar/ady",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "Google Pay",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop",
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"Such a good shop from Adyar and the staff was good response deepan raj\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmM2ldwX6B2tCpA4EIrsqb0VzNUyZUxYVLU31Ccw0AGjR9RQW0xUsL_IWS1qwy9UPGjLVNIknD0eQDoQGXoFfvDpkqX8uFbLNnY3pDJrCyeiMyBn_8NNsUIvvJi0U-mrWDKC4V1K=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/LMv5KHicHcRRDoIgAADQE5mYrVlbHwblLGNZQ62flkRaKSCQZhfsDN2mrffxvp_SGKmntl2V7qAQoqjYUzNFBTeMmwEVtV2os9YW1bYPW1nVm2F16bLxfGig9EeLUOkmB8kbk_5IXockIq4DaQf84L6b7OIUvIiOTmG6d5qun5BtcI8SHD44AixGIg4ysby2SD6azHsu8wjzgyvRSsGe3Tb9nJ88jDUJ23Z1A8SqVYrWcJQ461nnAACs8j-1-A-fhkTn"
+    },
+    {
+      "position": 19,
+      "title": "Tanishq Jewellery - Chennai - Adyar",
+      "place_id": "ChIJ83XFLO9nUjoRhixX990aMhY",
+      "data_id": "0x3a5267ef2cc575f3:0x16321addf7572c86",
+      "data_cid": "1599370358309727366",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a5267ef2cc575f3%3A0x16321addf7572c86&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a5267ef2cc575f3%3A0x16321addf7572c86&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.006428,
+        "longitude": 80.25446409999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ83XFLO9nUjoRhixX990aMhY",
+      "provider_id": "/g/1tfbg4m7",
+      "rating": 4.8,
+      "reviews": 2158,
+      "type": "Jewelry store",
+      "types": [
+        "Jewelry store",
+        "Jeweler",
+        "Jewelry designer",
+        "Jewelry manufacturer",
+        "Jewelry repair service"
+      ],
+      "type_id": "jewelry_store",
+      "type_ids": [
+        "jewelry_store",
+        "jeweler",
+        "jewelry_designer",
+        "jewelry_manufacturer",
+        "jewelry_repair_service"
+      ],
+      "address": "NO: 15, Sardar Patel Rd, Nethaji Colony, Kasturba Nagar, Adyar, Chennai, Tamil Nadu 600020, India",
+      "country": "India",
+      "open_state": "Open · Closes 9 PM",
+      "hours": "Open · Closes 9 PM",
+      "operating_hours": {
+        "thursday": "10 AM–9 PM",
+        "friday": "10 AM–9 PM",
+        "saturday": "10 AM–9:30 PM",
+        "sunday": "10 AM–9:30 PM",
+        "monday": "10 AM–9 PM",
+        "tuesday": "10 AM–9 PM",
+        "wednesday": "10 AM–9 PM"
+      },
+      "phone": "+91 44 4215 1919",
+      "website": "https://stores.tanishq.co.in/store-locator/jewellery-stores/TamilNadu/Chennai/Chennai-Adyar-ADR",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "Google Pay",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "in_store_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"Raja selvaraj at adyar store was very courteous and helpful\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMWEKPNPwU5t9t2tmZlYLBqQzFUe8OJ-GkVnqdTgaIUz14QmLhCqljD_sd_YNFRvfurmaGnyQ_sku84ox_SaFODLc6uMRCo9_J3ucbDRUZ4n45KkcoFkJ4yTkA5nsSeLaF0-9eTmA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/5LXAF3icHcTbboIwAADQL6rgLEaW7AHBGhEvIMzoS1NLhaw3oa1O_tBP2N-Y7Dycv1dr7c18ep5oJ6NG60YwZ1hPtbJM2RHV0mt6Ygygxovi-03IzXGx3m_3jyqwof2w8ixO2bzLB1Sx2S4FS_6turpsyKoaxjCXWRt34ifBpsanLSruV9dLslTPHBvuZlD_4gNBuySjU7cpYh3idOLoJSmqM1QwWHOqEU_hs-RRoMyBZQT5IGSljL4eY9_3Qfs_BeoNnVRGcA"
+    },
+    {
+      "position": 20,
+      "title": "Girias Adyar Branch- Electronics and Home Appliances Store",
+      "place_id": "ChIJLeV5HPNnUjoRImcPTd1rNXY",
+      "data_id": "0x3a5267f31c79e52d:0x76356bdd4d0f6722",
+      "data_cid": "8517832868465960738",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a5267f31c79e52d%3A0x76356bdd4d0f6722&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a5267f31c79e52d%3A0x76356bdd4d0f6722&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.995330099999999,
+        "longitude": 80.2556846
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJLeV5HPNnUjoRImcPTd1rNXY",
+      "provider_id": "/g/11b6gbrbn2",
+      "rating": 4.8,
+      "reviews": 5489,
+      "type": "Electronics store",
+      "types": [
+        "Electronics store",
+        "Air conditioning store",
+        "Appliance store",
+        "Cell phone accessory store",
+        "Cell phone store",
+        "Computer store",
+        "Countertop store",
+        "Electrical appliance wholesaler",
+        "Electronics wholesaler",
+        "Home audio store"
+      ],
+      "type_id": "electronics_store",
+      "type_ids": [
+        "electronics_store",
+        "air_conditioning_store",
+        "appliance_store",
+        "cell_phone_accessory_store",
+        "cell_phone_store",
+        "computer_store",
+        "countertop_store",
+        "electrical_appliance_wholesaler",
+        "electronics_wholesaler",
+        "stereo_store"
+      ],
+      "address": "151, LB Rd, near HDFC Bank, Indira Nagar, Adyar, Chennai, Tamil Nadu 600020, India",
+      "country": "India",
+      "open_state": "Open · Closes 9:30 PM",
+      "hours": "Open · Closes 9:30 PM",
+      "operating_hours": {
+        "thursday": "9:30 AM–9:30 PM",
+        "friday": "9:30 AM–9:30 PM",
+        "saturday": "9:30 AM–9:30 PM",
+        "sunday": "9:30 AM–9:30 PM",
+        "monday": "9:30 AM–9:30 PM",
+        "tuesday": "9:30 AM–9:30 PM",
+        "wednesday": "9:30 AM–9:30 PM"
+      },
+      "phone": "+91 89398 87222",
+      "website": "http://www.giriasindia.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "in_store_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"I brought a Ac for best price in girias at Adyar branch.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNo1YshK-TMiH0RqjlPS6J_Ga_nhFZdBgxh4B_fl0NvU7lFVJFlZaAnfPeLbU5_WIHJ6S84Up3WR6hrWpkwz7ovfqRKHwTOldGqsNFvwdqsp5qYQFdgLzhZYcVPZErRw1a0woa-tQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/TM0SjHicHcRdboIwAADgExVKVDQme9BlFUEZokjghXQFWrX2h3Z08YYewduY7Hv4Xk9mrTJL3-ds4lEpKe9-TTcQKWwnrEfk3acDNgYQ468-R8XvqQwqwxJw2l8imOsrz45h3GxwIxiq2zX9Y9N103OYjsWco3OMeI1Xos-63U8xa8ptFIfHxbRQkzIP2VCqm3vM5djrPInc6Zu3G21SNLpWGzXT1QG1dPdgdUXOWf015C7A0EkM7OHDBRBCwP4nQLwBfIpHKg"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&q=shops+near+Adyar+Chennai&start=20&type=search"
+  }
+}

@@ -24,6 +24,19 @@ export function getCached<T>(params: Record<string, unknown> | string): T | null
 	ensureCacheDir();
 	const hash = getParamsHash(params);
 	const filePath = path.join(CACHE_DIR, `${hash}.json`);
+	const demoFilePath = path.join(process.cwd(), 'data', 'demo', `${hash}.json`);
+	const isDemoMode = process.env.DEMO_MODE === '1' || process.env.DEMO_MODE === 'true';
+
+	// In DEMO_MODE, read from data/demo directory
+	if (isDemoMode && fs.existsSync(demoFilePath)) {
+		try {
+			const content = fs.readFileSync(demoFilePath, 'utf-8');
+			console.log(`[DEMO CACHE HIT] ${hash}`);
+			return JSON.parse(content) as T;
+		} catch (err) {
+			console.warn(`[DEMO CACHE WARN] Failed to read demo cached file for ${hash}:`, err);
+		}
+	}
 
 	if (fs.existsSync(filePath)) {
 		try {

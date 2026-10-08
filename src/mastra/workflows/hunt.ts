@@ -97,6 +97,8 @@ const selectCluesStep = createStep({
 	}
 });
 
+import * as Sentry from '@sentry/nextjs';
+
 // Step 4: writeClues
 const writeCluesStep = createStep({
 	id: 'writeClues',
@@ -123,6 +125,7 @@ const writeCluesStep = createStep({
 		const tier = inputData.tier as DifficultyTier;
 		const writtenClues: Clue[] = [];
 		const attemptsPerClue: Record<number, number> = {};
+		const isPlantFaultEnabled = process.env.PLANT_FAULT === '1';
 
 		for (const clue of clues) {
 			const fact = facts.find((f) => f.id === clue.placeId) || facts[0];
@@ -133,8 +136,28 @@ const writeCluesStep = createStep({
 			while (attempts < 3) {
 				attempts++;
 				try {
-					const riddle = await writeClueRiddle(tier, clue.baseClue, fact, failureReasons);
+					let riddle = await writeClueRiddle(tier, clue.baseClue, fact, failureReasons);
+
+					// Debug mode: deliberately inject invalid fact on attempt 1 of clue 1 to verify trace rejection
+					if (isPlantFaultEnabled && clue.n === 1 && attempts === 1) {
+						riddle = 'A shopping mall rated between 1.0 and 1.5 on Velachery Main Rd for scavenger scouts.';
+					}
+
 					const verification = verify(riddle, clue, fact, tier);
+
+					// Emit Sentry breadcrumb for observability trace
+					Sentry.addBreadcrumb({
+						category: 'verifier',
+						message: `Clue #${clue.n} Attempt ${attempts}: ${verification.ok ? 'PASSED' : 'REJECTED'}`,
+						level: verification.ok ? 'info' : 'warning',
+						data: {
+							clue: clue.n,
+							place: clue.answer,
+							attempt: attempts,
+							reasons: verification.reasons
+						}
+					});
+
 					if (verification.ok) {
 						writtenClues.push({
 							...clue,
@@ -164,6 +187,17 @@ const writeCluesStep = createStep({
 					attempts,
 					verifierFailures: failureReasons
 				});
+			}
+
+			// Record clue metrics onto active Sentry span
+			const activeSpan = Sentry.getActiveSpan();
+			if (activeSpan) {
+				activeSpan.setAttribute(`clue.${clue.n}.tier`, tier);
+				activeSpan.setAttribute(`clue.${clue.n}.attempts`, attempts);
+				activeSpan.setAttribute(`clue.${clue.n}.source`, passed ? 'model' : 'fallback');
+				if (failureReasons.length > 0) {
+					activeSpan.setAttribute(`clue.${clue.n}.verifierFailures`, failureReasons.join('; '));
+				}
 			}
 		}
 

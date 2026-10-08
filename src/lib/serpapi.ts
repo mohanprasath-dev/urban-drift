@@ -37,6 +37,21 @@ export async function fetchGoogleMaps(params: SerpApiMapsParams): Promise<SerpAp
 		return cached;
 	}
 
+	const isDemoMode = process.env.DEMO_MODE === '1' || process.env.DEMO_MODE === 'true';
+	if (isDemoMode) {
+		// In DEMO_MODE, strictly make zero live network calls; fallback to first available demo fixture
+		const fs = await import('fs');
+		const path = await import('path');
+		const demoDir = path.join(process.cwd(), 'data', 'demo');
+		const demoFiles = fs.readdirSync(demoDir).filter((f) => f.endsWith('.json') && !f.startsWith('_'));
+		if (demoFiles.length > 0) {
+			const fallbackFile = path.join(demoDir, demoFiles[0]);
+			console.log(`[DEMO MODE] Using offline demo fixture ${demoFiles[0]}`);
+			return JSON.parse(fs.readFileSync(fallbackFile, 'utf-8')) as SerpApiMapsResponse;
+		}
+		throw new Error('[DEMO MODE] No matching demo dataset found in data/demo. Live calls are blocked in DEMO_MODE.');
+	}
+
 	const apiKey = process.env.SERPAPI_KEY;
 	if (!apiKey) {
 		throw new Error('[NEEDS INPUT: SERPAPI_KEY environment variable is missing]');
