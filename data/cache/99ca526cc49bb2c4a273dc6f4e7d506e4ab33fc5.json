@@ -1,0 +1,1784 @@
+{
+  "search_metadata": {
+    "id": "6ac7620773d175ae7e2463dd",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/lyt0Rb6bmCd0Q-tPUUUawyceaBbpny0hGMok1YTd6D4/6ac7620773d175ae7e2463dd.json",
+    "markdown_endpoint": "https://serpapi.com/searches/lyt0Rb6bmCd0Q-tPUUUawyceaBbpny0hGMok1YTd6D4/6ac7620773d175ae7e2463dd.md",
+    "created_at": "2026-10-08 09:27:35 UTC",
+    "processed_at": "2026-10-08 09:27:35 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/shops+near+Velachery+Chennai//data=!3m1!4b1!4m2!2m1!6e5?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/lyt0Rb6bmCd0Q-tPUUUawyceaBbpny0hGMok1YTd6D4/6ac7620773d175ae7e2463dd.html",
+    "prettify_html_file": "https://serpapi.com/searches/lyt0Rb6bmCd0Q-tPUUUawyceaBbpny0hGMok1YTd6D4/6ac7620773d175ae7e2463dd.prettify",
+    "total_time_taken": 0.92
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "shops near Velachery Chennai",
+    "google_domain": "google.com",
+    "hl": "en"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "shops near Velachery Chennai"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Palladium",
+      "place_id": "ChIJyRJVoWNnUjoRoqKznHcJO2s",
+      "data_id": "0x3a526763a15512c9:0x6b3b09779cb3a2a2",
+      "data_cid": "7726779995018994338",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a526763a15512c9%3A0x6b3b09779cb3a2a2&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a526763a15512c9%3A0x6b3b09779cb3a2a2&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9930434,
+        "longitude": 80.2178132
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJyRJVoWNnUjoRoqKznHcJO2s",
+      "provider_id": "/g/11ddzc_dqg",
+      "rating": 4.5,
+      "reviews": 17491,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall"
+      ],
+      "type_id": "shopping_center",
+      "type_ids": [
+        "shopping_center"
+      ],
+      "address": "Velachery Main Rd, Indira Gandhi Nagar, Velachery, Chennai, Tamil Nadu 600042, India",
+      "country": "India",
+      "open_state": "Open · Closes 10:30 PM",
+      "hours": "Open · Closes 10:30 PM",
+      "operating_hours": {
+        "thursday": "11 AM–10:30 PM",
+        "friday": "11 AM–10:30 PM",
+        "saturday": "10 AM–10:30 PM",
+        "sunday": "10 AM–10:30 PM",
+        "monday": "11 AM–10:30 PM",
+        "tuesday": "11 AM–10:30 PM",
+        "wednesday": "11 AM–10:30 PM"
+      },
+      "phone": "+91 44 6134 3088",
+      "website": "http://www.palladiumchennai.com/",
+      "description": "Upmarket shopping center in a luxe space. High-end mall featuring domestic & international shops & restaurants in a unique, modern building.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Arcade games"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Has changing table(s)",
+            "Playground"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Has some of the most high end stores in Chennai.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RVqa0MK6TMUcZ8a_SuImP7P3TNFNezsqOpUsm9PvdGUQ5XpgOCjN9K_oXM8wewDfjo-z__XRSbnSg2xgkpL4071qZ_vleyBOjaQKxL5kfmeqsVAut7DssJAODevqWVWXTdDOKchA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/0Hz9N3icHcTdboIwGADQJ6rUqUOW7AIlLopQlN9402CtZQi03VdAfcM9wt5miefi_P1Wxij4sKymmk2ElKLhPfAfJjvDOzNhsrWEAsQAgeWG-ffDOWa6xIH_ngQpOy1LGvfbNrKjWRJuQv4ETVQKrRMNl6_0sCiUIOs6dHwqi2A58tG71hI9KS2O8bmLxdtd3NR-ju2pPtGh4Y8VqcuDf98vbteWa8jc3tgewM4lHh90nuVFcvGIzyr3c5xijFH1mqHuH00fRr8"
+    },
+    {
+      "position": 2,
+      "title": "The Chennai Silks - Velachery",
+      "place_id": "ChIJLYl8EJddUjoRgSFq_WT0U2I",
+      "data_id": "0x3a525d97107c892d:0x6253f464fd6a2181",
+      "data_cid": "7085275353369420161",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a525d97107c892d%3A0x6253f464fd6a2181&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a525d97107c892d%3A0x6253f464fd6a2181&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9700379,
+        "longitude": 80.21905439999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJLYl8EJddUjoRgSFq_WT0U2I",
+      "provider_id": "/g/11b66sp0vg",
+      "rating": 4,
+      "reviews": 15522,
+      "type": "Clothing store",
+      "types": [
+        "Clothing store",
+        "Baby clothing store",
+        "Western apparel store",
+        "Youth clothing store"
+      ],
+      "type_id": "clothing_store",
+      "type_ids": [
+        "clothing_store",
+        "baby_clothing_store",
+        "western_apparel_store",
+        "youth_clothing_store"
+      ],
+      "address": "Railway Station, 137, Major Mukund Varadharajan Rd, near Velachery, Bhuvaneshwari Nagar, Velachery, Chennai, Tamil Nadu 600042, India",
+      "country": "India",
+      "open_state": "Open · Closes 9:30 PM",
+      "hours": "Open · Closes 9:30 PM",
+      "operating_hours": {
+        "thursday": "9:30 AM–9:30 PM",
+        "friday": "9:30 AM–9:30 PM",
+        "saturday": "9:30 AM–9:30 PM",
+        "sunday": "9:30 AM–9:30 PM",
+        "monday": "9:30 AM–9:30 PM",
+        "tuesday": "9:30 AM–9:30 PM",
+        "wednesday": "9:30 AM–9:30 PM"
+      },
+      "phone": "+91 44 2243 4888",
+      "website": "https://linktr.ee/thechennaisilkschennai",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Men's clothing",
+            "Women's clothing"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "delivery": true
+      },
+      "user_review": "\"Chennai Silks Velachery has improved a lot by now.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TUuaN62xaERp55QmechdJndYkHGqsxaUOdAW1k7IDHvqfMSkgMLBrnqolPr9cjmt2WjVPI_quO53_PzR17a1826Oio4WljA2w4ro6FeollERM9gbrmk3EJPl24OC6nF69UmqwwhA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/FcE2bnicHcRLcoIwAADQEyEQIEpnuqAWf1OEYpHpysEQEyEf8qFob-gRepvO-Bbv70GtHcyL6zIazIiUhOHRYI2ksFjYGZLcJYNxkHGMm-zr6z3-qsZmD8GtScshij45RrTdifa736yVuTVV3ia138-375sfdckOPck-3rRQkhU6Rh23oO6OxfakxjwKTsVv6c8bfwFgfpVhzboETKGWcIUlY2mZxeSseR-ku4KBMF9CsYJxxdU00eR18j3Pc-hz5Ih_PoVFqA"
+    },
+    {
+      "position": 3,
+      "title": "Babyhug Store Chennai Velachery",
+      "place_id": "ChIJ8ykugd9dUjoRULjDn5fxEwo",
+      "data_id": "0x3a525ddf812e29f3:0xa13f1979fc3b850",
+      "data_cid": "726189598459541584",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a525ddf812e29f3%3A0xa13f1979fc3b850&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a525ddf812e29f3%3A0xa13f1979fc3b850&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9781079,
+        "longitude": 80.2251828
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ8ykugd9dUjoRULjDn5fxEwo",
+      "provider_id": "/g/11fr2r_57v",
+      "rating": 4.7,
+      "reviews": 3268,
+      "type": "Baby store",
+      "types": [
+        "Baby store",
+        "Baby clothing store"
+      ],
+      "type_id": "baby_store",
+      "type_ids": [
+        "baby_store",
+        "baby_clothing_store"
+      ],
+      "address": "No.15, 15th St, Tansi Nagar, Velachery, Chennai, Tamil Nadu 600042, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "thursday": "10 AM–10 PM",
+        "friday": "10 AM–10 PM",
+        "saturday": "10 AM–10 PM",
+        "sunday": "10 AM–10 PM",
+        "monday": "10 AM–10 PM",
+        "tuesday": "10 AM–10 PM",
+        "wednesday": "10 AM–10 PM"
+      },
+      "phone": "+91 44 4261 4001",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Onsite services"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "service_options": {
+        "delivery": true
+      },
+      "user_review": "\"They have very good collection but everything is on the pricier side.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RSxc0KGGRhDmlFUO0rQtzWq9OcxQPKXdWul9afEqJ_7YToaF3uD0yXSXK6aG9vTTPkrM0FgSnmLXuVcccd-TCe9SKAxDTu1Ouj98tkXQXydVp2ppAwmlBl6HlkwFB0Avnq5CQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/LSdCAHicHcRRboIwGADgE1WqZs6a-IAyWERFpIPuaSE_DCalLbQV8IDeYbdZsu_h-33Wxii9cRxeL2eVlBUvrS57kMKUwsxAtk6lNAKNtOOes5-JXJMRcBgE19pruf8R4T42j6wjEYzxJWRFZjnJv9-6w9frJ5W5v7QenljCwlUekDull6Y_Yb9KRHtkNgWAAtF9SZLQHT1q55G9kbVpWMymIlULpdyh5Tu-eufN4O-wexfdyz7eDnOMMar_ByT-AFbdRPs"
+    },
+    {
+      "position": 4,
+      "title": "Lifestyle Stores",
+      "place_id": "ChIJq6qqN2JnUjoRkZ3OruAVUig",
+      "data_id": "0x3a52676237aaaaab:0x285215e0aece9d91",
+      "data_cid": "2905408764357025169",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a52676237aaaaab%3A0x285215e0aece9d91&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a52676237aaaaab%3A0x285215e0aece9d91&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9914835,
+        "longitude": 80.2166992
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJq6qqN2JnUjoRkZ3OruAVUig",
+      "provider_id": "/g/11gbw6lky7",
+      "rating": 4.2,
+      "reviews": 4486,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall",
+        "Bag shop",
+        "Beauty supply store",
+        "Children's store",
+        "Clothing store",
+        "Gift shop",
+        "Men's clothing store",
+        "Perfume store",
+        "Shoe store",
+        "Women's clothing store"
+      ],
+      "type_id": "shopping_center",
+      "type_ids": [
+        "shopping_center",
+        "bag_shop",
+        "beauty_supply_store",
+        "childrens_store",
+        "clothing_store",
+        "gift_shop",
+        "mens_clothing_store",
+        "perfume_store",
+        "shoe_store",
+        "womens_clothing_store"
+      ],
+      "address": "No. 142, Phoenix Market City, Velachery Main Rd, Indira Gandhi Nagar, Velachery, Chennai, Tamil Nadu 600042, India",
+      "country": "India",
+      "open_state": "Open · Closes 9:30 PM",
+      "hours": "Open · Closes 9:30 PM",
+      "operating_hours": {
+        "thursday": "11 AM–9:30 PM",
+        "friday": "11 AM–9:30 PM",
+        "saturday": "11 AM–9:30 PM",
+        "sunday": "11 AM–9:30 PM",
+        "monday": "11 AM–9:30 PM",
+        "tuesday": "11 AM–9:30 PM",
+        "wednesday": "11 AM–9:30 PM"
+      },
+      "phone": "+91 80 6501 1555",
+      "website": "https://stores.lifestylestores.com/lifestyle-stores-phoenix-market-city-shopping-centre-velacherry-chennai-69212/Home?utm_source=locator&utm_medium=googleplaces",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "onsite_services": true
+      },
+      "user_review": "\"Good garments collection, lot of brands available and competitive price.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TPr_9badzJUiuxzG7hpPPRT1Cm-HBNlOKbQkL81tjTvbQB7wIWm7z193rDZGejwMKSsfjCePSI_zgI6RotcRNBTusfiPJaM7Hjkaq5a-W3N76V3LFBSDqiahtzNnh_B3IbAphY=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/X3USKXicHcRLjoIwAADQE1UgzdjBxIXVqPipFRiJbkjpVAoCRVrE6QU9g7cxmbd475c0ptUTx6kkHOVK5ZXotei4aoxozIir2slbDbgG2pmRpPjzY9qlfsZ-7ean6J92hWRLaRh78xqsMakO2-x42317powf2RGjIUhqZD0fdovLSpTDfhvpazkXNApSmwfjUBkeEhz3-lrQDdujdXlj9y8GEkjQ-AR3Sxwt7gWTxpJGphgG2ayV5-ngua4L5P8cNB-XTET5"
+    },
+    {
+      "position": 5,
+      "title": "Phoenix Marketcity",
+      "place_id": "ChIJ62COtGNnUjoRUcI2kAApOts",
+      "data_id": "0x3a526763b48e60eb:0xdb3a29009036c251",
+      "data_cid": "15796983725351682641",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a526763b48e60eb%3A0xdb3a29009036c251&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a526763b48e60eb%3A0xdb3a29009036c251&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.991689899999999,
+        "longitude": 80.21694169999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ62COtGNnUjoRUcI2kAApOts",
+      "provider_id": "/g/1q54w6krf",
+      "rating": 4.5,
+      "reviews": 117089,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall",
+        "Clothing store",
+        "Men's clothing store"
+      ],
+      "type_id": "shopping_center",
+      "type_ids": [
+        "shopping_center",
+        "clothing_store",
+        "mens_clothing_store"
+      ],
+      "address": "142, Velachery Main Rd, Indira Gandhi Nagar, Velachery, Chennai, Tamil Nadu 600042, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "thursday": "10 AM–10 PM",
+        "friday": "10 AM–10 PM",
+        "saturday": "10 AM–10 PM",
+        "sunday": "10 AM–10 PM",
+        "monday": "10 AM–10 PM",
+        "tuesday": "10 AM–10 PM",
+        "wednesday": "10 AM–10 PM"
+      },
+      "phone": "+91 44 6134 3008",
+      "website": "https://www.phoenixmarketcity.com/chennai",
+      "description": "Sprawling indoor mall with a cinema. Huge shopping complex with hundreds of stores & eateries & a cinema, spread across multiple floors.",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Arcade games"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Has changing table(s)",
+            "Playground"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid parking garage",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SWtSMg8u2Q_DZbsf_hLGaJg2s17-eIqK_mYWecCYUyGLC_BkpUkyxOyqTWD_1XNDkCrkB5aesaEqzqe8OiawNepO8Yp94TTeNYU3Ro2E2DyZm8Lj0_r93ADesLiE7SdKExlealFw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/1G8V2nicHcTbToMwGADgJ-o4aQYmXmyULTqEKBBkN01XfwtyaOHvwuob-gi-jYnfxff70xqj8cFxhjbYSKXkAFeERajJwGQ2Qo2O1EgEEnR2Wd3ZqKhN8SLDq__K6PmCn6xNj_xZ-uhtCTzNJzY2NYi4qewxjdm-11Vvb7mdy5oy7z2jfbz0-3sOyJP5e4Yw7_iagc7DRkd3ZQlZUwVvyk98as9jmH65bImCHQVMu2RbfJyS2wB8OKyPq-e6Lmn_F2T6AzuTRfA"
+    },
+    {
+      "position": 6,
+      "title": "Grand Square",
+      "place_id": "ChIJfYMnTZddUjoR7woRinZFm98",
+      "data_id": "0x3a525d974d27837d:0xdf9b45768a110aef",
+      "data_cid": "16112548467272911599",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a525d974d27837d%3A0xdf9b45768a110aef&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a525d974d27837d%3A0xdf9b45768a110aef&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9719724,
+        "longitude": 80.2203988
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJfYMnTZddUjoR7woRinZFm98",
+      "provider_id": "/g/1hdzhjzbh",
+      "rating": 4,
+      "reviews": 39625,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall",
+        "Food court",
+        "Movie theater"
+      ],
+      "type_id": "shopping_center",
+      "type_ids": [
+        "shopping_center",
+        "food_court",
+        "movie_theater"
+      ],
+      "address": "137, Major Mukund Varadharajan Rd, V.O.C Nagar, Doctor Seetaram Nagar, Velachery, Chennai, Tamil Nadu 600042, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "thursday": "10 AM–10 PM",
+        "friday": "10 AM–10 PM",
+        "saturday": "10 AM–10 PM",
+        "sunday": "10 AM–10 PM",
+        "monday": "10 AM–10 PM",
+        "tuesday": "10 AM–10 PM",
+        "wednesday": "10 AM–10 PM"
+      },
+      "phone": "+91 44 3520 6989",
+      "website": "http://grandsquare.in/",
+      "description": "Modern mall with entertainment & dining. Contemporary shopping mall offering global brands, a casual food court & a cinema.",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Arcade games"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Has changing table(s)",
+            "Nursing room"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "On-site parking",
+            "Paid parking garage",
+            "Paid parking lot",
+            "Valet parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RaUGxvLhq4UZ1mgCdD4XteM0kOVm_2wZB-v3uAEtocNeLhoIGH49RGmzFj23DudgUwzvDKCqlaxKh6JhaW1PY5bYX4wfCD-XOpMUc8VxQh1bfDTFP8oN4ekTzx4Lwz6Mf0H2qbKw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/rabO-XicHcRLjoIwAADQE1UKVKOTuFCq6PDxE1F0Y6CW1hEoTAtFbugRvI2Jb_HeL65UJX8MI-f2gAnBctpI-k9EqWipBkQUBqskIBJIYxae7s_JPoncrvV5jaKLWTDnhlGsaAAfm2NxtfRlDlq7mS2UICH1uVi7KzTZu0W__LNs3NxYpPsWe06dJ53HR788OZnb8zA9x0hnDgbxpgoiMj52O26mGT4st2MRIvo49B3ydT8KMriy6tTTU21CCAH_TkD5AQtpRWQ"
+    },
+    {
+      "position": 7,
+      "title": "D-Mart",
+      "place_id": "ChIJD-KhqthdUjoRV3XGphLPLl0",
+      "data_id": "0x3a525dd8aaa1e20f:0x5d2ecf12a6c67557",
+      "data_cid": "6714531773470373207",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a525dd8aaa1e20f%3A0x5d2ecf12a6c67557&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a525dd8aaa1e20f%3A0x5d2ecf12a6c67557&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9719389,
+        "longitude": 80.22068139999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJD-KhqthdUjoRV3XGphLPLl0",
+      "provider_id": "/g/11sg_61c8x",
+      "rating": 4.1,
+      "reviews": 4662,
+      "type": "Hypermarket",
+      "types": [
+        "Hypermarket",
+        "Grocery store"
+      ],
+      "type_id": "hypermarket",
+      "type_ids": [
+        "hypermarket",
+        "grocery_store"
+      ],
+      "address": "Grand Square Mall, 46, 1st Main Rd, V.O.C Nagar, VGP Selva Nagar, Velachery, Chennai, Tamil Nadu 600042, India",
+      "country": "India",
+      "open_state": "Open · Closes 9:30 PM",
+      "hours": "Open · Closes 9:30 PM",
+      "operating_hours": {
+        "thursday": "10 AM–9:30 PM",
+        "friday": "10 AM–9:30 PM",
+        "saturday": "10 AM–9:30 PM",
+        "sunday": "10 AM–9:30 PM",
+        "monday": "10 AM–9:30 PM",
+        "tuesday": "10 AM–9:30 PM",
+        "wednesday": "10 AM–9:30 PM"
+      },
+      "phone": "+91 22 3340 0500",
+      "website": "https://www.dmartindia.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "No-contact delivery",
+            "Delivery",
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Great produce"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "delivery": true
+      },
+      "user_review": "\"Fair priced grocery shop in Velachery.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RWypHvv9L3bjvXNQqt7z5UjO9p31B_hqT83wL5sSM_mofpiwsBvEdaKU6kroArLg68Om3PsXJiC2fRw3t9vuFzg2nS2_kreVktsOqJKznyj8C0jcoJr9u81inzCvnjqcWzGrMqcw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Ocnm-nicHcTbboIwGADgJ0IOjUpNdqFkbkGUTefwjmjFQpGe_tKGvuEeYW-zZN_F9_vTGiNhFYbPFs2oEPTZjNBoIrhpuJkRMYRUQkAggHB9qLoJH6tJvluLC3Rj9nL4VGbp52dWYoniTd2qrxS5Yg6nfT2Ih-wcbOzr_bo7L3ot1rqgi7Qc0Adc8i5LHkeHDLbj1tOEn5K61813b6BU-c7ziaVZxIjINR7TuOM-s5wpUvk3vVfEvbg4iqKg_Z8E_A-jD0f5"
+    },
+    {
+      "position": 8,
+      "title": "FirstCry.com Store Chennai Velachery",
+      "place_id": "ChIJu3MoiY1dUjoRdtGyoFzu35M",
+      "data_id": "0x3a525d8d892873bb:0x93dfee5ca0b2d176",
+      "data_cid": "10655497324982358390",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a525d8d892873bb%3A0x93dfee5ca0b2d176&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a525d8d892873bb%3A0x93dfee5ca0b2d176&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9877332,
+        "longitude": 80.2182402
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJu3MoiY1dUjoRdtGyoFzu35M",
+      "provider_id": "/g/11shh640c5",
+      "rating": 4.8,
+      "reviews": 4138,
+      "type": "Baby store",
+      "types": [
+        "Baby store"
+      ],
+      "type_id": "baby_store",
+      "type_ids": [
+        "baby_store"
+      ],
+      "address": "Plot No. 166, Door No.1, Ganapathy Nagar Scheme, Pandidurai Street, Velachery Bypass Rd, Velachery, Chennai, Tamil Nadu 600042, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "thursday": "10 AM–10 PM",
+        "friday": "10 AM–10 PM",
+        "saturday": "10 AM–10 PM",
+        "sunday": "10 AM–10 PM",
+        "monday": "10 AM–10 PM",
+        "tuesday": "10 AM–10 PM",
+        "wednesday": "10 AM–10 PM"
+      },
+      "phone": "+91 44 4767 7841",
+      "website": "https://www.firstcry.com/?utm_source=gmb_optimization&utm_medium=organic&utm_campaign=gmb",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Onsite services"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        }
+      ],
+      "service_options": {
+        "delivery": true
+      },
+      "user_review": "\"Awesome shopping with vibrant options and good offers.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TZOnaiocZUfyZijNZ7wBqbs2pyMGWB73e-3tBSsV9BDbciKMrlhrneWmsNkTFtu5LkToGp27JYSnWoT-fO-jF_G-cvhoizeU3OIvsfD07ZKeUCBRXDPcLWVdX19lmh3FwZ7LV1=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/hMId13icHcRRboIwGADgE1XAxjQs2cM6AlERzATq-mK0FlqFFvmrBC_oGXYbk30P399LOdfDh-e1Cs8aa5tW3kEOwhonjZsJ23lND0gAAu8rY3oKC56bo7aCl_XE9SXjZKS3E8z7aZMwSrBE2NEdVCGNTkKvN0OrBiNZB9m1iN19kV4Lm_RzsvrdGWYLVOfoEh8SJB7K6qcscb58QB35hK9l-U1_9tFWpKw674Ow7RSOR07SKvgcA9_3kfpfIPMG2iBFHQ"
+    },
+    {
+      "position": 9,
+      "title": "Instore",
+      "place_id": "ChIJEZ4y4Y5dUjoRJci6WHBjvs0",
+      "data_id": "0x3a525d8ee1329e11:0xcdbe637058bac825",
+      "data_cid": "14825396357526374437",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a525d8ee1329e11%3A0xcdbe637058bac825&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a525d8ee1329e11%3A0xcdbe637058bac825&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9817035,
+        "longitude": 80.2174718
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJEZ4y4Y5dUjoRJci6WHBjvs0",
+      "provider_id": "/g/11gghp7y66",
+      "rating": 4.4,
+      "reviews": 6582,
+      "type": "Clothing store",
+      "types": [
+        "Clothing store",
+        "Baby clothing store",
+        "Jeans shop",
+        "Formal wear store",
+        "Lingerie store",
+        "Maternity store",
+        "T-shirt store",
+        "Western apparel store",
+        "Women's clothing store"
+      ],
+      "type_id": "clothing_store",
+      "type_ids": [
+        "clothing_store",
+        "baby_clothing_store",
+        "denim_wear_store",
+        "formal_clothing_store",
+        "lingerie_store",
+        "maternity_store",
+        "t_shirt_store",
+        "western_apparel_store",
+        "womens_clothing_store"
+      ],
+      "address": "18, 100 Feet Rd, near Sri Balaji Furniture, next to Malabar Gold & Joyalukkas, Vedanshi, Velachery, Chennai, Tamil Nadu 600042, India",
+      "country": "India",
+      "open_state": "Open · Closes 8:45 PM",
+      "hours": "Open · Closes 8:45 PM",
+      "operating_hours": {
+        "thursday": "11 AM–8:45 PM",
+        "friday": "11 AM–8:45 PM",
+        "saturday": "11 AM–8:45 PM",
+        "sunday": "11 AM–8:45 PM",
+        "monday": "11 AM–8:45 PM",
+        "tuesday": "11 AM–8:45 PM",
+        "wednesday": "11 AM–8:45 PM"
+      },
+      "phone": "+91 90690 62050",
+      "website": "http://www.instore.co.in/",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Men's clothing",
+            "Women's clothing"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "Google Pay",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "On-site parking",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "delivery": true
+      },
+      "user_review": "\"Instore in Velachery has variety of options for all women requirements!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Tth41T-28Yg8M_tBnZVEgH2w515qKGfjrshNifkhyDJ_4Tt4WMbhkYoEnIhbEjoVQhE5sOxe7W-KJEh0qFHXCCiI6s6cRoyes18lbs_-HIVhZs63bS8-XlawWjQEPgE7gvzmaY=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/-bKc8XicHcRJDoIwFADQE1VAAdHEhUMVNM6EwQ2RpvaD2Kq_inhBz-BtTHyL9_2A1lfsG0YFnZZQSlT8gfzOlNRc6hZTF0NckTAkaAxXcdH0Qg22FZK2lwpvmemRPERU-O3asZzbYnYq7wir4nSGZjLP7FDb8TKHc6qoDCCnpYq2QB1cv3g3Jos5BfM29ZPxuAhcdNlONRwtr8oxI34QwQHdTr73SFId67jc0o2gXfF8X47poLZM0yTwnxH5A0QxRJM"
+    },
+    {
+      "position": 10,
+      "title": "Get Set Trend Velachery - Clothing Store",
+      "place_id": "ChIJx1QGKIldUjoRv3YDu7S0oZA",
+      "data_id": "0x3a525d89280654c7:0x90a1b4b4bb0376bf",
+      "data_cid": "10421809701036717759",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a525d89280654c7%3A0x90a1b4b4bb0376bf&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a525d89280654c7%3A0x90a1b4b4bb0376bf&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.977717799999999,
+        "longitude": 80.21959559999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJx1QGKIldUjoRv3YDu7S0oZA",
+      "provider_id": "/g/11j00867yn",
+      "rating": 4.9,
+      "reviews": 150,
+      "type": "Clothing store",
+      "types": [
+        "Clothing store"
+      ],
+      "type_id": "clothing_store",
+      "type_ids": [
+        "clothing_store"
+      ],
+      "address": "New No.143/1, Old No.370/1, Plot No.B&C, 100 Feet By Pass Road, Vijaya Nagar, Velachery, Chennai, Tamil Nadu 600042, India",
+      "country": "India",
+      "open_state": "Open · Closes 11 PM",
+      "hours": "Open · Closes 11 PM",
+      "operating_hours": {
+        "thursday": "10 AM–11 PM",
+        "friday": "10 AM–11 PM",
+        "saturday": "10 AM–11 PM",
+        "sunday": "10 AM–11 PM",
+        "monday": "10 AM–11 PM",
+        "tuesday": "10 AM–11 PM",
+        "wednesday": "10 AM–11 PM"
+      },
+      "phone": "+91 97910 80932",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "In-store pickup",
+            "Onsite services"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking garage",
+            "Free parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"They are so many good collections and affordable prices\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QBLBF0WQL3nVsi_pmc0MsZ2j2D-nQOB3dXOHvZnaoqAa5Bsd_tFwdWKYIhzQcpjqi5eRhDtpzN4RFNSIWeESCqPo3F5KlItrIM31z_TTjVoIntCcAGH9he6jk0THVoi4c_f1r1=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/edgzw3icHcRRDoIgAADQE5Eo2VZbH2qZrNQsp9WPa0iiKaBQLS_YGbpNW-_jfT9Ma6kWhtEyNKmEqFr6UHQggmvK9YSIzqikAkQBZThRXr_nibtzfZgnO8QzVReyIzBUF6uxVoAnsYvKUxw8L_wqeudqu6ostP8q8-0ZszEhsulrmx7YSssxmh786Ihzuj56_V4g3962WA84ROZYpGmTCcy1R5xNMGd01txhGmSinpLiZg7m8mVCCAH7TwD_AWpNRK8"
+    },
+    {
+      "position": 11,
+      "title": "Silver Lady Boutique Velachery store",
+      "place_id": "ChIJlRD2z3NdUjoR3ZrNdjnxdBg",
+      "data_id": "0x3a525d73cff61095:0x1874f13976cd9add",
+      "data_cid": "1762298583317322461",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a525d73cff61095%3A0x1874f13976cd9add&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a525d73cff61095%3A0x1874f13976cd9add&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.984661,
+        "longitude": 80.2177355
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJlRD2z3NdUjoR3ZrNdjnxdBg",
+      "provider_id": "/g/11z7gfyb_q",
+      "rating": 4.9,
+      "reviews": 669,
+      "type": "Clothing store",
+      "types": [
+        "Clothing store"
+      ],
+      "type_id": "clothing_store",
+      "type_ids": [
+        "clothing_store"
+      ],
+      "address": "1st Main Rd, Balaji Nagar, Gangai Nagar, Velachery, Chennai, Tamil Nadu 600042, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "thursday": "10 AM–10 PM",
+        "friday": "10 AM–10 PM",
+        "saturday": "10 AM–10 PM",
+        "sunday": "10 AM–10 PM",
+        "monday": "10 AM–10 PM",
+        "tuesday": "10 AM–10 PM",
+        "wednesday": "10 AM–10 PM"
+      },
+      "phone": "+91 99955 75036",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"The store had a good collection, and the customer service was excellent.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qkz0ZsYgX4ewozoS0M9lx1EVy3CuTVuVYDjsbpra4fK37mjKprlIYdq5dRJyViCnuEwNuKdc_7O_HdMvgdd54dKteXY3QCBHd-WmisJ4RpBwNamcSDmgumInrZvb0nCGCJOg115Y6rKP83=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/UR7V1HicHcRJbsIwAADAF5k4clJKJQ5gUCEWYasC5oLAdp3QeKkXQvhkz_1Npc5hfn_qEKx_S5K2RgNpjGxF9MIxo4PQYcCMSqT1gHngk0l5aPrR9usJT57KYyY68zR7uBq1j3Re9QjHjypWdHbzV-su2SdBQ3Uj1rVLyr9zviv6qsE6zrsyEs7Ow_V5wVd3yXmecRLEkaItni44OKjGF9nOTrvyoth-pmRUS-1O9yvU-B0Xa5mmOX1xZPOKxl0KIQT1_wzoP11wSHw"
+    },
+    {
+      "position": 12,
+      "title": "Poorvika Appliances Velachery",
+      "place_id": "ChIJGb_KmsldUjoRxLcql_K6tKU",
+      "data_id": "0x3a525dc99acabf19:0xa5b4baf2972ab7c4",
+      "data_cid": "11940374063147038660",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a525dc99acabf19%3A0xa5b4baf2972ab7c4&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a525dc99acabf19%3A0xa5b4baf2972ab7c4&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9721608,
+        "longitude": 80.21905819999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJGb_KmsldUjoRxLcql_K6tKU",
+      "provider_id": "/g/11ffgw7d1c",
+      "rating": 4.8,
+      "reviews": 5962,
+      "type": "Appliance store",
+      "types": [
+        "Appliance store",
+        "Air conditioning store",
+        "Cell phone accessory store",
+        "Cell phone store",
+        "Computer store",
+        "Countertop store",
+        "Refrigerator store"
+      ],
+      "type_id": "appliance_store",
+      "type_ids": [
+        "appliance_store",
+        "air_conditioning_store",
+        "cell_phone_accessory_store",
+        "cell_phone_store",
+        "computer_store",
+        "countertop_store",
+        "refrigerator_store"
+      ],
+      "address": "No.27 & 28, Vijaya Nagar Extn, Velachery Main Rd, Velachery, Chennai, Tamil Nadu 600042, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "thursday": "10 AM–10 PM",
+        "friday": "10 AM–10 PM",
+        "saturday": "10 AM–10 PM",
+        "sunday": "10 AM–10 PM",
+        "monday": "10 AM–10 PM",
+        "tuesday": "10 AM–10 PM",
+        "wednesday": "10 AM–10 PM"
+      },
+      "phone": "+91 44 4366 6666",
+      "website": "https://www.poorvika.com/stores/chennai/velacheri/avel",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services",
+            "Same-day delivery"
+          ]
+        },
+        {
+          "offerings": [
+            "Assembly service",
+            "Repair services"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "Google Pay",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop",
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"Best sales and service around in Velachery.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QTkvqTxRzzl-6JonLuNW48y68i-Rq6yQhyuaGHz78OxfOSt0IgEeCXkxLKndr3zohUCi3Rnm3DPAO5-a01FLM_ZjsvXAq_PZt-GQXk-8DuWxBeUtLxgJima5XOHx9RcVcZBZYITQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/M9il5HicHcRRboIwGADgE_1Sw0BcsgfQDXVMBHEwXgyptUWgBVtc4YYewduY-D18jztTqpXvhlEzc0KFoDXpJbliwRXhaoJFY9BWApYgDXeblsM8Sqpbl-h4HGuwN4IH_TZ9cwbbKSHu7CFiQ1_4q3HmhPoc7hVa00-yyCodfPPT1RwFOyxKM-aNudy5oQUFmn4FP8f8Im-Z2x13uQI_yipwln2qPXJQgaabsimsLFzpeYx_ce7lf-sk-vifIoSAvcbAn0ZoRdI"
+    },
+    {
+      "position": 13,
+      "title": "VNH Naidu Hall The Family Store - Velachery",
+      "place_id": "ChIJ7QMMZ4JdUjoRwJ4YUwgLawQ",
+      "data_id": "0x3a525d82670c03ed:0x46b0b0853189ec0",
+      "data_cid": "318360329041518272",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a525d82670c03ed%3A0x46b0b0853189ec0&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a525d82670c03ed%3A0x46b0b0853189ec0&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9815043,
+        "longitude": 80.230824
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ7QMMZ4JdUjoRwJ4YUwgLawQ",
+      "provider_id": "/g/1tp_4tnm",
+      "rating": 4.7,
+      "reviews": 4050,
+      "type": "Lingerie store",
+      "types": [
+        "Lingerie store",
+        "Baby clothing store",
+        "Clothing store",
+        "Fashion accessories store",
+        "Women's clothing store"
+      ],
+      "type_id": "lingerie_store",
+      "type_ids": [
+        "lingerie_store",
+        "baby_clothing_store",
+        "clothing_store",
+        "fashion_accessories_store",
+        "womens_clothing_store"
+      ],
+      "address": "No.12-A, No.12-A, Taramani Link Rd, Ramagiri Nagar, Velachery, Chennai, Tamil Nadu 600042, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "thursday": "9:30 AM–10 PM",
+        "friday": "9:30 AM–10 PM",
+        "saturday": "9:30 AM–10 PM",
+        "sunday": "9:30 AM–10 PM",
+        "monday": "9:30 AM–10 PM",
+        "tuesday": "9:30 AM–10 PM",
+        "wednesday": "9:30 AM–10 PM"
+      },
+      "phone": "+91 73050 52725",
+      "website": "https://vnhnaiduhall.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Onsite services"
+          ]
+        },
+        {
+          "offerings": [
+            "Women's clothing"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "service_options": {
+        "delivery": true
+      },
+      "user_review": "\"Ammu did a good job , fantastic customer service - Velachery Chennai\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TpZJ77ZXSogQQrxe5kVe82tlKfMApMS8ygd7ow_-ABApEcRW1A1hiRkFyz-vsiitC1FqFKj3VnId99owaClP7sD80XwDk_dmOCU_Di8XwMzcO9IcDArquRFxKA-bgwMwAgAuztpg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/uGvFFnicHcRJDoIwFADQE5VBYwATF1-QBAkOOBE3REstFaSVFivc0CN4GxPf4n0_pVJCTk2zLscG5ZzWpJOkxbxRpFEG5g-TComwRNKE1Yn13l6cl45zznacbrftm0yqI3FHqo5vCYhk5_a0cLjOEcxBLHB6ssEuWVqF_YBekjHl2-EzjO_jYxMVnsf1xa83jgxcK9NBlRePtX_IA-ZmOhnw2otwAO2zS8N3DOhKdaKBQjcoQWfatiwLlf8xan4fdEY6"
+    },
+    {
+      "position": 14,
+      "title": "Jazz Lifestyle Chennai",
+      "place_id": "ChIJ0ZvwvR1dUjoRBiEOCWUsTUY",
+      "data_id": "0x3a525d1dbdf09bd1:0x464d2c65090e2106",
+      "data_cid": "5065753968316915974",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a525d1dbdf09bd1%3A0x464d2c65090e2106&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a525d1dbdf09bd1%3A0x464d2c65090e2106&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9820537,
+        "longitude": 80.21813039999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ0ZvwvR1dUjoRBiEOCWUsTUY",
+      "provider_id": "/g/11kjpqs6rg",
+      "rating": 4.9,
+      "reviews": 2259,
+      "type": "Store",
+      "types": [
+        "Store"
+      ],
+      "type_id": "store",
+      "type_ids": [
+        "store"
+      ],
+      "address": "104A, 100 Feet Rd, Velachery, Chennai, Tamil Nadu 600042, India",
+      "country": "India",
+      "open_state": "Open · Closes 10:30 PM",
+      "hours": "Open · Closes 10:30 PM",
+      "operating_hours": {
+        "thursday": "10 AM–10:30 PM",
+        "friday": "10 AM–1 PM, 2–10:30 PM",
+        "saturday": "10 AM–10:30 PM",
+        "sunday": "10 AM–10:30 PM",
+        "monday": "10 AM–10:30 PM",
+        "tuesday": "10 AM–10:30 PM",
+        "wednesday": "10 AM–10:30 PM"
+      },
+      "phone": "+91 96557 99655",
+      "website": "http://www.jazzlifestylechennai.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "Google Pay",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "delivery": true
+      },
+      "user_review": "\"... Collections and lots of varieties good shop must visit this shop.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R8hTBSG5wu8_bcOmPuyb9kjXCY7K05HFEMx-Y0PaE9OaAesw6i1uHr-_kKZdsBJ4bV10dYKIfHy-5yHdVK47SaiKLdWlytVeTBplfLqkqip8icP-sdFWxpmEIFds9so8-dsr-9=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/QAax0HicHcTdToMwGADQJ_pGicNREy-GAZmdjrgFxJsF2g4qP-34Slif0GfwbZZ4Ls7fb2utwSfP69uHVaN108sZ5cT1aOVoV1wPXmMQOAJ6249COfoZtqfo-Bosc3iu-WHIZlfT7ufrpdwwEqRJ_H6DkmRVTA_VVuLyqPw5neDcsW-B0du6zn0iSra7pA4Cl4qcrTfHSrG9KHpnc3mKTH_ZX7urMqHiGaBIipsZ4l0ikKIOQeAE9HnxCSHQ_s9hvAMnMERv"
+    },
+    {
+      "position": 15,
+      "title": "Reliance Digital",
+      "place_id": "ChIJhR2tN5ddUjoRBFRvgGcBTmQ",
+      "data_id": "0x3a525d9737ad1d85:0x644e0167806f5404",
+      "data_cid": "7227715996024263684",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a525d9737ad1d85%3A0x644e0167806f5404&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a525d9737ad1d85%3A0x644e0167806f5404&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9716492,
+        "longitude": 80.21957599999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJhR2tN5ddUjoRBFRvgGcBTmQ",
+      "provider_id": "/g/11g6bsvqj0",
+      "rating": 4.4,
+      "reviews": 3268,
+      "type": "Electronics store",
+      "types": [
+        "Electronics store"
+      ],
+      "type_id": "electronics_store",
+      "type_ids": [
+        "electronics_store"
+      ],
+      "address": "No 391, ASV Crown Plaza, 1st Cross St, Major Mukund Varadharajan Rd, VGP Selva Nagar, Velachery, Chennai, Tamil Nadu 600042, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "thursday": "10 AM–10 PM",
+        "friday": "10 AM–10 PM",
+        "saturday": "10 AM–10 PM",
+        "sunday": "10 AM–10 PM",
+        "monday": "10 AM–10 PM",
+        "tuesday": "10 AM–10 PM",
+        "wednesday": "10 AM–10 PM"
+      },
+      "phone": "+91 8071 889 923",
+      "website": "https://store.reliancedigital.in/reliance-digital-velachery-chennai-electronics-retail-and-repair-shop-vgp-selva-nagar-chennai-233238/Home?utm_source=locator&utm_medium=googleplaces",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "delivery": true
+      },
+      "user_review": "\"Mr.Sathya at the Velachery branch was helpful in suggesting  appliances.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R1NnAgKQctprx8iuwkvJBJt4-BZ9LJnXiS6dyLhOW-1JOnNVRgTRrnr6fwkhoNrMBUEJWrIiB7KuW_DhS4sDCUBvwZBQ9sGrhRpajY3aaXvonQxw9eNXyLwBwNzmCEN3bcXE6voA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/DruFlnicHcTbDoIgAADQL8LLbJZtPYi5FhpNu2i9NCMDu4ADlOwP-4T-pq3zcL4fpnWrprb9YJ5FhaCPulO1JILrmmuLiKdNWwWIAsoOcdEMQe5iHtIkI7qVr0nTmXuPINIjAI9BinjZbPzLkLJ1AVy05nif020uufSv5s4Eliu4i1Ehlw0cJ11xmrPNSM2jHezNEWaBWkiWt9Xt4FVV2QuevUxQ43JIDTT4_Yxi7J1JGfu9CGfGdRwHsP8E8B9hbEbC"
+    },
+    {
+      "position": 16,
+      "title": "Girias - Velachery",
+      "place_id": "ChIJazSzoIRdUjoR_iVuJG09grg",
+      "data_id": "0x3a525d84a0b3346b:0xb8823d6d246e25fe",
+      "data_cid": "13295256588923053566",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a525d84a0b3346b%3A0xb8823d6d246e25fe&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a525d84a0b3346b%3A0xb8823d6d246e25fe&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9789844,
+        "longitude": 80.2266159
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJazSzoIRdUjoR_iVuJG09grg",
+      "provider_id": "/g/11dx9gwy0h",
+      "rating": 4.8,
+      "reviews": 3027,
+      "type": "Electronics store",
+      "types": [
+        "Electronics store",
+        "Air conditioning store",
+        "Appliance store",
+        "Cell phone accessory store",
+        "Cell phone store",
+        "Computer store",
+        "Countertop store",
+        "Electrical appliance wholesaler",
+        "Electronics accessories wholesaler",
+        "Electronics wholesaler",
+        "Home audio store"
+      ],
+      "type_id": "electronics_store",
+      "type_ids": [
+        "electronics_store",
+        "air_conditioning_store",
+        "appliance_store",
+        "cell_phone_accessory_store",
+        "cell_phone_store",
+        "computer_store",
+        "countertop_store",
+        "electrical_appliance_wholesaler",
+        "electronics_accessories_wholesaler",
+        "electronics_wholesaler",
+        "stereo_store"
+      ],
+      "address": "Door No. 3c, 100 Feet, Taramani Link Rd, Velachery, Chennai, Tamil Nadu 600042, India",
+      "country": "India",
+      "open_state": "Open · Closes 9:30 PM",
+      "hours": "Open · Closes 9:30 PM",
+      "operating_hours": {
+        "thursday": "9:30 AM–9:30 PM",
+        "friday": "9:30 AM–9:30 PM",
+        "saturday": "9:30 AM–9:30 PM",
+        "sunday": "9:30 AM–9:30 PM",
+        "monday": "9:30 AM–9:30 PM",
+        "tuesday": "9:30 AM–9:30 PM",
+        "wednesday": "9:30 AM–9:30 PM"
+      },
+      "phone": "+91 89399 70349",
+      "website": "http://www.giriasindia.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "in_store_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"Girias Velachery brach is highly recommendable.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TIdb_6YLsKm18I0Tz6fKVeBMX8zH3qDq7SrkSgDEVV4nrwUeDKkYJgDDAmiM766svxwj2C7OUM-qzIyYvWp_XlziRedU4cPl8F_gHh6p5sKTwrdkp9I8Cxn_qsZU8ClKk0dCOSmw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/n80k9nicHcTdboIwGADQJ6rU6UpdsgtHZ2Qdcxk_ym5IVmphlFL4mFXe0EfwbUx2Ls7tWo2jhSfP09ViprpOafkHchCdGaUZZ6JrPWUBCUDgrT_29WWVhOVPQfJ34O2chjiZyJFn8iU60Gm76Fnvx0MTK_aaZUszuFQy3uRvirF1W0c-IXA6u9-HwN-lEeqn8JKf9rY46Kn-kmW6FJ-abgq1rYh9BJ64oWzsKqTB2RQ9fKc00LzBZbCLW_fs5hhjVP0vkLkD-wVF-w"
+    },
+    {
+      "position": 17,
+      "title": "GRT Jewellers - Velachery, Chennai",
+      "place_id": "ChIJh4EP2I5dUjoRKNucb1tyyc8",
+      "data_id": "0x3a525d8ed80f8187:0xcfc9725b6f9cdb28",
+      "data_cid": "14972624173210065704",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a525d8ed80f8187%3A0xcfc9725b6f9cdb28&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a525d8ed80f8187%3A0xcfc9725b6f9cdb28&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.982647799999999,
+        "longitude": 80.21822
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJh4EP2I5dUjoRKNucb1tyyc8",
+      "provider_id": "/g/11h7rqttbq",
+      "rating": 4.6,
+      "reviews": 14353,
+      "type": "Jewelry store",
+      "types": [
+        "Jewelry store",
+        "Jeweler",
+        "Jewelry repair service"
+      ],
+      "type_id": "jewelry_store",
+      "type_ids": [
+        "jewelry_store",
+        "jeweler",
+        "jewelry_repair_service"
+      ],
+      "address": "No. 137, 100ft, Velachery Bypass Rd, opp. Capitol Watch Center, Velachery, Chennai, Tamil Nadu 600042, India",
+      "country": "India",
+      "open_state": "Open · Closes 9 PM",
+      "hours": "Open · Closes 9 PM",
+      "operating_hours": {
+        "thursday": "10 AM–9 PM",
+        "friday": "10 AM–9 PM",
+        "saturday": "10 AM–9 PM",
+        "sunday": "10 AM–9 PM",
+        "monday": "10 AM–9 PM",
+        "tuesday": "10 AM–9 PM",
+        "wednesday": "10 AM–9 PM"
+      },
+      "phone": "+91 44 2245 0246",
+      "website": "http://www.grtjewels.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "In-store pickup",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"Rekha Mam(Necklace counter) in Velachery branch did a great service.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RJf4fqURWYuJhgei-a3Q256gRANzUIVECObbtQo9S9rDzk-Yj9wdW3d-vuKdzGYUZ3g2ga0ROZxSR2grlA2NNnEINj7NQgxhYD-myDKF6eEevqZDiaS2vNjftmOM6ni1NCG6-Q5w=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/_44EMnicHcTRboIwFADQL7qCZWJYsgcizKixhBJG4A2h3MKgVVpA-cN9wv5myc7D-f0Rxtz1u2X1wtmgUtjzSfOxUtJwaTaVGiy8a6g0aMunWfvy2Ll5ax4py_LpLJC3UDox2bnIfLqmp6_wEN1uJlZe4o3B-g155y115tQwT5d6PeZp4SDB0mZR8UwYwbH3CaUyPNFuT2N8ijyA4RVcPl0e8vlRBG2ZkJl2jRmiqyvbLT0cXYh3y8eytW0bxP8VyD_QqkS3"
+    },
+    {
+      "position": 18,
+      "title": "EasyBuy - Velachery",
+      "place_id": "ChIJZ0cBj0ZdUjoRT6Dk7M5cE3w",
+      "data_id": "0x3a525d468f014767:0x7c135cceece4a04f",
+      "data_cid": "8940591729067991119",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a525d468f014767%3A0x7c135cceece4a04f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a525d468f014767%3A0x7c135cceece4a04f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9858835,
+        "longitude": 80.2180727
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZ0cBj0ZdUjoRT6Dk7M5cE3w",
+      "provider_id": "/g/11kss4nxd5",
+      "rating": 4.5,
+      "reviews": 1026,
+      "type": "Clothing store",
+      "types": [
+        "Clothing store"
+      ],
+      "type_id": "clothing_store",
+      "type_ids": [
+        "clothing_store"
+      ],
+      "address": "100 Feet Rd, near Coal Barbecues, Rajalakshmi Nagar, Velachery, Chennai, Tamil Nadu 600042, India",
+      "country": "India",
+      "open_state": "Open · Closes 9:30 PM",
+      "hours": "Open · Closes 9:30 PM",
+      "operating_hours": {
+        "thursday": "10:30 AM–9:30 PM",
+        "friday": "10:30 AM–9:30 PM",
+        "saturday": "10:30 AM–9:30 PM",
+        "sunday": "10:30 AM–9:30 PM",
+        "monday": "10:30 AM–9:30 PM",
+        "tuesday": "10:30 AM–9:30 PM",
+        "wednesday": "10:30 AM–9:30 PM"
+      },
+      "phone": "+91 1800 202 4454",
+      "website": "https://stores.easybuyindia.com/easybuy-velachery-velachery-clothing-shop-rajalakshmi-nagar-chennai-283722/Home?utm_source=locator&utm_medium=googleplaces",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Onsite services"
+          ]
+        },
+        {
+          "offerings": [
+            "Men's clothing",
+            "Women's clothing"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "delivery": true
+      },
+      "user_review": "\"Great collection, affordable pricing, and smooth shopping experience.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QKH5QnobBjMk6i93BXknB8cusfgHednjtLNLuJ-VwYqS-5oUUa2BtYnOf_9_6bD7wNfMBu3Dfe_4bnNRPTyyaDGi3RY9OjLBRTVDA2xUrKgefIcfLPEUc2UY8Qhvtr66_Z-TgxEg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/COT_VHicHcRJDoIwAADAFxUQFMXEAw3GBURBquKFSG3Loq3SIvJEn-BvTJzDfD-FUg851fVbYWlMCHYjrSQNFlwRrjQs7jp7SIAlkLobHsveifzlKOIih9WmtkvHgqeawwluJWVLcuWVCsKgXYNDlz73YCQQuphQpXxLMyezc2_chXQDW8ujJBvmPIx3Sd9fvEVpxamzrQIYJwfPNd-o8RmhK0yD3RxhE6WTqHipxrazM0jYe85m3cAwDFD8x4D_APi-RT4"
+    },
+    {
+      "position": 19,
+      "title": "Taneira Showroom",
+      "place_id": "ChIJj5_GGV1nUjoRUsBv2d2ILUY",
+      "data_id": "0x3a52675d19c69f8f:0x462d88ddd96fc052",
+      "data_cid": "5056848443024064594",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a52675d19c69f8f%3A0x462d88ddd96fc052&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a52675d19c69f8f%3A0x462d88ddd96fc052&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9879216,
+        "longitude": 80.2185509
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJj5_GGV1nUjoRUsBv2d2ILUY",
+      "provider_id": "/g/11sckj20xl",
+      "rating": 4.9,
+      "reviews": 968,
+      "type": "Saree Shop",
+      "types": [
+        "Saree Shop",
+        "Clothing store",
+        "Women's clothing store"
+      ],
+      "type_id": "saree_shop",
+      "type_ids": [
+        "saree_shop",
+        "clothing_store",
+        "womens_clothing_store"
+      ],
+      "address": "New No 35, Old No 11, Throwpathy Amman Koil Street, 1st Cross St, opposite Sree Gupta Bhavan, Velachery, Chennai, Tamil Nadu 600042, India",
+      "country": "India",
+      "open_state": "Open · Closes 9 PM",
+      "hours": "Open · Closes 9 PM",
+      "operating_hours": {
+        "thursday": "10 AM–9 PM",
+        "friday": "10 AM–9 PM",
+        "saturday": "10 AM–9 PM",
+        "sunday": "10 AM–9 PM",
+        "monday": "10 AM–9 PM",
+        "tuesday": "10 AM–9 PM",
+        "wednesday": "10:30 AM–9 PM"
+      },
+      "phone": "+91 74186 66488",
+      "website": "https://stores.taneira.com/taneira/saree-store-in-chennai/saree-store-in-velachery/taneira-showroom-in-velachery-chennai--15eeb452-0ce3-440f-9705-316c89b30847/home",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "offerings": [
+            "Women's clothing"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "delivery": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QlwAopyJzhaQRt5kmde_D-WvNLty-OvHAUhiB0292ZKeG5vLkueSrZz-H4ZO386kwTvmgs8asGBbhsGpBEg9j0zuHIYdgjDMESyN1etMyKGxXWWsPw4_Ty2AJyQi5nnytl1kiU=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/SJSjrnicHcRLDoIwFADAE1UKihETFxANCIqiEpSNUWhafi3xFbBc0DN4GxNnMd8Pk7KFpabVbDqhQtCadEBemeCScDnJRKPRFlAGCDQ7TAplRfVgi1b5I3tEJ2lWTU7ua5T04U4qdOg9O2aFgw3LSAPimv2u6sj5lY7Im6WH6WJeDZe-obB4gOs8Gbits6FWicfO295yWq73m7MKdSL3KnDf1ySB4zC7X5Rh-yoqTM6VrPWqiFeDjjFG7H-G-A_f-kYk"
+    },
+    {
+      "position": 20,
+      "title": "Global Wear",
+      "place_id": "ChIJd4QiPsddUjoRsr3lZESriMw",
+      "data_id": "0x3a525dc73e228477:0xcc88ab4464e5bdb2",
+      "data_cid": "14738218090808851890",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a525dc73e228477%3A0xcc88ab4464e5bdb2&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a525dc73e228477%3A0xcc88ab4464e5bdb2&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9760799,
+        "longitude": 80.2216569
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJd4QiPsddUjoRsr3lZESriMw",
+      "provider_id": "/g/11gr114n5m",
+      "rating": 4.5,
+      "reviews": 239,
+      "type": "Clothing store",
+      "types": [
+        "Clothing store",
+        "Jeans shop",
+        "Formal wear store",
+        "Men's clothing store",
+        "Sports accessories wholesaler"
+      ],
+      "type_id": "clothing_store",
+      "type_ids": [
+        "clothing_store",
+        "denim_wear_store",
+        "formal_clothing_store",
+        "mens_clothing_store",
+        "sports_accessories_wholesaler"
+      ],
+      "address": "No-16, 1st Main Rd, Sarathy Nagar, Velachery, Chennai, Tamil Nadu 600042, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "thursday": "10 AM–10 PM",
+        "friday": "10 AM–10 PM",
+        "saturday": "10 AM–10 PM",
+        "sunday": "10 AM–10 PM",
+        "monday": "10 AM–10 PM",
+        "tuesday": "10 AM–10 PM",
+        "wednesday": "10 AM–9 PM"
+      },
+      "phone": "+91 44 4951 7733",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Onsite services"
+          ]
+        },
+        {
+          "offerings": [
+            "Men's clothing"
+          ]
+        },
+        {
+          "amenities": [
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "Google Pay",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "delivery": true
+      },
+      "user_review": "\"Very wide range of collections and affordable price.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QKvfAW64c-QkwTwNyApoXipjJ1j5HCni5uKMRyKKZU_VxzGNCwReC-N_QcUf2PZj0Yy_QEhjOPXdvOzLrlUnAy38NSs95tjDlo4dzz3TmVPkYRFcq-0XlAWzqrcez7xODWWnze=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/iTxEUXicHcRLcoIwAADQE0ViEaud6SKDvxEbPgpBNyxiBGJMkEQxuWDP4G0607d479_GmE5_eZ5o_FGtVC3YQ7OeKmmYNCOqbl7daUA10B7CpLXzNHpeEJlOKEivw2HAFnWqbDu-HfNgE8o2eEQ_mY2iU14VL7fG4ZCxEOAqpfnlIzlxeLRVumx4nJTnZ-x2vcglsv4M7_U8MHwh1OTsnH-4Fcn1mK3oHcBSIOLuPWXu8xUvCJGOfQ9jCCFo_qdA_gHJskY9"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&q=shops+near+Velachery+Chennai&start=20&type=search"
+  }
+}
