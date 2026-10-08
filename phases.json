@@ -1,0 +1,298 @@
+{
+  "project": "Urban Drift",
+  "challenge": "DEV Hacktoberfest Open-Source AI Challenge Week 1 (Touch Grass)",
+  "deadline_ist": "2026-10-12 12:29",
+  "internal_target_ist": "2026-10-11 23:00",
+  "prize_focus": {
+    "primary": "Best Use of Sentry Agent Tracing ($100)",
+    "secondary": [
+      "Best Use of Mastra ($100)",
+      "Best Use of SerpApi ($100)"
+    ],
+    "upside": "Overall ($250)",
+    "note": "One win per submission per challenge. If gate 4 fails, Mastra becomes primary and Sentry is dropped."
+  },
+  "workflow_rules": [
+    "One phase per chat. One JSON task prompt at a time.",
+    "Mohan verifies by screenshot or real run before the next task.",
+    "Never trust agent self-reports. Run it yourself.",
+    "Gemini Flash by default. Escalate to Claude Sonnet after two failed attempts.",
+    "Send any failed gate output to Claude in chat before continuing."
+  ],
+  "gates": [
+    "GATE 1 (T0.2): enough real Chennai data",
+    "GATE 2 (T2.1): writer under 45 s with verifier catching planted fact",
+    "GATE 3 (T2.2): Mastra workflow runs end to end",
+    "GATE 4 (T4.1): Sentry trace appears"
+  ],
+  "phases": [
+    {
+      "id": "P0",
+      "name": "Scaffold and data gate",
+      "date": "Oct 8",
+      "chat": "new chat per phase",
+      "tasks": [
+        {
+          "id": "T0.1",
+          "title": "Scaffold repo",
+          "model": "gemini-flash",
+          "prompt": "Read AGENT.md, PRD.md and docs/DATA_CONTRACT.md first. Do only this task and touch only the files named. If an API, package, or field is unclear, read its current docs and write [NEEDS INPUT: ...] instead of guessing. ASCII only, no em dashes. When finished, print the exact commands you ran with their real output. Do not claim success without running it. TASK: Create a Next.js 14 App Router project with TypeScript and Tailwind in the current folder (keep existing AGENT.md, PRD.md, phases.json, docs/). Add folders from the AGENT.md layout with empty placeholder files. Add .env.example with SERPAPI_KEY, SENTRY_DSN, OLLAMA_BASE_URL, OLLAMA_MODEL. Add .gitignore covering .env.local and node_modules but NOT data/cache (cache is committed only for the demo dataset in data/demo). Add an MIT LICENSE file. Add npm scripts: dev, build, test, gate:data, gate:writer, gate:workflow, gate:sentry. Install zod and vitest. Do not install Mastra or Sentry yet.",
+          "acceptance": [
+            "npm run dev serves the default page",
+            "npm run build passes",
+            "folder layout matches AGENT.md",
+            ".env.local is gitignored"
+          ],
+          "mohan_verifies": [
+            "Open localhost:3000 and screenshot",
+            "Run npm run build and check the output yourself"
+          ]
+        },
+        {
+          "id": "T0.2",
+          "title": "SerpApi client, cache, and data gate",
+          "model": "gemini-flash",
+          "prompt": "Read AGENT.md, PRD.md and docs/DATA_CONTRACT.md first. Do only this task and touch only the files named. If an API, package, or field is unclear, read its current docs and write [NEEDS INPUT: ...] instead of guessing. ASCII only, no em dashes. When finished, print the exact commands you ran with their real output. Do not claim success without running it. TASK: Implement src/lib/cache.ts (disk cache in data/cache keyed by sha1 of the request params, read first, write on miss, log HIT or MISS and a running live-call counter in data/cache/_counter.json) and src/lib/serpapi.ts (server-side fetch to SerpApi engine google_maps with q and ll or location parameters; read the current SerpApi google_maps docs for exact params; return raw JSON). Then write scripts/gate-data.ts: query 3 Chennai neighborhoods that Mohan passes as CLI args, using queries like 'shops near <neighborhood> Chennai', max 2 live calls per neighborhood. Print a report: number of results, and for each of title, rating, reviews, type, address, gps_coordinates, hours or open_state, the count and percent of results where it is present. Also print whether any results contain review text. Print the real top-level keys of one result. Do not invent field names: report only what the API returned.",
+          "acceptance": [
+            "Second run of the same query is a cache HIT with zero live calls",
+            "Report shows real field coverage per neighborhood",
+            "Counter file shows live calls used"
+          ],
+          "mohan_verifies": [
+            "Run npm run gate:data -- Velachery Adyar Mylapore (or your three areas)",
+            "Paste the full report into the chat with Claude before building further"
+          ],
+          "on_fail": "GATE 1: if fewer than 8 usable places (name, coordinates, category, rating) per neighborhood, stop and send the report to Claude to redesign. Do not continue to P1."
+        }
+      ]
+    },
+    {
+      "id": "P1",
+      "name": "Fact engine (no AI yet)",
+      "date": "Oct 8",
+      "chat": "new chat per phase",
+      "tasks": [
+        {
+          "id": "T1.1",
+          "title": "Fact-sheets, geo, safety filters",
+          "model": "gemini-flash",
+          "prompt": "Read AGENT.md, PRD.md and docs/DATA_CONTRACT.md first. Do only this task and touch only the files named. If an API, package, or field is unclear, read its current docs and write [NEEDS INPUT: ...] instead of guessing. ASCII only, no em dashes. When finished, print the exact commands you ran with their real output. Do not claim success without running it. TASK: Implement src/lib/geo.ts (haversine distance in km), src/lib/safety.ts (filters exactly as in DATA_CONTRACT.md Safety filters, with the category drop-list as an exported constant), and src/lib/factsheet.ts (normalize raw SerpApi results into FactSheet[] per DATA_CONTRACT.md; null for any missing field; parse street and area from address only when the parse is unambiguous, else null). Add vitest tests with fixture JSON taken from a real cached response in data/cache. Tests must cover: missing rating, duplicate within 50 m, dropped category, outside radius.",
+          "acceptance": [
+            "FactSheet[] produced from a real cached response",
+            "No field is ever invented",
+            "Tests pass"
+          ],
+          "mohan_verifies": [
+            "Run npm test",
+            "Print the first 5 FactSheets from a real cached query and read them yourself"
+          ]
+        },
+        {
+          "id": "T1.2",
+          "title": "Deterministic clues, tiers, answer key",
+          "model": "gemini-flash",
+          "prompt": "Read AGENT.md, PRD.md and docs/DATA_CONTRACT.md first. Do only this task and touch only the files named. If an API, package, or field is unclear, read its current docs and write [NEEDS INPUT: ...] instead of guessing. ASCII only, no em dashes. When finished, print the exact commands you ran with their real output. Do not claim success without running it. TASK: Implement src/lib/clues.ts: select 5 places from FactSheet[] for a given tier (skip places lacking the fields the tier needs; prefer variety of categories; spread by distance), and build baseClue per tier exactly as in DATA_CONTRACT.md, using the rating and review-count bands. Return Clue[] with riddle set equal to baseClue and source 'fallback' for now. Also return the answer key. If fewer than 5 eligible places exist for a tier, return as many as possible and a warning string. Add tests for each tier.",
+          "acceptance": [
+            "Each tier produces correct baseClue text from real data",
+            "Hard tier skips places with null rating or ratingCount",
+            "Answer key matches clue order"
+          ],
+          "mohan_verifies": [
+            "Run npm test",
+            "Print 5 clues for each tier from real cached data and check each fact against the FactSheet by eye"
+          ]
+        },
+        {
+          "id": "T1.3",
+          "title": "Verifier with planted-fact test",
+          "model": "claude-sonnet",
+          "prompt": "Read AGENT.md, PRD.md and docs/DATA_CONTRACT.md first. Do only this task and touch only the files named. If an API, package, or field is unclear, read its current docs and write [NEEDS INPUT: ...] instead of guessing. ASCII only, no em dashes. When finished, print the exact commands you ran with their real output. Do not claim success without running it. TASK: Implement src/lib/verifier.ts exactly per DATA_CONTRACT.md Verifier section: verify(riddle, clue, factSheet) returns {ok: boolean, reasons: string[]}. Build the allowed-number set from the FactSheet and bands, the allowed-proper-noun set from street, area, and category words plus a small allowlist, and a banned visual-word list (colors, awning, sign, painted, smell, crowded, facade, and similar). Write tests/verifier.test.ts with at least 12 cases: 4 passing riddles, and failing cases for each rule including (a) the answer name leaked, (b) a planted wrong rating, (c) an invented proper noun, (d) a color word, (e) too short, (f) non-ASCII character. Keep it pure and deterministic with no model calls.",
+          "acceptance": [
+            "All 12+ tests pass",
+            "Planted wrong rating is rejected with a clear reason",
+            "No network or model call in verifier"
+          ],
+          "mohan_verifies": [
+            "Run npm test and read the failing-case names",
+            "Add one tricky riddle of your own and confirm it is judged correctly"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P2",
+      "name": "Writer and Mastra workflow",
+      "date": "Oct 8-9",
+      "chat": "new chat per phase",
+      "tasks": [
+        {
+          "id": "T2.1",
+          "title": "Ollama clue writer and timing gate",
+          "model": "gemini-flash",
+          "prompt": "Read AGENT.md, PRD.md and docs/DATA_CONTRACT.md first. Do only this task and touch only the files named. If an API, package, or field is unclear, read its current docs and write [NEEDS INPUT: ...] instead of guessing. ASCII only, no em dashes. When finished, print the exact commands you ran with their real output. Do not claim success without running it. TASK: Implement the clue writer in src/mastra/agents/clue-writer.ts using the Ollama provider that Mastra's current docs recommend (confirm the package name in the docs and note it in AGENT.md). Model from OLLAMA_MODEL, num_ctx 2048, temperature 0.7. NO tools, plain text output. Prompt per DATA_CONTRACT.md Model prompt contract. Then write scripts/gate-writer.ts: take 5 clues from a cached neighborhood, rewrite each through the writer, run the verifier, retry up to 3 times with the failure reasons appended, then fall back. Print per clue: attempts, pass or fallback, riddle text, and total wall time. Then run one extra check: replace one FactSheet rating with a wrong value after generation and confirm the verifier rejects the riddle.",
+          "acceptance": [
+            "Script prints measured total time",
+            "Verifier rejection of the planted wrong fact is shown",
+            "No tools or function calling used",
+            "VRAM stays stable (Mohan checks nvidia-smi)"
+          ],
+          "mohan_verifies": [
+            "Run npm run gate:writer while watching nvidia-smi",
+            "Read the 5 riddles aloud: are they solvable from the facts only?"
+          ],
+          "on_fail": "GATE 2: if total time exceeds 45 seconds or most riddles fall back, try num_ctx 1024, then report results to Claude. Do not claim a time that was not measured."
+        },
+        {
+          "id": "T2.2",
+          "title": "Mastra workflow",
+          "model": "claude-sonnet",
+          "prompt": "Read AGENT.md, PRD.md and docs/DATA_CONTRACT.md first. Do only this task and touch only the files named. If an API, package, or field is unclear, read its current docs and write [NEEDS INPUT: ...] instead of guessing. ASCII only, no em dashes. When finished, print the exact commands you ran with their real output. Do not claim success without running it. TASK: Install @mastra/core. Read the current Mastra docs for workflows. Build src/mastra/workflows/hunt.ts as a Mastra workflow with these named steps in order: fetchPlaces, buildFactSheets, selectClues, writeClues, verifyClues, assembleCard. Steps fetchPlaces to selectClues and verifyClues and assembleCard are plain code. writeClues calls the clue-writer agent per clue, with the verify-retry-fallback loop. Input: {neighborhood, tier, radiusKm}. Output: {clues, answerKey, meta:{live calls, attempts per clue, durations per step}}. Register in src/mastra/index.ts. Write scripts/gate-workflow.ts to run it end to end from the CLI. The model must never choose steps or tools.",
+          "acceptance": [
+            "End-to-end run from CLI returns 5 clues and a key",
+            "Step durations are measured and printed",
+            "Each step is a named Mastra workflow step"
+          ],
+          "mohan_verifies": [
+            "Run npm run gate:workflow and screenshot the output",
+            "Run it a second time: SerpApi should be all cache HITs"
+          ],
+          "on_fail": "GATE 3: if the workflow API will not wire up within 90 minutes, escalate model once, then report the exact error to Claude."
+        }
+      ]
+    },
+    {
+      "id": "P3",
+      "name": "UI and print card",
+      "date": "Oct 9",
+      "chat": "new chat per phase",
+      "tasks": [
+        {
+          "id": "T3.1",
+          "title": "Input page and generate route",
+          "model": "gemini-flash",
+          "prompt": "Read AGENT.md, PRD.md and docs/DATA_CONTRACT.md first. Do only this task and touch only the files named. If an API, package, or field is unclear, read its current docs and write [NEEDS INPUT: ...] instead of guessing. ASCII only, no em dashes. When finished, print the exact commands you ran with their real output. Do not claim success without running it. TASK: Build src/app/page.tsx with a minimal black and white form: neighborhood text, difficulty select (easy, medium, hard), radius slider 0.5 to 1.5 km, Generate button. Build src/app/api/generate/route.ts that runs the Mastra workflow and returns JSON. Show step progress text while waiting (fetching, building, writing, verifying) by streaming or polling, whichever is simpler. Show clear errors (no results, SerpApi error, Ollama not running). Store the result in client state and navigate to /card. Keep the UI stark and fast, no animation libraries.",
+          "acceptance": [
+            "Form submits and shows progress",
+            "Errors are readable",
+            "Result reaches the card page"
+          ],
+          "mohan_verifies": [
+            "Screenshot the form, progress state, and an error state (stop Ollama to trigger it)"
+          ]
+        },
+        {
+          "id": "T3.2",
+          "title": "Print-ready A4 card",
+          "model": "gemini-flash",
+          "prompt": "Read AGENT.md, PRD.md and docs/DATA_CONTRACT.md first. Do only this task and touch only the files named. If an API, package, or field is unclear, read its current docs and write [NEEDS INPUT: ...] instead of guessing. ASCII only, no em dashes. When finished, print the exact commands you ran with their real output. Do not claim success without running it. TASK: Build src/app/card/page.tsx per the Card contract in DATA_CONTRACT.md: 5 numbered clues with answer lines, header with neighborhood and difficulty, safety note, 'Score: __ / 5', and a boxed Key section at the bottom with answers. Use @media print to hide all UI, force black on white, A4 size, one page only, no page breaks inside clues. Add a Print button (window.print) visible only on screen. Test with 3 different cached neighborhoods.",
+          "acceptance": [
+            "Print preview shows exactly one A4 page",
+            "No UI chrome in print",
+            "Answer key present and correct"
+          ],
+          "mohan_verifies": [
+            "Open browser print preview and screenshot it",
+            "Actually print one card on paper or save as PDF and check it fits one page"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P4",
+      "name": "Sentry tracing (primary prize)",
+      "date": "Oct 9-10",
+      "chat": "new chat per phase",
+      "tasks": [
+        {
+          "id": "T4.1",
+          "title": "Wire @mastra/sentry",
+          "model": "claude-sonnet",
+          "prompt": "Read AGENT.md, PRD.md and docs/DATA_CONTRACT.md first. Do only this task and touch only the files named. If an API, package, or field is unclear, read its current docs and write [NEEDS INPUT: ...] instead of guessing. ASCII only, no em dashes. When finished, print the exact commands you ran with their real output. Do not claim success without running it. TASK: Install @mastra/sentry (currently beta) and the Sentry Next.js SDK as the current docs instruct. Read the Mastra observability docs for the Sentry exporter and configure it in src/mastra/index.ts with SENTRY_DSN from env. Sample rate 1.0 for the demo. Then write scripts/gate-sentry.ts that runs one full workflow and prints the trace id if available. Investigate and report, from the docs and an actual test, whether tool inputs and outputs or model prompts are captured, and whether the exporter offers any redaction or disable option. Record the findings in docs/SENTRY_NOTES.md as plain facts with doc links. Do not assume redaction works: test it by checking the dashboard for a unique marker string placed in a clue prompt.",
+          "acceptance": [
+            "A trace for one workflow run appears in the Sentry dashboard",
+            "Trace shows model name and token counts",
+            "docs/SENTRY_NOTES.md states what is and is not captured, with links"
+          ],
+          "mohan_verifies": [
+            "Open the Sentry dashboard and screenshot the trace",
+            "Check whether the marker string is visible in the trace and note it for the post"
+          ],
+          "on_fail": "GATE 4: if the exporter fails or crashes the workflow, remove it behind an env flag, keep the app working, and tell Claude. Mastra becomes the primary prize and Sentry is dropped from the post."
+        },
+        {
+          "id": "T4.2",
+          "title": "Make verifier retries visible in traces",
+          "model": "gemini-flash",
+          "prompt": "Read AGENT.md, PRD.md and docs/DATA_CONTRACT.md first. Do only this task and touch only the files named. If an API, package, or field is unclear, read its current docs and write [NEEDS INPUT: ...] instead of guessing. ASCII only, no em dashes. When finished, print the exact commands you ran with their real output. Do not claim success without running it. TASK: Add span attributes or events in the workflow so a Sentry trace shows for each clue: tier, attempts, verifier failure reasons, and final source (model or fallback). Use only what the Mastra or Sentry docs support. Add a debug flag PLANT_FAULT=1 that deliberately corrupts one rating in one riddle on the first attempt so the verifier rejects and retries. Run one normal run and one PLANT_FAULT run. Do not fake any trace data.",
+          "acceptance": [
+            "PLANT_FAULT run shows a rejection followed by a retry in the trace",
+            "Normal run shows no failures or only real ones"
+          ],
+          "mohan_verifies": [
+            "Screenshot both traces side by side for the post",
+            "Note the real latency and token numbers from the dashboard"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P5",
+      "name": "Hardening and field test",
+      "date": "Oct 10",
+      "chat": "new chat per phase",
+      "tasks": [
+        {
+          "id": "T5.1",
+          "title": "Demo dataset and hardening",
+          "model": "gemini-flash",
+          "prompt": "Read AGENT.md, PRD.md and docs/DATA_CONTRACT.md first. Do only this task and touch only the files named. If an API, package, or field is unclear, read its current docs and write [NEEDS INPUT: ...] instead of guessing. ASCII only, no em dashes. When finished, print the exact commands you ran with their real output. Do not claim success without running it. TASK: Copy the cached SerpApi responses for the chosen demo neighborhood into data/demo and add a DEMO_MODE env flag that reads only from data/demo with zero live calls. Add input validation, a 90 second timeout on generation, and a fallback message if Ollama is unreachable. Add a README with: what it is, setup (Node, Ollama pull command, env vars), how to run, how to run the gates, license, and a short Safety section. README must be ASCII only and make no unmeasured claims. Add a mermaid architecture diagram in README.",
+          "acceptance": [
+            "DEMO_MODE works with network off for SerpApi",
+            "README setup works from a fresh clone",
+            "Mermaid diagram renders on GitHub"
+          ],
+          "mohan_verifies": [
+            "Fresh clone into a new folder, follow the README exactly, generate a card",
+            "Turn off wifi after Ollama is running and confirm DEMO_MODE still generates"
+          ]
+        }
+      ],
+      "manual": [
+        "Pick the real walk neighborhood and generate the card (live or cached).",
+        "Print on paper. Walk it in daylight. Do not cross busy roads for a clue.",
+        "Photograph the card at 3 or more stops, hand holding the paper, no laptop in frame.",
+        "Write down honestly which clues were wrong, unsolvable, or great. This feeds the post.",
+        "Record a 60 to 90 second screen capture of generation."
+      ]
+    },
+    {
+      "id": "P6",
+      "name": "Submission",
+      "date": "Oct 11 (buffer Oct 12 until 9 AM IST)",
+      "chat": "Claude chat for the post, Antigravity for repo tasks",
+      "tasks": [
+        {
+          "id": "T6.1",
+          "title": "Repo polish",
+          "model": "gemini-flash",
+          "prompt": "Read AGENT.md, PRD.md and docs/DATA_CONTRACT.md first. Do only this task and touch only the files named. If an API, package, or field is unclear, read its current docs and write [NEEDS INPUT: ...] instead of guessing. ASCII only, no em dashes. When finished, print the exact commands you ran with their real output. Do not claim success without running it. TASK: Final pass on the repo: confirm .env.local is not committed, no API keys in git history (scan with git log -p for the string SERPAPI and the DSN host), remove dead files, make sure npm run build passes, and tests pass. Ensure the LICENSE is present. Do not change features.",
+          "acceptance": [
+            "No secrets in repo or history",
+            "Build and tests pass",
+            "Repo is public-ready"
+          ],
+          "mohan_verifies": [
+            "Run the checks yourself",
+            "Open the repo in a private window after pushing to confirm it is public"
+          ]
+        }
+      ],
+      "manual": [
+        "Read the Paper Trail post and the live #hf26challenge tag again for new near-duplicates.",
+        "Draft the post with Claude in chat using docs/POST_BRIEF.md and your real notes and screenshots.",
+        "Fill the DEV submission template, add tags #devchallenge and #hf26challenge, list Sentry Agent Tracing, Mastra, SerpApi in Prize Categories.",
+        "Publish by 11 PM IST on Oct 11. Hard stop Oct 12 9 AM IST."
+      ]
+    }
+  ]
+}
