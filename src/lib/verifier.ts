@@ -20,7 +20,9 @@ export const ALLOWED_PROPER_NOUNS: Set<string> = new Set([
 	'A', 'An', 'The', 'In', 'On', 'At', 'To', 'From', 'By', 'For',
 	'Between', 'Rated', 'Find', 'Seek', 'Where', 'With', 'Near',
 	'This', 'Here', 'Search', 'Score', 'Star', 'Stars', 'Reviews',
-	'Count', 'Over', 'Under', 'Around', 'Locate', 'Spot', 'Step'
+	'Count', 'Over', 'Under', 'Around', 'Locate', 'Spot', 'Step',
+	'I', 'My', 'You', 'Your', 'Can', 'Could', 'Just', 'Walk', 'Look',
+	'Come', 'Head', 'Turn', 'Stroll', 'Wander', 'Take', 'Many', 'Few'
 ]);
 
 // Extract all numbers (integers and decimals) from text

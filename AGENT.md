@@ -46,3 +46,12 @@ urban-drift/
 3. Every live call is cached; DEMO_MODE runs 100% offline.
 4. Output is strictly 1 A4 printable page with black & white styling.
 5. Sentry traces capture workflow execution, latency, tokens, and retries.
+
+## LLM & Provider Configuration
+- Agent Engine: Mastra Agent (`@mastra/core/agent`)
+- Ollama Provider Package: `ollama-ai-provider` via `createOllama`
+- Local Endpoint: `process.env.OLLAMA_BASE_URL` (default: `http://localhost:11434/api`)
+- Model: `process.env.OLLAMA_MODEL` (default: `llama3.2`)
+- Context & Inference: `numCtx: 2048`, `temperature: 0.7`
+- Tool Calling: None (pure text generation)
+
