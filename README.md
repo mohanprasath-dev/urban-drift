@@ -71,7 +71,12 @@ SERPAPI_KEY=your_serpapi_key_here
 SENTRY_DSN=your_optional_sentry_dsn
 OLLAMA_BASE_URL=http://localhost:11434
 OLLAMA_MODEL=llama3.2
+
+# Optional Cloud Deployment: Groq LPU (runs open-source Llama 3.2 in cloud)
+GROQ_API_KEY=your_groq_api_key_here
+GROQ_MODEL=llama-3.2-3b-preview
 ```
+
 
 ---
 

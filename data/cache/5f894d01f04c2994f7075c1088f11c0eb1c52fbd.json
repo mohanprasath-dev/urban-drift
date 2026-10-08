@@ -1,0 +1,837 @@
+{
+  "search_metadata": {
+    "id": "6ac76d26a1de1213136eef15",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/vIuimy6a4ZsQgQnWnk5z6VSZpl44rMSuNgFJnHdIiVY/6ac76d26a1de1213136eef15.json",
+    "markdown_endpoint": "https://serpapi.com/searches/vIuimy6a4ZsQgQnWnk5z6VSZpl44rMSuNgFJnHdIiVY/6ac76d26a1de1213136eef15.md",
+    "created_at": "2026-10-08 10:15:02 UTC",
+    "processed_at": "2026-10-08 10:15:02 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/shops+near+vandalur+Chennai//data=!3m1!4b1!4m2!2m1!6e5?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/vIuimy6a4ZsQgQnWnk5z6VSZpl44rMSuNgFJnHdIiVY/6ac76d26a1de1213136eef15.html",
+    "prettify_html_file": "https://serpapi.com/searches/vIuimy6a4ZsQgQnWnk5z6VSZpl44rMSuNgFJnHdIiVY/6ac76d26a1de1213136eef15.prettify",
+    "total_time_taken": 1.49
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "shops near vandalur Chennai",
+    "google_domain": "google.com",
+    "hl": "en"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "shops near vandalur Chennai"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Rajan stores",
+      "place_id": "ChIJA33kneL1UjoRF5jMtSLWO7k",
+      "data_id": "0x3a52f5e29de47d03:0xb93bd622b5cc9817",
+      "data_cid": "13347497365209913367",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a52f5e29de47d03%3A0xb93bd622b5cc9817&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a52f5e29de47d03%3A0xb93bd622b5cc9817&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.892994999999999,
+        "longitude": 80.08356979999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJA33kneL1UjoRF5jMtSLWO7k",
+      "provider_id": "/g/1pv0qltb4",
+      "rating": 4.4,
+      "reviews": 69,
+      "type": "Grocery store",
+      "types": [
+        "Grocery store"
+      ],
+      "address": "1/214, Vandalur - Oragadam - Walajabad Rd, Chennai, Vandalur, Tamil Nadu 600048, India",
+      "country": "India",
+      "open_state": "Open · Closes 9:30 PM",
+      "hours": "Open · Closes 9:30 PM",
+      "operating_hours": {
+        "thursday": "9 AM–9:30 PM",
+        "friday": "9 AM–9:30 PM",
+        "saturday": "9 AM–9:30 PM",
+        "sunday": "9 AM–9 PM",
+        "monday": "9 AM–9:30 PM",
+        "tuesday": "9 AM–9:30 PM",
+        "wednesday": "9 AM–9:30 PM"
+      },
+      "phone": "+91 99621 99601",
+      "website": "http://rajan-stores.great-site.net/",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNIxlx327mqBGp9IocN9e-887v6qxictEIp0Y85zYjtORw4kE1qNWRj9P5p9V_PMskWHBKaKmGgsJNS1pUrpAJUVRk5zeOy7izzfVJfQJGmCLM_QLGuhZLgS2_E0UrbPmNJfNG5fQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/rYMmw3icHcRRDoIgAADQE5lYmdrWRzVHkpHatNWPK4ZYiqBQmTfsCN2mrffxvp9Sa6nmplmXkxETgtX0oWhHRKNpo0dEcJN1F6UMoszl-ilrjoO-7idjh7crKL1AEOxRw3Wd56ztb0T7gQQn1x5Od71PXtPKt1p8TO5eZEsvy6Odqo6b1fay5ZAphA-WTDu5RGmWVPZA92_nNgxFhooYQb4Od3kcwkd5DtlhnPsg7a4Rx6jA0C7ixcsCABjlf2I0PyYLRZk"
+    },
+    {
+      "position": 2,
+      "title": "Roots Handicraft",
+      "place_id": "ChIJBYiv-AT3UjoRozJaVs34wf8",
+      "data_id": "0x3a52f704f8af8805:0xffc1f8cd565a32a3",
+      "data_cid": "18429284710977516195",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a52f704f8af8805%3A0xffc1f8cd565a32a3&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a52f704f8af8805%3A0xffc1f8cd565a32a3&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.881649,
+        "longitude": 80.08062679999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJBYiv-AT3UjoRozJaVs34wf8",
+      "provider_id": "/g/11pttk_5fl",
+      "rating": 4.8,
+      "reviews": 97,
+      "type": "Handicraft",
+      "types": [
+        "Handicraft",
+        "Gift shop"
+      ],
+      "address": "J, Kesavan tower, 4/111, GST Rd, Otteri, Vandalur, Chennai, Tamil Nadu 600048, India",
+      "country": "India",
+      "open_state": "Open · Closes 9 PM",
+      "hours": "Open · Closes 9 PM",
+      "operating_hours": {
+        "thursday": "10:30 AM–9 PM",
+        "friday": "10:30 AM–9 PM",
+        "saturday": "10:30 AM–9 PM",
+        "sunday": "5–9 PM",
+        "monday": "10:30 AM–9 PM",
+        "tuesday": "10:30 AM–9 PM",
+        "wednesday": "10:30 AM–9 PM"
+      },
+      "phone": "+91 98400 30443",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOL_utnDwZP0Y69pEDh4hoq9xR73NSyVPnftclObFxqIf1cbrwPaUikuXjp0Al-Cfjd7BIWV-KWR5hS7K7gS5fzvfqMN3dOhIA72F-fVlhjtD9ySlpN6AWboyXD8zgmjRFDEE63YyyZyfeE=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/6GJIQXicHcTBboMgAADQL6LSucpcsoMrmphuajTTtpelUoFaBBSspT-58_5myd7h_f5wa7V59TzB_RVTioluNt1ElLSdtCuiBo9NJ2MAMV60vWkx5B_fs5V4ORbwEIQ6xvyZqzG8l8jPKlcXkloi8ja5jyldk3ZaitPX5Trvew0jAba0P6P3tKnBrik3vEI7xKoNfdzo-Jn555ynEXpKAK0F7y0OXSV0FkRNq9wevzzY0JcJjuPAPzh3dLSL35Y1hBDw_wmQfztkSGw"
+    },
+    {
+      "position": 3,
+      "title": "Jo's Stores",
+      "place_id": "ChIJ5x4wnu31UjoRkqOrDajosfU",
+      "data_id": "0x3a52f5ed9e301ee7:0xf5b1e8a80daba392",
+      "data_cid": "17704187418651632530",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a52f5ed9e301ee7%3A0xf5b1e8a80daba392&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a52f5ed9e301ee7%3A0xf5b1e8a80daba392&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.897677,
+        "longitude": 80.0876988
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ5x4wnu31UjoRkqOrDajosfU",
+      "provider_id": "/g/11jv4c73w2",
+      "rating": 4.9,
+      "reviews": 62,
+      "type": "Indian grocery store",
+      "types": [
+        "Indian grocery store"
+      ],
+      "address": "Ramasamy St, RMK Nagar, Vandalur, Tambaram, Tamil Nadu 600048, India",
+      "country": "India",
+      "open_state": "Open · Closes 11:30 PM",
+      "hours": "Open · Closes 11:30 PM",
+      "operating_hours": {
+        "thursday": "6 AM–11:30 PM",
+        "friday": "6 AM–11:30 PM",
+        "saturday": "6 AM–11:30 PM",
+        "sunday": "6 AM–11:30 PM",
+        "monday": "6 AM–11:30 PM",
+        "tuesday": "6 AM–11:30 PM",
+        "wednesday": "6 AM–11:30 PM"
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPnqUnPk5iZcHMGuN9Qq2LpgnSYCWKwQQQiXZ_QqZ8EtCsjcnuDWG1GwHVOvaK-ipJQP2VaeUmeNGncMAprmmrYPl4AkX694HqrW_rGwRz_5QfsszBIcpNTvKGCwYvr9DniojSb=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/nZHgSHicHcTbToMwGADgJ2KwORYx8YLBUhSH1DlON4Q1lWP_lrbQZC_oM-xtTPwuvsdvp7VQL7Y9dU-blvN2oouiknDQFPSGcGa3slHKIsr2g1VMLIX5Cuno9hWJzmhJPDzvPkQLlzLIY4Mx7ouqxnP1fNKBGggsYY62yETZ59rEVi_ecbrLGnplNEFAzr6QjMkynfb-WBy8fTTLvJbIfN1rF_8odT--EZF8rzEKTLlKL4SeD5fbq9k6jmN1_xML_gA4C0cR"
+    },
+    {
+      "position": 4,
+      "title": "Murugan Store",
+      "place_id": "ChIJVQR9AA72UjoRbwcH8FyRHFI",
+      "data_id": "0x3a52f60e007d0455:0x521c915cf007076f",
+      "data_cid": "5916763838808000367",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a52f60e007d0455%3A0x521c915cf007076f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a52f60e007d0455%3A0x521c915cf007076f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.8816439,
+        "longitude": 80.0814639
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVQR9AA72UjoRbwcH8FyRHFI",
+      "provider_id": "/g/1pv5wjtx9",
+      "rating": 4.1,
+      "reviews": 10,
+      "unclaimed_listing": true,
+      "type": "Supermarket",
+      "types": [
+        "Supermarket"
+      ],
+      "address": "4/90, GST Rd, Otteri, Vandalur, Chennai, Vandalur, Tamil Nadu 600048, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "thursday": "8 AM–10 PM",
+        "friday": "8 AM–10 PM",
+        "saturday": "8 AM–10 PM",
+        "sunday": "8 AM–10 PM",
+        "monday": "8 AM–10 PM",
+        "tuesday": "8 AM–10 PM",
+        "wednesday": "8 AM–10 PM"
+      },
+      "phone": "+91 44 2275 0168",
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WbES9OGfmIdiEHO5oPr-qw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=117.39932&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/_btDD3icHc3NDcIgGADQbbiVnzZGMSGemuqpJh48GkopfAktCFh0HbdyG40LvPd525xD2hOSctQ6r6BLgKd2qQoSG--N0zJAwsrPZGUk28c8LBLcIcjFwyiuQ3vhfTfNpxHaY7_x51jdC1LDTTnQSxZJy6gsNuUnRj9iE2VKqIgdRVbwGr1kEYxtccN5U6MAWVlB0f-Z_CoYpV_tszpD"
+    },
+    {
+      "position": 5,
+      "title": "CHELLAM DEPARTMENT STORE",
+      "place_id": "ChIJ41UDy233UjoRzfYc0gFFKgk",
+      "data_id": "0x3a52f76dcb0355e3:0x92a4501d21cf6cd",
+      "data_cid": "660416169485596365",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a52f76dcb0355e3%3A0x92a4501d21cf6cd&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a52f76dcb0355e3%3A0x92a4501d21cf6cd&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.8916708,
+        "longitude": 80.0832993
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ41UDy233UjoRzfYc0gFFKgk",
+      "provider_id": "/g/11g9qbh8ml",
+      "rating": 4.3,
+      "reviews": 39,
+      "type": "Supermarket",
+      "types": [
+        "Supermarket",
+        "Grocery store"
+      ],
+      "address": "2/253, Anna Rd, Arigar, Vandalur, Tamil Nadu 600048, India",
+      "country": "India",
+      "open_state": "Open · Closes 9 PM",
+      "hours": "Open · Closes 9 PM",
+      "operating_hours": {
+        "thursday": "9 AM–9 PM",
+        "friday": "9 AM–9 PM",
+        "saturday": "9 AM–9 PM",
+        "sunday": "9 AM–9 PM",
+        "monday": "9 AM–9 PM",
+        "tuesday": "9 AM–9 PM",
+        "wednesday": "9 AM–9 PM"
+      },
+      "phone": "+91 63825 75470",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOSKvEbpUGc3JXPlBhxsOMzsSXG9FrQVO58uXRR_kNFrPPTPzH5joNfry9lXUNRRu2O9LEFZ0XwN3L9LnFC1VYUkP9cwiSqgxMA1LB9eARcRVvGqaZ2lDM_zRRie9a9AwjM2XGqSkHNqCr1=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/3g9zfHicHcRJDoIwAADAFyFbTKyJB0TAKJRahFQvBpsKSqXQsiif9OxvTJzDfD9l1zVqqeu8tGeFEAVnvWKSirpjdTej4qkXMldKo0p33KHhzzjZD961SQNq7wji6_Kl4mhSCQmALw9ZPF_0BONLBX2J0BFN2_lDwJt8A05SiHFvxSD0_LNBRmiHIKx918xOaYUAHe9JW7wixwzXgDmY4mwI2vxs8U10mTC-M5ADZ3xEFgnapNrC1pXmajQNw9DK_1Srf_CzR38"
+    },
+    {
+      "position": 6,
+      "title": "CHIKINYA FASHION DESINGER BOUTIQUE",
+      "place_id": "ChIJ7_vAIZP1UjoRCrqi_ujMtQs",
+      "data_id": "0x3a52f59321c0fbef:0xbb5cce8fea2ba0a",
+      "data_cid": "843805806278392330",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a52f59321c0fbef%3A0xbb5cce8fea2ba0a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a52f59321c0fbef%3A0xbb5cce8fea2ba0a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.8968431,
+        "longitude": 80.08841559999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ7_vAIZP1UjoRCrqi_ujMtQs",
+      "provider_id": "/g/11sqs82c6d",
+      "rating": 4.9,
+      "reviews": 39,
+      "type": "Clothing store",
+      "types": [
+        "Clothing store"
+      ],
+      "address": "Flat no 8, Raji St, Singarathottam, Vandalur, Chennai, Tamil Nadu 600048, India",
+      "country": "India",
+      "open_state": "Open · Closes 5 PM",
+      "hours": "Open · Closes 5 PM",
+      "operating_hours": {
+        "thursday": "9 AM–5 PM",
+        "friday": "9 AM–8 PM",
+        "saturday": "9 AM–8 PM",
+        "sunday": "Closed",
+        "monday": "9 AM–8 PM",
+        "tuesday": "9 AM–8 PM",
+        "wednesday": "9 AM–8 PM"
+      },
+      "phone": "+91 80566 51556",
+      "website": "https://www.instagram.com/p/CbSctKxM2ke/?utm_source=ig_web_copy_link",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOtULFa7Cnaqs4eS2KICvyfubBOAv3sX0xLeaoJ0KO3hEruzTmg76yIfEJl_6lwWGCs5ORUEYs7iHYaoKg5z0YpMX7q2OW0kC0A-1Z2j7Vcgr2y7OTFatjTLZxSTim1cislvz4OF2L7C_td=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/cYdPPHicHcTdboIwGADQJwJKUZqY7AIbmApLE8UfvDFdrQVXKPIVFF5y177Nkp2L8_4trW1h4Xm6DFxljNKyB9kJ01jZWFeY2lMdB3AEeBEdWl0zu88STmjDHzCTO5yu6TDe-u8li4YATuiVSW42KGVBGXf9lNeKhOP6Fm_0JdTP4yeFOdvu4wJItSq4SdV8QkX7dSIPzI7oh6LI8c_4Tg5CdXgkLE-4vefZ-bXLq9oXFehhmrEEZ4Re7PXj6SOEnPJ_4TR_9WRHnQ"
+    },
+    {
+      "position": 7,
+      "title": "Sri Sastha Supermarket",
+      "place_id": "ChIJ7crym3L2UjoRSanXG9Z0-3Y",
+      "data_id": "0x3a52f6729bf2caed:0x76fb74d61bd7a949",
+      "data_cid": "8573574778568812873",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a52f6729bf2caed%3A0x76fb74d61bd7a949&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a52f6729bf2caed%3A0x76fb74d61bd7a949&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.8816162,
+        "longitude": 80.074007
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ7crym3L2UjoRSanXG9Z0-3Y",
+      "provider_id": "/g/11bv18yy49",
+      "rating": 3.8,
+      "reviews": 240,
+      "type": "Grocery store",
+      "types": [
+        "Grocery store"
+      ],
+      "address": "No 4/59, thiruvallur street, Otteri 1st Main Rd, Otteri Extension, Vandalur, Tamil Nadu 600048, India",
+      "country": "India",
+      "open_state": "Open · Closes 9:30 PM",
+      "hours": "Open · Closes 9:30 PM",
+      "operating_hours": {
+        "thursday": "9:30 AM–9:30 PM",
+        "friday": "9:30 AM–9:30 PM",
+        "saturday": "9:30 AM–9:30 PM",
+        "sunday": "9:30 AM–1 PM",
+        "monday": "9:30 AM–9:30 PM",
+        "tuesday": "9:30 AM–9:30 PM",
+        "wednesday": "9:30 AM–9:30 PM"
+      },
+      "phone": "+91 87545 04818",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOQ_VnApTelmBnCSQL6vrwAm8F-GsGCuHYae2S-xLcYp_fONkoide7fJGAqdXQD063hrg9Ke9euPLlQHB5Jd7_yKOam12ie0G8q4LQWxH_o9uFcm3Hb70LDdAI8OUcnd8_awZiA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/0e4Y4HicHcTdboIwGADQJ6pU2QRMvCgYYdqIjW5TbxrWfgJZf5CC6BP6DL6NiefiPB9V1zVu5nmq8keltaWC3kErrOnAdCNhtVe2hXNIOI8k10bpnPEfQ5o9KB2bZMfo9NoORIdLlLo06bNjAZMdulFxbPg53_zbWkJwXqXkIg9sgad-1ZbRGiLot1SxLP5cyYDf13mhx5MacBpePij7vWXcRv1SaD_7CzBdSPIV5t_CyJAXw6km82GMMUbVe4HMC5rFRFs"
+    },
+    {
+      "position": 8,
+      "title": "Ramdev Fancy Store",
+      "place_id": "ChIJX7RNRQ32UjoR-6yh3eSpjSo",
+      "data_id": "0x3a52f60d454db45f:0x2a8da9e4dda1acfb",
+      "data_cid": "3066293721745173755",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a52f60d454db45f%3A0x2a8da9e4dda1acfb&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a52f60d454db45f%3A0x2a8da9e4dda1acfb&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.882016499999999,
+        "longitude": 80.0765947
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJX7RNRQ32UjoR-6yh3eSpjSo",
+      "provider_id": "/g/1ptynp80n",
+      "rating": 4.5,
+      "reviews": 20,
+      "unclaimed_listing": true,
+      "type": "Stationery store",
+      "types": [
+        "Stationery store",
+        "Cosmetics store",
+        "Gift shop",
+        "Jeweler"
+      ],
+      "address": "No:5/166, J.K.B Complex, Otteri Extension, 4th Main Rd, Vandalur, Chennai, Tamil Nadu 600048, India",
+      "country": "India",
+      "open_state": "Open · Closes 9 PM",
+      "hours": "Open · Closes 9 PM",
+      "operating_hours": {
+        "thursday": "7 AM–9 PM",
+        "friday": "7 AM–9 PM",
+        "saturday": "7 AM–9 PM",
+        "sunday": "7 AM–9 PM",
+        "monday": "7 AM–9 PM",
+        "tuesday": "7 AM–9 PM",
+        "wednesday": "7 AM–9 PM"
+      },
+      "phone": "+91 99410 41617",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW1cu0F_3Ug7d7hYBFAHOUUEio4lpCMeMfkDq7jr0fZTEYbTDVgVf4vUNyvt0K_8sxyH2u1ju4ghgVXPYutGkyZrh81EWLh2_MvX_X9yxV0UEk6yvN-a2Ty5wKqVahh8OdG0CRlTnGE5J1IaA8Am1MDlCBJLtGruLEndtIF017vwc01iQFmfnuYnW1NCRiOb6UU6uzzgCQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/H9PxrnicHcTJcoIwAADQ6b2_giSKQDvTA7KJitsQFi8MsiQKBIQEjZ_ar-lM3-H9fnwSxvrxW5YbspjhrsNNycdyyDvKSspmedfKeMjGUeqH7iVkw_M1HMGcAyddIKwVGklWjrE-IGTfOqXpTb_0q9p6aPcBVJfATq6BFeKwUia0FxMD21QfX2I95_DOFUxwGB8TztxaXAaiQzvakXnqT3Eaf4lXCJBdq2LaS9k8EMvn9hFmhOiHwgXmuQmoay830MsM3WihbzXmarNj7sB3Ni2Y5wCoTc8cwNvJaSvKExrBvXm-Ha4qQip_v7F5-nlCAIBE_s8l-gf2oVs4"
+    },
+    {
+      "position": 9,
+      "title": "Subramani Store",
+      "place_id": "ChIJN8m0fQ32UjoRgasB1Rk0jkU",
+      "data_id": "0x3a52f60d7db4c937:0x458e3419d501ab81",
+      "data_cid": "5012000720862423937",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a52f60d7db4c937%3A0x458e3419d501ab81&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a52f60d7db4c937%3A0x458e3419d501ab81&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.881491599999999,
+        "longitude": 80.0782782
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJN8m0fQ32UjoRgasB1Rk0jkU",
+      "provider_id": "/g/1ptw2rhl3",
+      "rating": 4.6,
+      "reviews": 10,
+      "type": "General store",
+      "types": [
+        "General store"
+      ],
+      "address": "Shop No:5/686, New Otteri Manikka Jalakanda Salai Vandalur, Chennai, Tamil Nadu 600048, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "thursday": "6 AM–10 PM",
+        "friday": "6 AM–10 PM",
+        "saturday": "6 AM–10 PM",
+        "sunday": "6 AM–10 PM",
+        "monday": "6 AM–10 PM",
+        "tuesday": "6 AM–10 PM",
+        "wednesday": "6 AM–10 PM"
+      },
+      "phone": "+91 98417 79063",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW3AKFS1LqdIsISJ0MESKUEKVcpiNJmilu-21KNjfdKQ1XEdeSGj2RUidefZPHcV0yf6ipK_hr-jwXpaNyriqE9gVQof2-cNqCgFoLn3cekI1v3V_pCbCEZlKVXB5FS_x1ZovOnxDNyM83uFnCWVk7NS6Qe_c25SmiJ0Av1lUbJN5pSUTs_gU8j_aRVgp8SGU4jkqOfQeg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/aIhSX3icHcTNboIwAADg7L5XQVqYP1uyg2PgoFqHHdV4IVpKKSAtFBRedU-zZN_h-316Lvpemzfbrgt3JpQSNR8M75hqet70M6Zutuguxli6U-Nkr8PdUhzdNQoI3LZZaEISgZ1PUOIjyrTE0U3Wg-VAhMs8QzE8-Rknm9I5JDLj-fn7i1Ew5QupUVp0Vvk46QueOtn6r4LGKncshltPBGrbuIxXIby7NNXe1fPPNaKnj3lA0hGe1X3fjJ942q3cIWi8I62WmCxinjJnTm4yAus7rJNrhOeaJD8mFcmqTC8HKvSKbJKXsmr3eczF-wMCAKzif2Y1f8qHW2c"
+    },
+    {
+      "position": 10,
+      "title": "Eva Fashion and Craft",
+      "place_id": "ChIJU9eAtjL1UjoR0f8NHCtB4G0",
+      "data_id": "0x3a52f532b680d753:0x6de0412b1c0dffd1",
+      "data_cid": "7917399798327410641",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a52f532b680d753%3A0x6de0412b1c0dffd1&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a52f532b680d753%3A0x6de0412b1c0dffd1&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.8953349,
+        "longitude": 80.08042739999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJU9eAtjL1UjoR0f8NHCtB4G0",
+      "provider_id": "/g/11w8r4gkj2",
+      "rating": 4.9,
+      "reviews": 75,
+      "type": "Jewelry store",
+      "types": [
+        "Jewelry store",
+        "Scrapbooking store"
+      ],
+      "address": "3/73, Indira Gandhi St, Ganapathy Nagar, Balaji Nagar, Vandalur, Tamil Nadu 600048, India",
+      "country": "India",
+      "open_state": "Open · Closes 6 PM",
+      "hours": "Open · Closes 6 PM",
+      "operating_hours": {
+        "thursday": "10 AM–6 PM",
+        "friday": "10 AM–6 PM",
+        "saturday": "10 AM–6 PM",
+        "sunday": "Closed",
+        "monday": "10 AM–6 PM",
+        "tuesday": "10 AM–6 PM",
+        "wednesday": "10 AM–6 PM"
+      },
+      "phone": "+91 72004 61417",
+      "website": "https://www.evafashionandcraft.com/",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMWNmDZQeiuOwU4hukJoCi_latQ5_TakONgjG3lm6TiBLulKVvj66OYsno0BiQaHNaFm6R76c8bmwEFgNRRAOE3WGm-uUfy9r4S1sqWgddc4d1sdJwYfwYmj5SppAtP0rYBF3mtLx_OWEk=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/l0tR0XicHcTdboIwGADQJ0JKwM4t2QU4cHGOCuoI3pBasPz0o0hbO19y93ubJTsX5_en1XpSL64rWn_BpeSiMaqZmRx1M-oFk-DymSrlMOWG6_sk4LNI4e2cNZ0h9hS0ZtjKdVcJqrNldaQDSXm_8QXgYxftjPj4uvcYk1KNEkVdRt9TmgDOnzBbXcDGCU_zPCSxX2zAMafr43kODp66FbyuWVB7qt7a8mpL6JeHaQr1Hs1llPigd98VKeLh1XoIIaf9nznjHxiMSI4"
+    },
+    {
+      "position": 11,
+      "title": "Aavin Store",
+      "place_id": "ChIJSUoxZQD3UjoRv9n9RJeZVlg",
+      "data_id": "0x3a52f70065314a49:0x5856999744fdd9bf",
+      "data_cid": "6365443998311373247",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a52f70065314a49%3A0x5856999744fdd9bf&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a52f70065314a49%3A0x5856999744fdd9bf&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.888810099999999,
+        "longitude": 80.08148609999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSUoxZQD3UjoRv9n9RJeZVlg",
+      "provider_id": "/g/11zglr5kmc",
+      "rating": 5,
+      "reviews": 3,
+      "unclaimed_listing": true,
+      "type": "General store",
+      "types": [
+        "General store"
+      ],
+      "address": "2/415, 3rd Main Rd, Venkatesapuram, Vandalur, Tamil Nadu 600048, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "thursday": "5 AM–10 PM",
+        "friday": "5 AM–10 PM",
+        "saturday": "5 AM–10 PM",
+        "sunday": "5 AM–10 PM",
+        "monday": "5 AM–10 PM",
+        "tuesday": "5 AM–10 PM",
+        "wednesday": "5 AM–10 PM"
+      },
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Qkx5GV4jyo_2WmeSxdMmUQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=21.304724&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/bPsQC3icHc3NDcIgGADQbbgJFGv8SUiPnjw0Rj02lH4CCoUAlnYdt3IbjQu893nrnEM6EJJyBMiTgRLMDDatgsDKe2VBBJOw9I5MFcn65fpRGNsEMXoz8PY5b47X-rH4jt0cnOfh5C4tkn0nrYEx8wQiSo1V-YnRD1hFkRIqfEeR5nuGFlE4q_Ca1ltWo2Cy1Jyi_3P3E68o_QIWGDqs"
+    },
+    {
+      "position": 12,
+      "title": "Nammi Stores",
+      "place_id": "ChIJtRk8Laf3UjoRmBZl9Z6ZX-c",
+      "data_id": "0x3a52f7a72d3c19b5:0xe75f999ef5651698",
+      "data_cid": "16672213253549790872",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a52f7a72d3c19b5%3A0xe75f999ef5651698&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a52f7a72d3c19b5%3A0xe75f999ef5651698&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.882446799999999,
+        "longitude": 80.0748339
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJtRk8Laf3UjoRmBZl9Z6ZX-c",
+      "provider_id": "/g/11k3ywxgd7",
+      "rating": 5,
+      "reviews": 14,
+      "type": "Store",
+      "types": [
+        "Store"
+      ],
+      "address": "5/94, 3rd Main Rd, Otteri Extension, Vandalur, Tamil Nadu 600048, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "thursday": "7 AM–10 PM",
+        "friday": "7 AM–10 PM",
+        "saturday": "7 AM–10 PM",
+        "sunday": "7 AM–10 PM",
+        "monday": "7 AM–10:30 PM",
+        "tuesday": "7 AM–10 PM",
+        "wednesday": "7 AM–10 PM"
+      },
+      "phone": "+91 99520 36432",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNcumkYJDhz7RkDnpnmm3uFH8L1S_vGmOZPi4xV0m3OSLoYwaxMU85zWOapj9oi5tRoRc9vb7CxHJYjDY3TquvB8FIZwV3Pejlp0DhRHa7ml07rBFSF77ZqY83XDgU8YP0vFlMk=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/OlI-GnicHcTbboIwAADQL0JqOtO6ZA_TpjKjg4C38mKwIVToTVoK8Qf3Df7NEs_Def0J7637jGMp4KwxppH14OqeG-1r7WfcqLjpK-ci7uLvdbBS_fJBdWxLxBPlHdFWKwUHmuDdvLiGjUrL7P4xnYCCabEzbKym_REvnue0su3S3Bc-NzlfhhtaT8mWtYTBw2MIK0x_yvEEs7qVFhCRJxVSEqB-RQuKUPlgGF5Ic8QsA4HKffc1zgEAkXjPI_0P-I5FHA"
+    },
+    {
+      "position": 13,
+      "title": "GOWTHAM TEXTILES",
+      "place_id": "ChIJQ6ANwof1UjoRIprl1OIiHwo",
+      "data_id": "0x3a52f587c20da043:0xa1f22e2d4e59a22",
+      "data_cid": "729340022287079970",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a52f587c20da043%3A0xa1f22e2d4e59a22&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a52f587c20da043%3A0xa1f22e2d4e59a22&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.893737699999999,
+        "longitude": 80.0803988
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQ6ANwof1UjoRIprl1OIiHwo",
+      "provider_id": "/g/11h28c8yzt",
+      "rating": 4.9,
+      "reviews": 45,
+      "type": "Clothing store",
+      "types": [
+        "Clothing store",
+        "Baby clothing store",
+        "Clothing supplier",
+        "Dress store",
+        "Formal wear store",
+        "Men's clothing store"
+      ],
+      "address": "5/388, Walajabad Rd, Balaji Nagar, Vandalur, Tamil Nadu 600048, India",
+      "country": "India",
+      "open_state": "Open · Closes 10:30 PM",
+      "hours": "Open · Closes 10:30 PM",
+      "operating_hours": {
+        "thursday": "8:30 AM–10:30 PM",
+        "friday": "8:30 AM–10:30 PM",
+        "saturday": "8:30 AM–10:30 PM",
+        "sunday": "8:30 AM–10:30 PM",
+        "monday": "8:30 AM–10:30 PM",
+        "tuesday": "8:30 AM–10:30 PM",
+        "wednesday": "8:30 AM–10:30 PM"
+      },
+      "phone": "+91 87782 84722",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmP4obvosvVQCXLO5_lEF_EEWedRiJW0B9MR-BsRDc8fNirE_CS25DrjR8u61b7_8T0ebwqgGRbwJmTG8IY08k7o338Hw_AUcSE7PiDWb9EIPfClzH7ujaAFgVrdaRbxLRCrRnElNs2ha55k=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/5Gf1e3icHcRLcoIwAADQEyFRpARnXECIv6GK0Uq7ypAYAxqIJnwcL9l1b-NM3-L9_ZZte7cz11WlN5JaSyU6KwzXTSuadsR17UpTWOtw60aov6s6m2rWa9uf9ug73flU4QXFOBdnUm1yEIefxIktSTi8bCuDKTpM_MRcCew-xiyg8AgEGx5ySdiwqY9LuP4B8BZoz4OrgUZf_ICDrEpyFuJ1dkHqtQq6axEt5MmcC8KeKUGGNFht7aQsfP82H8YAAKf8nzvNG3TVRoY"
+    },
+    {
+      "position": 14,
+      "title": "INNOSCENT PERFUMES™ - VANDALUR",
+      "place_id": "ChIJFVB9GBr3UjoRNkMFvOOpQXs",
+      "data_id": "0x3a52f71a187d5015:0x7b41a9e3bc054336",
+      "data_cid": "8881566735728460598",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a52f71a187d5015%3A0x7b41a9e3bc054336&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a52f71a187d5015%3A0x7b41a9e3bc054336&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.8820109,
+        "longitude": 80.0808752
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJFVB9GBr3UjoRNkMFvOOpQXs",
+      "provider_id": "/g/11wnm2t3pd",
+      "rating": 4.9,
+      "reviews": 39,
+      "type": "Perfume store",
+      "types": [
+        "Perfume store"
+      ],
+      "address": "4/122, GST Rd, opp. to Vandalur, Otteri, Zoo, Vandalur, Tamil Nadu 600048, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "thursday": "12–10 PM",
+        "friday": "12–1 PM, 2–10 PM",
+        "saturday": "12–10 PM",
+        "sunday": "12–10 PM",
+        "monday": "12–10 PM",
+        "tuesday": "12–10 PM",
+        "wednesday": "12–10 PM"
+      },
+      "phone": "+91 90033 80888",
+      "website": "https://www.innoscent.co/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop",
+            "Wheelchair accessible restroom"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmP46OTdfABYff8vF0pyZ_Yh1kW86tRQcCYvrpE7j-QiMCBgRZQq62q0FJxecr-iE72BuNelinuZMo8HYvj7Vmmz4twrwOO8ly_J8U0hd9CAieQ4Zlqdi_qi7twcP4IVAYqOzF1LbQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/oOgWjHicHcRdboIwAADgE1WKEuhMfAAiUTOHNepSXshWCq0rlP4A6g09grcx2ffwvZ7cud4uPU_yxaxRqpFssMxQ1TnWuRlVrdeYH2sBtV6cjr1sD0GYn6o6TkhdozGD_b0oCff_vlHojpimZDT9OroCLPZp0hwLrMO5htnuxqgBYh3Nk-GLSdENxV6hDRmv0aVtH4GbzJTnSN7LHTpDXn2ksWA4KKSuRKlF5CZ6CLaXmOj8kfmfv3g1-RBCwP-noHsDPzlGLw"
+    },
+    {
+      "position": 15,
+      "title": "Sri Saravana Maligai Stores",
+      "place_id": "ChIJeXF_bxr1UjoRqhLygAbTMT8",
+      "data_id": "0x3a52f51a6f7f7179:0x3f31d30680f212aa",
+      "data_cid": "4553652723134894762",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a52f51a6f7f7179%3A0x3f31d30680f212aa&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a52f51a6f7f7179%3A0x3f31d30680f212aa&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.893196,
+        "longitude": 80.085014
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJeXF_bxr1UjoRqhLygAbTMT8",
+      "provider_id": "/g/11vwn9hd0g",
+      "rating": 4.7,
+      "reviews": 22,
+      "type": "Grocery store",
+      "types": [
+        "Grocery store"
+      ],
+      "address": "1/5, Walajabad Rd, [no name], Vandalur, Tamil Nadu 600048, India",
+      "country": "India",
+      "open_state": "Closed · Opens 9 AM Fri",
+      "hours": "Closed · Opens 9 AM Fri",
+      "operating_hours": {
+        "thursday": "9–11:30 AM",
+        "friday": "9–11:30 AM",
+        "saturday": "9–11:30 AM",
+        "sunday": "9–11:30 AM",
+        "monday": "9–11:30 AM",
+        "tuesday": "9–11:30 AM",
+        "wednesday": "9–11:30 AM"
+      },
+      "phone": "+91 63827 68917",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPO9iwUFbsqRxShb1C5FalRdI4yojUJHd-brN-WGuKtX1q39BhNPFM8nSTPGNUfpf1ScW5_xQ_BpMsHTw6s9Ob6kgbdQR4UTCBmxfwYi8aqUcDPDV4Z-sOQpgsNZcjEnyHEkwpJu4Z8M12T=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Z773f3icHcTNboIwAADgJ6rQiQaW7DBQZC78U3VcDC3QqtAWCis-5c57myX7Dt_vD5smqV4No2PrFRWCds2smpEIPjV8WhHRG3SslAJEGe_et-z6JHZuGvlYDdmSMwy9jV91Wf1hPcUdHYMa4DEC58P8OV3gsHZcFiV-aPO8SA4RamULc3LeXJf06spQBYXeKifG2wfFdZpZqPDcfmn1182uBkR2ye5klUDFqaQqKsl9z5_B_qHlcbZKO4QvxZuGpmkC9j8B_A_8oEff"
+    },
+    {
+      "position": 16,
+      "title": "Tasmac Wine Shop",
+      "place_id": "ChIJq8JkHwz2UjoRka9E7EpGOs0",
+      "data_id": "0x3a52f60c1f64c2ab:0xcd3a464aec44af91",
+      "data_cid": "14788209614029893521",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a52f60c1f64c2ab%3A0xcd3a464aec44af91&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a52f60c1f64c2ab%3A0xcd3a464aec44af91&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.8862464,
+        "longitude": 80.0808982
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJq8JkHwz2UjoRka9E7EpGOs0",
+      "provider_id": "/g/11dyyngshj",
+      "rating": 3.5,
+      "reviews": 285,
+      "unclaimed_listing": true,
+      "type": "Wine store",
+      "types": [
+        "Wine store"
+      ],
+      "address": "V3PJ+F9R, Vandalur, Tamil Nadu 600048, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "thursday": "12–10 PM",
+        "friday": "12–10 PM",
+        "saturday": "12–10 PM",
+        "sunday": "12–10 PM",
+        "monday": "12–10 PM",
+        "tuesday": "12–10 PM",
+        "wednesday": "12–10 PM"
+      },
+      "website": "http://www.tasmac.co.in/",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNgLfyWYTOBEV2C5mJ9d786e3ip9jMZU3JjmueyA97SQu7M6FDOvjOia-UbGRhdXqL6BtzU_yhRhB7rKjmuiPMzbEl94BI8_UPS95FOdqAGA3jLaucrrSiC3adthjwX0bkxDqFaFw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/qbhMTXicHcpLcoIwAADQEyFoBExnXPARpxaKgvjbOCGkhMg3CSLe0CP0Nu24eav3-6JStuJDVUsKJnnT5CXpBeG4qSWp5QQ3lZpzJISChWo597asvnP_Zzye96G9OswcvdrAzFwYBBQtZMElARtW9WS0oBnvejMwPDe8s7BASpKuI5qdOt-w5TO5jjSitsm__nexDZ7pqoRz-3NxTbYx1L0w66y1BZiPesx5XDgAZZKy4aSlt4fbecgblsNU0zSFvsVK_Qf5FUWx"
+    },
+    {
+      "position": 17,
+      "title": "Sowndirapandian Fruits & Vegetable Store",
+      "place_id": "ChIJVyCleOL1UjoRjRGZIDEx40E",
+      "data_id": "0x3a52f5e278a52057:0x41e331312099118d",
+      "data_cid": "4747692519248695693",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a52f5e278a52057%3A0x41e331312099118d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a52f5e278a52057%3A0x41e331312099118d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.892973,
+        "longitude": 80.0838251
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVyCleOL1UjoRjRGZIDEx40E",
+      "provider_id": "/g/1ptx0l2g4",
+      "rating": 4.6,
+      "reviews": 9,
+      "unclaimed_listing": true,
+      "type": "Fruit and vegetable store",
+      "types": [
+        "Fruit and vegetable store"
+      ],
+      "address": "1/217, Walajabad Rd, Vandalur, Chennai, Vandalur, Tamil Nadu 600048, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "thursday": "7 AM–10 PM",
+        "friday": "7 AM–10 PM",
+        "saturday": "7 AM–10 PM",
+        "sunday": "7 AM–9 PM",
+        "monday": "7 AM–10 PM",
+        "tuesday": "7 AM–10 PM",
+        "wednesday": "7 AM–10 PM"
+      },
+      "phone": "+91 99624 21990",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW37S-uE858GA8vajlMOqDQJa-mdvjLS-6uyNu8nQ7EL3AEACcfhmH39m5xZ0HPI3yB5jNZ96K02uC7Y1fzGwOnwoqUnim7nn6AIF1Ul7pSetkq4KykfgCOYNucKC35upxxLahCBOdMCQqikYS5o6Ys2Vc9tahlmZN-sIPfZp0OshIIu7i2jRXd69KCNcW8ndwvFxWo7PQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/g9V63HicHcTNToMwAADgePdVOtgQCiYeWGUbwmBI5oQbKT-F0RZoO8BH9WlM_A7f79MzkXIQr5rWE2PTcN70lRLVhDmTFZMbzKnWTIUQYJj4smquf4bNzYApUJ5t2kfXfhRdf47H9-SjALR8dGEKLLVGymYJ9ELD9VyEa0JPhkPNJddPF99Y92YX5Y4V6DuFYLatf45zzGY-XllLIWOW6x-21x4OaSXv40uw3usGxVmkcIAMUw3LEhYE7ePyjJKxvWepya1M7L6wIwvS0zwCwr_U-aDHgvi-gu2u-_wuLSdAEb7ZrJwfh-XG4SV5m7e6rgPyPwbsDxXbWpA"
+    },
+    {
+      "position": 18,
+      "title": "VIGNESH STORE",
+      "place_id": "ChIJJeY6ZOH1UjoR2SoW_U5ofvo",
+      "data_id": "0x3a52f5e1643ae625:0xfa7e684efd162ad9",
+      "data_cid": "18049979045010352857",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a52f5e1643ae625%3A0xfa7e684efd162ad9&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a52f5e1643ae625%3A0xfa7e684efd162ad9&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.8966905,
+        "longitude": 80.0809439
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJJeY6ZOH1UjoR2SoW_U5ofvo",
+      "provider_id": "/g/11t9p9zt7d",
+      "rating": 4.1,
+      "reviews": 23,
+      "unclaimed_listing": true,
+      "type": "General store",
+      "types": [
+        "General store"
+      ],
+      "address": "V3WJ+M9G, M K Stalin St, Ganapathy Nagar, Vandalur, Tamil Nadu 600048, India",
+      "country": "India",
+      "open_state": "Open now",
+      "phone": "+91 80562 58197",
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=UsEOg5e_7SGRcqdANlg6xw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=284.93726&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/FQSq8nicHc3BDcIgFADQbbgJtGpbTYjxYLxpovHcUPoFElqQj6Wu41Zuo3GB9z5vk1LALWOYIkCaLORgZ3C4CJJq77UDGSxS5Qc2FSyZ59CN0rpdkKO3vbjh4azX0NbX40U9-v3J6WrORHWtchbGJBBkVIbq_BOj76mOEpFk0XBixKYkL5lF2azoZlmXFQk2KSM4-T93P4mC8y8DizqH"
+    },
+    {
+      "position": 19,
+      "title": "angelin store",
+      "place_id": "ChIJHV3L8PH3UjoRfywp4GFfp3Y",
+      "data_id": "0x3a52f7f1f0cb5d1d:0x76a75f61e0292c7f",
+      "data_cid": "8549907291563437183",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a52f7f1f0cb5d1d%3A0x76a75f61e0292c7f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a52f7f1f0cb5d1d%3A0x76a75f61e0292c7f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.8753946,
+        "longitude": 80.0748735
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJHV3L8PH3UjoRfywp4GFfp3Y",
+      "provider_id": "/g/11h7nbhjzp",
+      "rating": 4.6,
+      "reviews": 10,
+      "unclaimed_listing": true,
+      "type": "Grocery store",
+      "types": [
+        "Grocery store"
+      ],
+      "address": "V3GF+5W5, Vandalur, Kilampakkam, Tamil Nadu 600048, India",
+      "country": "India",
+      "open_state": "Open · Closes 9:30 PM",
+      "hours": "Open · Closes 9:30 PM",
+      "operating_hours": {
+        "thursday": "7 AM–9:30 PM",
+        "friday": "7 AM–9:30 PM",
+        "saturday": "7 AM–9:30 PM",
+        "sunday": "7 AM–9:30 PM",
+        "monday": "7 AM–9:30 PM",
+        "tuesday": "7 AM–9:30 PM",
+        "wednesday": "7 AM–9:30 PM"
+      },
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Tjh0fO2HFEDKFQw4QuFGEQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=324.20575&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/N0ZtUXicHc3NDcIgGADQbbgJFNv4k3zxYquJB9PEu6GUAoYWArToOm7lNhoXeO_z1in5uCckpiBlWozM3jyljSvPsXJOWcm9iVi4kSwFSXoeu4kbe_B8cqaH20PT4crOTX28NG0u27k51S0S3V1YI6cEUfIgNFb5JwbXYxV4jCjDliINO4ZePMOalZjRalMhb5LQQNH_GdwCBaVfvBc5pg"
+    },
+    {
+      "position": 20,
+      "title": "Narayani Fancy Store",
+      "place_id": "ChIJCxmJeOL1UjoRZfdAsWRWtXE",
+      "data_id": "0x3a52f5e27889190b:0x71b55664b140f765",
+      "data_cid": "8193550087541028709",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3a52f5e27889190b%3A0x71b55664b140f765&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3a52f5e27889190b%3A0x71b55664b140f765&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.8929891,
+        "longitude": 80.083714
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJCxmJeOL1UjoRZfdAsWRWtXE",
+      "provider_id": "/g/1ptxm8713",
+      "rating": 3.5,
+      "reviews": 14,
+      "type": "Fashion accessories store",
+      "types": [
+        "Fashion accessories store",
+        "Car rental agency",
+        "Gift shop",
+        "Jeweler",
+        "Payphone",
+        "Stationery store"
+      ],
+      "address": "1/214, Walajabad Rd, Vandalur, Chennai, Tamil Nadu 600048, India",
+      "country": "India",
+      "open_state": "Open · Closes 9 PM",
+      "hours": "Open · Closes 9 PM",
+      "operating_hours": {
+        "thursday": "10 AM–9 PM",
+        "friday": "10 AM–9 PM",
+        "saturday": "10 AM–9 PM",
+        "sunday": "Closed",
+        "monday": "10 AM–9 PM",
+        "tuesday": "10 AM–9 PM",
+        "wednesday": "10 AM–9 PM"
+      },
+      "phone": "+91 97105 88322",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW2nUUUztUJtuJyYxfvYqfkd8GzKh51oIDGeFRYN-ZwQgr4nAppoqyq--qxwTAu2fKSNzQhMR-r4VxF-Y-PrBnidX7xmtMgH0i59n1N2fLRQAfHB74BvhW2k6afhejw20udbKv3Vep6QaWZlAV7QGEeLKDzhMj921M7yU0uHTrVV2Uy8YReqLXdhgYOZLicZVI0gzalr6w=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/BtG4FXicHcRLcoIwAADQ6b5XiYSIop3pAsYKCthCBYQdhZCgmEAI36P2NJ3pW7zfl1cqZdO9KUpN1yvCOalx32GRcyYxk6ucPxUisq4DjeDTrBgnTycxYmEYLjI8y_48J1M5JG35KHbW4tCNyk8HCx-D5ALS0SdCY0bT8HZuAWin8Wr0qHS-L4tPvQAILZqOIAFfwmRVcdOnp_SIDavNnqkXVLqBb5S2qWvmQGP02GYlxfcRwb74cYZ1hJutn8VpbUS6b31g1zks1Lvvkerpcwh7-yqiCIXzLglw694KSpLP1K3yNDpBsmS12I7vowohBPT_HLA_tahcTA"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&q=shops+near+vandalur+Chennai&start=20&type=search"
+  }
+}

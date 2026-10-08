@@ -1,16 +1,30 @@
 import { Agent } from '@mastra/core/agent';
 import { createOllama } from 'ollama-ai-provider';
+import { createGroq } from '@ai-sdk/groq';
 import type { FactSheet } from '../../lib/factsheet';
 import type { DifficultyTier } from '../../lib/clues';
 
-const baseUrl = process.env.OLLAMA_BASE_URL
-	? `${process.env.OLLAMA_BASE_URL.replace(/\/+$/, '')}/api`
-	: 'http://localhost:11434/api';
-const modelName = process.env.OLLAMA_MODEL || 'llama3.2';
+function createModelInstance() {
+	if (process.env.GROQ_API_KEY) {
+		const groq = createGroq({
+			apiKey: process.env.GROQ_API_KEY
+		});
+		const modelName = process.env.GROQ_MODEL || 'llama-3.2-3b-preview';
+		return groq(modelName);
+	}
 
-const ollama = createOllama({
-	baseURL: baseUrl
-});
+	const baseUrl = process.env.OLLAMA_BASE_URL
+		? `${process.env.OLLAMA_BASE_URL.replace(/\/+$/, '')}/api`
+		: 'http://localhost:11434/api';
+	const modelName = process.env.OLLAMA_MODEL || 'llama3.2';
+
+	const ollama = createOllama({
+		baseURL: baseUrl
+	});
+	return ollama(modelName, {
+		numCtx: 2048
+	});
+}
 
 // Clue Writer Mastra Agent configured per Data Contract
 export const clueWriterAgent = new Agent({
@@ -18,9 +32,7 @@ export const clueWriterAgent = new Agent({
 	name: 'clue-writer',
 	instructions:
 		'You are a playful riddle writer for an outdoor walking scavenger hunt. Rewrite factual clue templates into concise riddles without adding new facts or revealing place names.',
-	model: ollama(modelName, {
-		numCtx: 2048
-	})
+	model: createModelInstance()
 });
 
 // Construct pure text prompt complying with Data Contract model prompt contract
@@ -80,15 +92,28 @@ export async function writeClueRiddle(
 	previousFailureReasons?: string[]
 ): Promise<string> {
 	const prompt = buildWriterPrompt(tier, baseClue, fact, previousFailureReasons);
-	// Use generateLegacy for AI SDK v4 Ollama model compatibility in Mastra
 	const agentAny = clueWriterAgent as unknown as {
 		generateLegacy?: (p: string) => Promise<{ text: string }>;
 		generate: (p: string) => Promise<{ text: string }>;
 	};
 
-	const response = typeof agentAny.generateLegacy === 'function'
-		? await agentAny.generateLegacy(prompt)
-		: await agentAny.generate(prompt);
+	// Handle both AI SDK v4 Ollama legacy method and standard generate()
+	let response: { text: string };
+	try {
+		if (process.env.GROQ_API_KEY) {
+			response = await agentAny.generate(prompt);
+		} else if (typeof agentAny.generateLegacy === 'function') {
+			response = await agentAny.generateLegacy(prompt);
+		} else {
+			response = await agentAny.generate(prompt);
+		}
+	} catch {
+		if (typeof agentAny.generateLegacy === 'function') {
+			response = await agentAny.generateLegacy(prompt);
+		} else {
+			response = await agentAny.generate(prompt);
+		}
+	}
 
 	// Strip surrounding quotes and whitespace
 	return response.text.trim().replace(/^["']|["']$/g, '');

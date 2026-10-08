@@ -14,6 +14,7 @@
     "gate:sentry": "tsx scripts/gate-sentry.ts"
   },
   "dependencies": {
+    "@ai-sdk/groq": "^4.0.58",
     "@mastra/core": "^1.75.0",
     "@mastra/sentry": "^1.2.24",
     "@sentry/nextjs": "^11.5.0",
