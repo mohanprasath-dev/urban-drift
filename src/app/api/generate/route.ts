@@ -62,7 +62,7 @@ export async function POST(req: NextRequest) {
 		// Handle specific known error scenarios with user-friendly messages
 		if (message.includes('ECONNREFUSED') || message.includes('Failed to fetch') || message.includes('fetch failed')) {
 			return NextResponse.json(
-				{ error: 'Cannot connect to Ollama. Ensure Ollama is running locally on port 11434 (run "ollama serve").' },
+				{ error: 'Cannot connect to model provider. Check Groq API configuration or local Ollama server.' },
 				{ status: 503 }
 			);
 		}
